@@ -1,0 +1,668 @@
+<Paper id ="P88-1001">
+<title>ADAPTING AN ENGLISH MORPHOLOGICAL ANALYZER FOR FRENCH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Roy</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Evelyne</FirstName>
+<SecondName>Tzoukermann</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1002">
+<title>SENTENCE FRAGMENTS REGULAR STRUCTURES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marcia</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Deborah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Lynette</FirstName>
+<SecondName>Hirschman</SecondName>
+</Author>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1003">
+<title>MULTI-LEVEL PLURALS AND DISTRIBUTIVITY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Remko</FirstName>
+<SecondName>Scha</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Stallard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1004">
+<title>THE INTERPRETATION OF RELATIONAL NOUNS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jos</FirstName>
+<SecondName>de</SecondName>
+</Author>
+<Author>
+<FirstName>Remko</FirstName>
+<SecondName>Scha</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1005">
+<title>QUANTIFIER SLOPING IN THE SRI CORE LANGUAGE ENGINE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1006">
+<title>A General Computational Treatment of Comparatives for Natural Language Question Answering</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bruce</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1007">
+<title>PARSING AND INTERPRETING COMPARATIVES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Manny</FirstName>
+<SecondName>Rayner</SecondName>
+</Author>
+<Author>
+<FirstName>Amelie</FirstName>
+<SecondName>Banks</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1008">
+<title>Defining the Semantics of Verbal Modifiers in the Domain of Cooking Tasks</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robin</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1009">
+<title>THE INTERPRETATION OF TENSE AND ASPECT IN ENGLISH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mary</FirstName>
+<SecondName>Dalrymple</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1010">
+<title>An Integrated Framework for Semantic and Pragmatic Interpretation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.N.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1011">
+<title>A Logic for Semantic Interpretation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Goldman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1012">
+<title>Interpretation as Abduction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jerry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Stickel</SecondName>
+</Author>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>Martin</SecondName>
+</Author>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>Edwards</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1013">
+<title>PROJECT APRIL A PROGRESS REPORT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robin</FirstName>
+<SecondName>Haigh</SecondName>
+</Author>
+<Author>
+<FirstName>Geoffrey</FirstName>
+<SecondName>Sampson</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Atwell</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1014">
+<title>DISCOURSE DEIXIS: REFERENCE TO DISCOURSE SEGMENTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Lynn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1015">
+<title>Cues and control in Expert-Client Dialogues</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Steve</FirstName>
+<SecondName>Whittaker</SecondName>
+</Author>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Stenton</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1016">
+<title>A COMPUTATIONAL THEORY OF PERSPECTIVE AND REFERENCE IN NARRATIVE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1017">
+<title>PARSING JAPANESE HONORIFICS IN UNIFICATION-BASED GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiroyuki</FirstName>
+<SecondName>Maeda</SecondName>
+</Author>
+<Author>
+<FirstName>Susumu</FirstName>
+<SecondName>Kato</SecondName>
+</Author>
+<Author>
+<FirstName>Kiyoshi</FirstName>
+<SecondName>Kogure</SecondName>
+</Author>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>Iida</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1018">
+<title>ASPECTS OF CLAUSE POLITENESS IN JAPANESE: AN EXTENDED INQUIRY SEMANTICS TREATMENT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1019">
+<title>EXPERIENCES WITH AN ON-LINE TRANSLATING DIALOGUE SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Seiji</FirstName>
+<SecondName>Miike</SecondName>
+</Author>
+<Author>
+<FirstName>Koichi</FirstName>
+<SecondName>Hasebe</SecondName>
+</Author>
+<Author>
+<FirstName>Harold</FirstName>
+<SecondName>Somers</SecondName>
+</Author>
+<Author>
+<FirstName>Shin-ya</FirstName>
+<SecondName>Amano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1020">
+<title>PLANNING COHERENT MULTISENTENTIAL TEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1021">
+<title>A Practical Nonmonotonic Theory for Reasoning about Speech Acts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>Appelt</SecondName>
+</Author>
+<Author>
+<FirstName>Kurt</FirstName>
+<SecondName>Konolige</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1022">
+<title>TWO TYPES OF PLANNING IN LANGUAGE GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1023">
+<title>Assigning Intonational Features in Synthesized Spoken Directions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Raymond</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1024">
+<title>ATOMIZATION IN GRAMMAR SHARING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Megumi</FirstName>
+<SecondName>Kameyama</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1025">
+<title>SYNTACTIC APPROACHES TO AUTOMATIC BOOK INDEXING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gerard</FirstName>
+<SecondName>Salton</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1026">
+<title>Lexicon and grammar in probabilistic tagging of written English.</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>David</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1027">
+<title>PARSING VS. TEXT PROCESSING IN THE ANALYSIS OF DICTIONARY DEFINITIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Ahlswede</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Evens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1028">
+<title>Polynomial Learnability and Locality of Formal Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Naoki</FirstName>
+<SecondName>Abe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1029">
+<title>Conditional Descriptions in Functional Unification Grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1030">
+<title>DEDUCTIVE PARSING WITH MULTIPLE LEVELS OF REPRESENTATION.</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1031">
+<title>Graph-structured Stack and Natural Language Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Masaru</FirstName>
+<SecondName>Tomita</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1032">
+<title>AN EARLEY-TYPE PARSING ALGORITHM FOR TREE ADJOINING GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yves</FirstName>
+<SecondName>Schabes</SecondName>
+</Author>
+<Author>
+<FirstName>Aravjnd</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1033">
+<title>A DEFINITE CLAUSE VERSION OF CATEGORIAL GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Remo</FirstName>
+<SecondName>Pareschi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1034">
+<title>COMBINATORY CATEGORIAL GRAMMARS: GENERATIVE POWER AND RELATIONSHIP TO LINEAR CONTEXT-FREE REWRITING SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>
+
+
+
+
+<Paper id ="P88-1035">
+<title>Unification of Disjunctive Feature Descriptions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Eisele</SecondName>
+</Author>
+<Author>
+<FirstName>Jochen</FirstName>
+<SecondName>Dorre</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1988</Year>
+</Paper>

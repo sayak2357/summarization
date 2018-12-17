@@ -1,0 +1,684 @@
+<Paper id ="P82-1001">
+<title>TRANSLATING ENGLISH INTO LOGICAL FORM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stanley</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1002">
+<title>LINGUISTIC AND COMPUTATIONAL SEMANTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Cantwell</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1003">
+<title>THE REPRESENTATION OF INCONSISTENT INFORMATION IN A DYNAMIC MODEL-THEORETIC SEMANTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1004">
+<title>What's in a Semantic Network?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1005">
+<title>DEPENDENCIES OF DISCOURSE STRUCTURE ON THE MODALITY OF COMMUNICATION: TELEPHONE vs. TELETYPE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Fertig</SecondName>
+</Author>
+<Author>
+<FirstName>Kathy</FirstName>
+<SecondName>Starr</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1006">
+<title>TOWARDS A THEORY OF COMPREHENSION OF DECLARATIVE CONTEXTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Gomez</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1007">
+<title>NATURAL-LANGUAGE ACCESS TO DATABASES-THEORETICAL/TECHNICAL ISSUES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1008">
+<title>TRANSPORTABLE NATURAL-LANGUAGE INTERFACES: PROBLEMS AND TECHNIQUES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1009">
+<title>THEORETICAL/TECHNICAL ISSUES IN NATURAL LANGUAGE ACCESS TO DATABASES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>S.</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1010">
+<title>ENGLISH WORDS AND DATA BASES: HOW TO BRIDGE THE GAP</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Remko</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1011">
+<title>Problems With Domain-Independent Natural Language Database Access Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1012">
+<title>ISSUES IN NATURAL LANGUAGE ACCESS TO DATABASES FROM A LOGIC PROGRAMMING PERSPECTIVE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1013">
+<title>NATURAL LANGUAGE DATABASE UPDATES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Maier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1014">
+<title>PROCESSING ENGLISH WITH A GENERALIZED PHRASE STRUCTURE GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jean</FirstName>
+<SecondName>Mark</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>King</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Lamping</SecondName>
+</Author>
+<Author>
+<FirstName>Egon</FirstName>
+<SecondName>Loebner</SecondName>
+</Author>
+<Author>
+<FirstName>E.</FirstName>
+<SecondName>Anne</SecondName>
+</Author>
+<Author>
+<FirstName>Geoffrey</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Wasow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1015">
+<title>Experience with an Easily Computed Metric for Ranking Alternative Parses</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1016">
+<title>An Improved Heuristic for Ellipsis Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Norman</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1017">
+<title>REFLECTIONS ON 20 YEARS OF THE ACL AN INTRODUCTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1018">
+<title>OUR DOUBLE ANNIVERSARY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Victor</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1019">
+<title>2002: ANOTHER SCORE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1020">
+<title>MY TERM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Winfred</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1021">
+<title>A SOCIETY IN TRANSITION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1022">
+<title>THEMES FROM 1972</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1023">
+<title>TWENTY YEARS OF REFLECTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1024">
+<title>ACL IN 1977</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1025">
+<title>REFLECTIONS ON TWENTY YEARS OF THE ACL</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Allen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1026">
+<title>ON THE PRESENT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Norman</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1027">
+<title>PLANNING NATURAL LANGUAGE REFERRING EXPRESSIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1028">
+<title>THE TEXT SYSTEM FOR NATURAL LANGUAGE GENERATION: AN OVERVIEW</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1029">
+<title>AUGMENTING A DATABASE KNOWLEDGE REPRESENTATION FOR NATURAL LANGUAGE GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1030">
+<title>SALIENCE: THE KEY TO THE SELECTION PROBLEM IN NATURAL LANGUAGE GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>E.</FirstName>
+<SecondName>Jeffrey</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1031">
+<title>A KNOWLEDGE ENGINEERING APPROACH TO NATURAL LANGUAGE UNDERSTANDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Jeannette</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1032">
+<title>A Model of Early Syntactic Development</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pat</FirstName>
+<SecondName>Langley</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1033">
+<title>BUILDING NON-NORMATIVE SYSTEMS - THE SEARCH FOR ROBUSTNESS AN OVERVIEW</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mitchell</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1034">
+<title>DESIGN DIMENSIONS FOR NON-NORMATIVE UNDERSTANDING SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1035">
+<title>Scruffy Text Understanding: Design and Implementation of 'Tolerant' Understanders</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1036">
+<title>ON THE LINGUISTIC CHARACTER OF NON-STANDARD INPUT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anthony</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Hindle</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1037">
+<title>Ill-Formed and Non-Standard Language Problems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stan</FirstName>
+<SecondName>Kwasny</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1038">
+<title>"NATURAL LANGUAGE TEXTS ARE NOT NECESSARILY GRAMMATICAL AND UNAMBIGUOUS OR EVEN COMPLETE."</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lance</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>
+
+
+
+
+<Paper id ="P82-1039">
+<title>SOLUTIONS TO ISSUES DEPEND ON THE KNOWLEDGE REPRESENTATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Frederick</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1982</Year>
+</Paper>

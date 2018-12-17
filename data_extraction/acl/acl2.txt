@@ -1,0 +1,1420 @@
+<Paper id ="P02-1001">
+<title>Parameter Estimation for Probabilistic Finite-State Transducers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1002">
+<title>Sequential Conditional Generalized Iterative Scaling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1003">
+<title>Generation as Dependency Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Koller</SecondName>
+</Author>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Striegnitz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1004">
+<title>Machine-learned contexts for linguistic operations in German sentence realization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Gamon</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Ringger</SecondName>
+</Author>
+<Author>
+<FirstName>Simon</FirstName>
+<SecondName>Corston-Oliver</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Moore</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1005">
+<title>Performance Issues and Error Analysis in an Open-Domain Question Answering System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Moldovan</SecondName>
+</Author>
+<Author>
+<FirstName>Marius</FirstName>
+<SecondName>Pasca</SecondName>
+</Author>
+<Author>
+<FirstName>Sanda</FirstName>
+<SecondName>Harabagiu</SecondName>
+</Author>
+<Author>
+<FirstName>Mihai</FirstName>
+<SecondName>Surdeanu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1006">
+<title>Learning surface text patterns for a Question Answering System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Deepak</FirstName>
+<SecondName>Ravichandran</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1007">
+<title>OT Syntax - Decidability of Generation-based Optimization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonas</FirstName>
+<SecondName>Kuhn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1008">
+<title>Phonological Comprehension and the Compilation of Optimality Theory</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1009">
+<title>Generalized Encoding of Description Spaces and its Application to Typed Feature Structures</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gerald</FirstName>
+<SecondName>Penn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1010">
+<title>Ellipsis Resolution with Underspecified Scope</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Schiehlen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1011">
+<title>Resolving Pronominal Reference to Abstract Entities</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donna</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1012">
+<title>Pronominalization in Generated Discourse and Dialogue</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Charles</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1013">
+<title>Generating Minimal Definite Descriptions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Gardent</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1014">
+<title>Improving Machine Learning Approaches to Coreference Resolution</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1015">
+<title>Parsing non-recursive CFGs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark-Jan</FirstName>
+<SecondName>Nederhof</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1016">
+<title>Active Learning for Statistical Natural Language Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoqiang</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Salim</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1017">
+<title>A Generative Constituent-Context Model for Improved Grammar Induction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1018">
+<title>A Simple Pattern-matching Algorithm for Recovering Empty Nodes and their Antecedents</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1019">
+<title>Pronunciation Modeling for Improved Spelling Correction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Moore</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1020">
+<title>Measuring Text Reuse</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>Clough</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>S.L.</SecondName>
+</Author>
+<Author>
+<FirstName>Yorick</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1021">
+<title>Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Serguei</FirstName>
+<SecondName>Pakhomov</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1022">
+<title>GATE: an Architecture for Development of Robust HLT applications</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hamish</FirstName>
+<SecondName>Cunningham</SecondName>
+</Author>
+<Author>
+<FirstName>Diana</FirstName>
+<SecondName>Maynard</SecondName>
+</Author>
+<Author>
+<FirstName>Kalina</FirstName>
+<SecondName>Bontcheva</SecondName>
+</Author>
+<Author>
+<FirstName>Valentin</FirstName>
+<SecondName>Tablan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1023">
+<title>Improving Language Model Size Reduction using Better Pruning Criteria</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1024">
+<title>Exploring Asymmetric Clustering for Statistical Language Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+<Author>
+<FirstName>Guihong</FirstName>
+<SecondName>Cao</SecondName>
+</Author>
+<Author>
+<FirstName>Hang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1025">
+<title>A Study on Richer Syntactic Dependencies for Structured Language Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Ciprian</FirstName>
+<SecondName>Chelba</SecondName>
+</Author>
+<Author>
+<FirstName>Frederick</FirstName>
+<SecondName>Jelinek</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1026">
+<title>Entropy Rate Constancy in Text</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dmitriy</FirstName>
+<SecondName>Genzel</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1027">
+<title>A Multilingual Paradigm for Automatic Verb Classification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Paola</FirstName>
+<SecondName>Merlo</SecondName>
+</Author>
+<Author>
+<FirstName>Suzanne</FirstName>
+<SecondName>Stevenson</SecondName>
+</Author>
+<Author>
+<FirstName>Vivian</FirstName>
+<SecondName>Tsang</SecondName>
+</Author>
+<Author>
+<FirstName>Gianluca</FirstName>
+<SecondName>Allaria</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1028">
+<title>Verb Paraphrase based on Case Frame Alignment</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nobuhiro</FirstName>
+<SecondName>Kaji</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Kawahara</SecondName>
+</Author>
+<Author>
+<FirstName>Sadao</FirstName>
+<SecondName>Kurohashi</SecondName>
+</Author>
+<Author>
+<FirstName>Satoshi</FirstName>
+<SecondName>Sato</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1029">
+<title>Inducing German Semantic Verb Classes from Purely Syntactic Subcategorisation Information</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Schulte</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Brew</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1030">
+<title>Scaling Context Space</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Curran</SecondName>
+</Author>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Moens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1031">
+<title>The Necessity of Parsing for Predicate Argument Recognition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1032">
+<title>The Descent of Hierarchy, and Selection in Relational Semantics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Rosario</SecondName>
+</Author>
+<Author>
+<FirstName>Marti</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Charles</FirstName>
+<SecondName>Fillmore</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1033">
+<title>An Unsupervised Method for Word Sense Tagging using Parallel Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mona</FirstName>
+<SecondName>Diab</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1034">
+<title>New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Nigel</FirstName>
+<SecondName>Duffy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1035">
+<title>Parsing the Wall Street Journal using a Lexical-Functional Grammar and Discriminative Estimation Techniques</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Riezler</SecondName>
+</Author>
+<Author>
+<FirstName>Tracy</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+<Author>
+<FirstName>Ronald</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Crouch</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1036">
+<title>Dynamic programming for parsing and estimation of stochastic unification-based grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>Geman</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1037">
+<title>Markov Parsing: Lattice Rescoring with a Statistical Parser</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Roark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1038">
+<title>Discriminative Training and Maximum Entropy Models for Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>Josef</SecondName>
+</Author>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1039">
+<title>A Decoder for Syntax-based Statistical MT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName>Yamada</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1040">
+<title>Bleu: a Method for Automatic Evaluation of Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kishore</FirstName>
+<SecondName>Papineni</SecondName>
+</Author>
+<Author>
+<FirstName>Salim</FirstName>
+<SecondName>Roukos</SecondName>
+</Author>
+<Author>
+<FirstName>Todd</FirstName>
+<SecondName>Ward</SecondName>
+</Author>
+<Author>
+<FirstName>Wei-Jing</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1041">
+<title>Coupling CCG and Hybrid Logic Dependency Semantics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Baldridge</SecondName>
+</Author>
+<Author>
+<FirstName>Geert-Jan</FirstName>
+<SecondName>Kruijff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1042">
+<title>Building Deep Dependency Structures using a Wide-Coverage CCG Parser</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1043">
+<title>Generative Models for Statistical Parsing with Combinatory Categorial Grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1044">
+<title>Word Translation Disambiguation Using Bilingual Bootstrapping</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cong</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Hang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1045">
+<title>Applying Co-Training to Reference Resolution</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christoph</FirstName>
+<SecondName>Mueller</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Rapp</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1046">
+<title>Bootstrapping</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Abney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1047">
+<title>An Unsupervised Approach to Recognizing Discourse Relations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+<Author>
+<FirstName>Abdessamad</FirstName>
+<SecondName>Echihabi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1048">
+<title>MATCH: An Architecture for Multimodal Dialogue Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Johnston</SecondName>
+</Author>
+<Author>
+<FirstName></FirstName>
+<SecondName>SrinivasBangalore</SecondName>
+</Author>
+<Author>
+<FirstName>Gunaranjan</FirstName>
+<SecondName>Vasireddy</SecondName>
+</Author>
+<Author>
+<FirstName>Amanda</FirstName>
+<SecondName>Stent</SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Ehlen</SecondName>
+</Author>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Steve</FirstName>
+<SecondName>Whittaker</SecondName>
+</Author>
+<Author>
+<FirstName>Preetam</FirstName>
+<SecondName>Maloor</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1049">
+<title>What's the Trouble: Automatically Identifying Problematic Dialogues in DARPA Communicator Dialogue Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Helen</FirstName>
+<SecondName>Wright</SecondName>
+</Author>
+<Author>
+<FirstName>Rashmi</FirstName>
+<SecondName>Prasad</SecondName>
+</Author>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>Walker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1050">
+<title>Evaluating Translational Correspondence using Annotation Projection</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Hwa</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+<Author>
+<FirstName>Amy</FirstName>
+<SecondName>Weinberg</SecondName>
+</Author>
+<Author>
+<FirstName>Okan</FirstName>
+<SecondName>Kolak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1051">
+<title>Translating Named Entities Using Monolingual and Bilingual Resources</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yaser</FirstName>
+<SecondName>Al-Onaizan</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1052">
+<title>Using Similarity Scoring to Improve the Bilingual Dictionary for Sub-sentential Alignment</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Katharina</FirstName>
+<SecondName>Probst</SecondName>
+</Author>
+<Author>
+<FirstName>Ralf</FirstName>
+<SecondName>Brown</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1053">
+<title>Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Turney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1054">
+<title>Is It the Right Answer? Exploiting Web Redundancy for Answer Validation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bernardo</FirstName>
+<SecondName>Magnini</SecondName>
+</Author>
+<Author>
+<FirstName>Matteo</FirstName>
+<SecondName>Negri</SecondName>
+</Author>
+<Author>
+<FirstName>Roberto</FirstName>
+<SecondName>Prevete</SecondName>
+</Author>
+<Author>
+<FirstName>Hristo</FirstName>
+<SecondName>Tanev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1055">
+<title>Shallow Parsing on the Basis of Words Only: A Case Study</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Antal</FirstName>
+<SecondName>van</SecondName>
+</Author>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Buchholz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1056">
+<title>An Integrated Archictecture for Shallow and Deep Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Berthold</FirstName>
+<SecondName>Crysmann</SecondName>
+</Author>
+<Author>
+<FirstName>Anette</FirstName>
+<SecondName>Frank</SecondName>
+</Author>
+<Author>
+<FirstName>Kiefer</FirstName>
+<SecondName>Bernd</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Mueller</SecondName>
+</Author>
+<Author>
+<FirstName>Guenter</FirstName>
+<SecondName>Neumann</SecondName>
+</Author>
+<Author>
+<FirstName>Jakub</FirstName>
+<SecondName>Piskorski</SecondName>
+</Author>
+<Author>
+<FirstName>Ulrich</FirstName>
+<SecondName>Schaefer</SecondName>
+</Author>
+<Author>
+<FirstName>Melanie</FirstName>
+<SecondName>Siegel</SecondName>
+</Author>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+<Author>
+<FirstName>Feiyu</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Markus</FirstName>
+<SecondName>Becker</SecondName>
+</Author>
+<Author>
+<FirstName>Hans-Ulrich</FirstName>
+<SecondName>Krieger</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1057">
+<title>A Noisy-Channel Model for Document Compression</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hal</FirstName>
+<SecondName>Daume</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1058">
+<title>From Single to Multi-document Summarization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chin-Yew</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1059">
+<title>Supervised Ranking in Open-Domain Text Summarization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tadashi</FirstName>
+<SecondName>Nomoto</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1060">
+<title>Named Entity Recognition using an HMM-based Chunk Tagger</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>GuoDong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1061">
+<title>Teaching a Weaker Classifier: Named Entity Recognition on Upper Case Text</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hai</FirstName>
+<SecondName>Leong</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1062">
+<title>Ranking Algorithms for Named Entity Extraction: Boosting and the VotedPerceptron</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1063">
+<title>Revision Learning and its Application to Part-of-Speech Tagging</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tetsuji</FirstName>
+<SecondName>Nakagawa</SecondName>
+</Author>
+<Author>
+<FirstName>Taku</FirstName>
+<SecondName>Kudo</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1064">
+<title>An Empirical Study of Active Learning with Support Vector Machines forJapanese Word Segmentation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Sassano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="P02-1065">
+<title>Memory-Based Learning of Morphology with Stochastic Transducers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>

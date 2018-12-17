@@ -1,0 +1,1964 @@
+<Paper id ="P04-1001">
+<title>Optimization in Multimodal Interpretation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joyce</FirstName>
+<SecondName>Y.</SecondName>
+</Author>
+<Author>
+<FirstName>Pengyu</FirstName>
+<SecondName>Hong</SecondName>
+</Author>
+<Author>
+<FirstName>Michelle</FirstName>
+<SecondName>X.</SecondName>
+</Author>
+<Author>
+<FirstName>Zahar</FirstName>
+<SecondName>Prasov</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1002">
+<title>Constructivist Development of Grounded Construction Grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Luc</FirstName>
+<SecondName>Steels</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1003">
+<title>A Distributional Model of Semantic Context Effects in Lexical Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>McDonald</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Brew</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1004">
+<title>Analysis of Mixed Natural and Symbolic Input in Mathematical Dialogs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Magdalena</FirstName>
+<SecondName>Wolska</SecondName>
+</Author>
+<Author>
+<FirstName>Ivana</FirstName>
+<SecondName>Kruijff-Korbayova</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1005">
+<title>A TAG-based noisy-channel model of speech repairs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1006">
+<title>Attention Shifting for Parsing Speech</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Keith</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1007">
+<title>Discriminative Language Modeling with Conditional Random Fields and the Perceptron Algorithm</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Roark</SecondName>
+</Author>
+<Author>
+<FirstName>Murat</FirstName>
+<SecondName>Saraclar</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1008">
+<title>Statistical Modeling for Unit Selection in Speech Synthesis</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mehryar</FirstName>
+<SecondName>Mohri</SecondName>
+</Author>
+<Author>
+<FirstName>Cyril</FirstName>
+<SecondName>Allauzen</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Riley</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1009">
+<title>Developing a Flexible Spoken Dialog System Using Simulation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Grace</FirstName>
+<SecondName>Chung</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1010">
+<title>Data-Driven Strategies for an Automated Dialogue System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hilda</FirstName>
+<SecondName>Hardy</SecondName>
+</Author>
+<Author>
+<FirstName>Tomek</FirstName>
+<SecondName>Strzalkowski</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Cristian</FirstName>
+<SecondName>Ursu</SecondName>
+</Author>
+<Author>
+<FirstName>Nick</FirstName>
+<SecondName>Webb</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>Biermann</SecondName>
+</Author>
+<Author>
+<FirstName>R.</FirstName>
+<SecondName>Bryce</SecondName>
+</Author>
+<Author>
+<FirstName>Ashley</FirstName>
+<SecondName>McKenzie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1011">
+<title>Trainable Sentence Planning for Complex Information Presentations in Spoken Dialog Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Amanda</FirstName>
+<SecondName>Stent</SecondName>
+</Author>
+<Author>
+<FirstName>Rashmi</FirstName>
+<SecondName>Prassad</SecondName>
+</Author>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>Walker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1012">
+<title>User Expertise Modeling and Adaptivity in a Speech-Based E-Mail System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kristiina</FirstName>
+<SecondName>Jokinen</SecondName>
+</Author>
+<Author>
+<FirstName>Kari</FirstName>
+<SecondName>Kanto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1013">
+<title>Discriminative Training of a Neural Network Statistical Parser</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1014">
+<title>Parsing the WSJ Using CCG and Log-Linear Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1015">
+<title>Incremental Parsing with the Perceptron Algorithm</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Roark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1016">
+<title>Convolution Kernels with Feature Selection for Natural Language Processing Tasks</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jun</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+<Author>
+<FirstName>Hideki</FirstName>
+<SecondName>Isozaki</SecondName>
+</Author>
+<Author>
+<FirstName>Eisaku</FirstName>
+<SecondName>Maeda</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1017">
+<title>Improving Pronoun Resolution by Incorporating Coreferential Information of Candidates</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiaofeng</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Guodong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Chew-Lim</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1018">
+<title>A Mention-Synchronous Coreference Resolution Algorithm Based On the Bell Tree</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiaoqiang</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Abe</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+<Author>
+<FirstName>Hongyan</FirstName>
+<SecondName>Jing</SecondName>
+</Author>
+<Author>
+<FirstName>Nanda</FirstName>
+<SecondName>Kambhatla</SecondName>
+</Author>
+<Author>
+<FirstName>Salim</FirstName>
+<SecondName>Roukos</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1019">
+<title>Learning to Resolve Bridging References</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Massimo</FirstName>
+<SecondName>Poesio</SecondName>
+</Author>
+<Author>
+<FirstName>Rahul</FirstName>
+<SecondName>Mehta</SecondName>
+</Author>
+<Author>
+<FirstName>Axel</FirstName>
+<SecondName>Maroudas</SecondName>
+</Author>
+<Author>
+<FirstName>Janet</FirstName>
+<SecondName>Hitzeman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1020">
+<title>Learning Noun Phrase Anaphoricity to Improve Conference Resolution: Issues in Representation and Optimization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1021">
+<title>A Joint Source-Channel Model for Machine Transliteration</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Haizhou</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1022">
+<title>Collocation Translation Acquisition Using Monolingual Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yajuan</FirstName>
+<SecondName>Lü</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1023">
+<title>Statistical Machine Translation with Word- and Sentence-Aligned Parallel Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Callison-Burch</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Talbot</SecondName>
+</Author>
+<Author>
+<FirstName>Miles</FirstName>
+<SecondName>Osborne</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1024">
+<title>Finding Ideographic Representations of Japanese Names Written in Latin Script via Language Identification and Corpus Validation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yan</FirstName>
+<SecondName>Qu</SecondName>
+</Author>
+<Author>
+<FirstName>Gregory</FirstName>
+<SecondName>Grefenstette</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1025">
+<title>Extracting Regulatory Gene Expression Networks From Pubmed</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jasmin</FirstName>
+<SecondName>Saric</SecondName>
+</Author>
+<Author>
+<FirstName>Lars</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Peer</FirstName>
+<SecondName>Bork</SecondName>
+</Author>
+<Author>
+<FirstName>Rossitza</FirstName>
+<SecondName>Ouzounova</SecondName>
+</Author>
+<Author>
+<FirstName>Isabel</FirstName>
+<SecondName>Rojas</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1026">
+<title>Linguistic Profiling for Authorship Recognition and Verification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1027">
+<title>An Empirical Study of Information Synthesis Task</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Enrique</FirstName>
+<SecondName>Amigo</SecondName>
+</Author>
+<Author>
+<FirstName>Julio</FirstName>
+<SecondName>Gonzalo</SecondName>
+</Author>
+<Author>
+<FirstName>Victor</FirstName>
+<SecondName>Peinado</SecondName>
+</Author>
+<Author>
+<FirstName>Anselmo</FirstName>
+<SecondName>Peñas</SecondName>
+</Author>
+<Author>
+<FirstName>Felisa</FirstName>
+<SecondName>Verdejo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1028">
+<title>Mining Metalinguistic Activity in Corpora to Create Lexical Resources Using Information Extraction Techniques: the MOP System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>Rodriguez</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1029">
+<title>Optimizing Typed Feature Structure Grammar Parsing through Non-Statistical Indexing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cosmin</FirstName>
+<SecondName>Munteanu</SecondName>
+</Author>
+<Author>
+<FirstName>Gerald</FirstName>
+<SecondName>Penn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1030">
+<title>Head-Driven Parsing for Word Lattices</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Bob</FirstName>
+<SecondName>Carpenter</SecondName>
+</Author>
+<Author>
+<FirstName>Gerald</FirstName>
+<SecondName>Penn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1031">
+<title>Balancing Clarity and Efficiency in Typed Feature Logic Through Delaying</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gerald</FirstName>
+<SecondName>Penn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1032">
+<title>Minimal Recursion Semantics as Dominance Constraints: Translation, Evaluation, and Analysis</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ruth</FirstName>
+<SecondName>Fuchss</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Koller</SecondName>
+</Author>
+<Author>
+<FirstName>Joachim</FirstName>
+<SecondName>Niehren</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Thater</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1033">
+<title>Learning with Unlabeled Data for Text Categorization Using a Bootstrapping and a Feature Projection Technique</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Youngjoong</FirstName>
+<SecondName>Ko</SecondName>
+</Author>
+<Author>
+<FirstName>Jungyun</FirstName>
+<SecondName>Seo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1034">
+<title>The Sentimental Factor: Improving Review Classification Via Human-Provided Information</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Beineke</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Hastie</SecondName>
+</Author>
+<Author>
+<FirstName>Shivakumar</FirstName>
+<SecondName>Vaithyanathan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1035">
+<title>A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Pang</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1036">
+<title>Finding Predominant Word Senses in Untagged Text</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Diana</FirstName>
+<SecondName>McCarthy</SecondName>
+</Author>
+<Author>
+<FirstName>Rob</FirstName>
+<SecondName>Koeling</SecondName>
+</Author>
+<Author>
+<FirstName>Julie</FirstName>
+<SecondName>Weeds</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1037">
+<title>Unsupervised Sense Disambiguation Using Bilingual Probabilistic Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Indrajit</FirstName>
+<SecondName>Bhattacharya</SecondName>
+</Author>
+<Author>
+<FirstName>Lise</FirstName>
+<SecondName>Getoor</SecondName>
+</Author>
+<Author>
+<FirstName>Yoshua</FirstName>
+<SecondName>Bengio</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1038">
+<title>Chinese Verb Sense Discrimination Using an EM Clustering Model with Rich Linguistic Features</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jinying</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1039">
+<title>Relieving the data Acquisition Bottleneck in Word Sense Disambiguation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mona</FirstName>
+<SecondName>Diab</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1040">
+<title>Enriching the Output of a Parser Using Memory-based Learning</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Valentin</FirstName>
+<SecondName>Jijkoun</SecondName>
+</Author>
+<Author>
+<FirstName>Maarten</FirstName>
+<SecondName>de</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1041">
+<title>Long-Distance Dependency Resolution in Automatically Acquired Wide-Coverage PCFG-Based LFG Approximations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aoife</FirstName>
+<SecondName>Cahill</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Burke</SecondName>
+</Author>
+<Author>
+<FirstName>Ruth</FirstName>
+<SecondName>O'Donovan</SecondName>
+</Author>
+<Author>
+<FirstName>Josef</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+<Author>
+<FirstName>Andy</FirstName>
+<SecondName>Way</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1042">
+<title>Deep Dependencies from Context-Free Statistical Parsers: Correcting the Surface Dependency Approximation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Levy</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Manning</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1043">
+<title>A Study on Convolution Kernels for Shallow Statistic Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Moschitti</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1044">
+<title>Combining Acoustic and Pragmatic Features to Predict Recognition Performance in Spoken Dialogue Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Malte</FirstName>
+<SecondName>Gabsdil</SecondName>
+</Author>
+<Author>
+<FirstName>Oliver</FirstName>
+<SecondName>Lemon</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1045">
+<title>Predicting Student Emotions in Computer-Human Tutoring Dialogues</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Kate</FirstName>
+<SecondName>Forbes-Riley</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1046">
+<title>Building Verb Predicates: A Computational View</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Gomez</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1047">
+<title>Large-Scale Induction and Evaluation of Lexical Resources from the Penn-II Treebank</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ruth</FirstName>
+<SecondName>O'Donovan</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Burke</SecondName>
+</Author>
+<Author>
+<FirstName>Aoife</FirstName>
+<SecondName>Cahill</SecondName>
+</Author>
+<Author>
+<FirstName>Josef</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+<Author>
+<FirstName>Andy</FirstName>
+<SecondName>Way</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1048">
+<title>Inducing Frame Semantic Verb Classes from WordNet and LDOCE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Green</SecondName>
+</Author>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1049">
+<title>Paragraph-, Word-, and Coherence-based Approaches to Sentence Ranking: A Comparison of Algorithm and Human Performance</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Florian</FirstName>
+<SecondName>Wolf</SecondName>
+</Author>
+<Author>
+<FirstName>Edward</FirstName>
+<SecondName>Gibson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1050">
+<title>Evaluating Centering-Based Metrics of Coherence</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nikiforos</FirstName>
+<SecondName>Karamanis</SecondName>
+</Author>
+<Author>
+<FirstName>Massimo</FirstName>
+<SecondName>Poesio</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Mellish</SecondName>
+</Author>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>Oberlander</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1051">
+<title>Computing Locally Coherent Discourses</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ernst</FirstName>
+<SecondName>Althaus</SecondName>
+</Author>
+<Author>
+<FirstName>Nikiforos</FirstName>
+<SecondName>Karamanis</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Koller</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1052">
+<title>Generating Referring Expressions in Open Domains</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Advaith</FirstName>
+<SecondName>Siddharthan</SecondName>
+</Author>
+<Author>
+<FirstName>Ann</FirstName>
+<SecondName>Copestake</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1053">
+<title>Discovering Relations among Named Entities from Large Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Takaaki</FirstName>
+<SecondName>Hasegawa</SecondName>
+</Author>
+<Author>
+<FirstName>Satoshi</FirstName>
+<SecondName>Sekine</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>Grishman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1054">
+<title>Dependency Tree Kernels for Relation Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aron</FirstName>
+<SecondName>Culotta</SecondName>
+</Author>
+<Author>
+<FirstName>Jeffrey</FirstName>
+<SecondName>Sorensen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1055">
+<title>Classifying Semantic Relations in Bioscience Texts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Rosario</SecondName>
+</Author>
+<Author>
+<FirstName>Marti</FirstName>
+<SecondName>Hearst</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1056">
+<title>Collective Information Extraction with Relational Markov Networks</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Razvan</FirstName>
+<SecondName>Bunescu</SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>Mooney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1057">
+<title>Error Mining for Wide-Coverage Grammar Engineering</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gertjan</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1058">
+<title>Alternative approaches for Generating Bodies of Grammar Rules</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>Infante-Lopez</SecondName>
+</Author>
+<Author>
+<FirstName>Maarten</FirstName>
+<SecondName>de</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1059">
+<title>Adaptive Chinese Word Segmentation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Andi</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Cheng-Ning</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>qiao</SecondName>
+</Author>
+<Author>
+<FirstName>Xinsong</FirstName>
+<SecondName>Xia</SecondName>
+</Author>
+<Author>
+<FirstName>Hauwei</FirstName>
+<SecondName>Qin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1060">
+<title>Experiments in parallel-text based grammar induction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonas</FirstName>
+<SecondName>Kuhn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1061">
+<title>Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Manning</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1062">
+<title>Annealing Techniques For Unsupervised Statistical Language Learning</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1063">
+<title>Multi-Engine Machine Translation with Voted Language Model</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tadashi</FirstName>
+<SecondName>Nomoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1064">
+<title>Aligning words using matrix factorisation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cyril</FirstName>
+<SecondName>Goutte</SecondName>
+</Author>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName>Yamada</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Gaussier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1065">
+<title>FSA: An Efficient and Flexible C++ Toolkit for Finite State Automata Using On-Demand Computation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Kanthak</SecondName>
+</Author>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName>Ney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1066">
+<title>Improving IBM Word Alignment Model 1</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1067">
+<title>A Geometric View on Bilingual Lexicon Extraction from Comparable Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Gaussier</SecondName>
+</Author>
+<Author>
+<FirstName>J.M.</FirstName>
+<SecondName>Renders</SecondName>
+</Author>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Matveeva</SecondName>
+</Author>
+<Author>
+<FirstName>C.</FirstName>
+<SecondName>Goutte</SecondName>
+</Author>
+<Author>
+<FirstName>H.</FirstName>
+<SecondName>Dejean</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1068">
+<title>Creating Multilingual Translation Lexicons with Regional Variations Using Web Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pu-Jen</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Wen-Hsiang</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Jei-Wen</FirstName>
+<SecondName>Teng</SecondName>
+</Author>
+<Author>
+<FirstName>Lee-Feng</FirstName>
+<SecondName>Chien</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1069">
+<title>Probabilistic Parsing Strategies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark-Jan</FirstName>
+<SecondName>Nederhof</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1070">
+<title>An Alternative Method of Training Probabilistic LR Parsers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark-Jan</FirstName>
+<SecondName>Nederhof</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1071">
+<title>Wrapping of Trees</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Rogers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1072">
+<title>Splitting Complex Temporal Questions for Question Answering Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>E.</FirstName>
+<SecondName>Saquete</SecondName>
+</Author>
+<Author>
+<FirstName>P.</FirstName>
+<SecondName>Martínez-Barco</SecondName>
+</Author>
+<Author>
+<FirstName>R.</FirstName>
+<SecondName>Muñoz</SecondName>
+</Author>
+<Author>
+<FirstName>J.L.</FirstName>
+<SecondName>Vicedo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1073">
+<title>Question Answering Using Constraint Satisfaction: QA-By-Dossier-With-Contraints</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Prager</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Chu-Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>Krzysztof</FirstName>
+<SecondName>Czuba</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1074">
+<title>Applying Machine Learning to Chinese Temporal Relation Resolution</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wenjie</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Kam-Fai</FirstName>
+<SecondName>Wong</SecondName>
+</Author>
+<Author>
+<FirstName>Guihong</FirstName>
+<SecondName>Cao</SecondName>
+</Author>
+<Author>
+<FirstName>Chunfa</FirstName>
+<SecondName>Yuan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1075">
+<title>Multi-Criteria-based Active Learning for Named Entity Recognition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Jie</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Guodong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Chew-Lim</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1076">
+<title>Weakly Supervised Learning for Cross-document Person Name Disambiguation Supported by Information Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cheng</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Rohini</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1077">
+<title>Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chin-Yew</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>Josef</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1078">
+<title>A Unified Framework For Automatic Evaluation Using 4-Gram Co-occurrence Statistics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Soricut</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Brill</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1079">
+<title>Extending the BLEU MT Evaluation Method with Frequency Weightings</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bogdan</FirstName>
+<SecondName>Babych</SecondName>
+</Author>
+<Author>
+<FirstName>Tony</FirstName>
+<SecondName>Hartley</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1080">
+<title>Learning Word Sense With Feature Selection and Order Identification Capabilities</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zheng-Yu</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Dong-Hong</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Chew-Lim</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1081">
+<title>A Kernel PCA Method for Superior Word Sense Disambiguation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dekai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Weifeng</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Marine</FirstName>
+<SecondName>Carpuat</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1082">
+<title>Using Linguistic Principles to Recover Empty Categories</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Campbell</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1083">
+<title>Statistical Machine Translation by Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Dan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1084">
+<title>Generalized Multitext Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Dan</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Wellington</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1085">
+<title>Identifying Agreement and Disagreement in Conversational Speech: Use of Bayesian Networks to Model Pragmatic Dependencies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michel</FirstName>
+<SecondName>Galley</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>McKeown</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>Shriberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1086">
+<title>Using Conditional Random Fields to Predict Pitch Accents in Conversational Speech</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michelle</FirstName>
+<SecondName>Gregory</SecondName>
+</Author>
+<Author>
+<FirstName>Yasemin</FirstName>
+<SecondName>Altun</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1087">
+<title>Acquiring the Meaning of Discourse Markers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName>Hutchinson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="P04-1088">
+<title>FLSA: Extending Latent Semantic Analysis with Features for Dialogue Act Classification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Riccardo</FirstName>
+<SecondName>Serafin</SecondName>
+</Author>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Di</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>

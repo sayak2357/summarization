@@ -1,0 +1,768 @@
+<Paper id ="P80-1001">
+<title>ON THE SPATIAL USES OF PREPOSITIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Annette</FirstName>
+<SecondName>Herskovits</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1002">
+<title>UNDERSTANDING SCENE DESCRIPTIONS AS EVENT SIMULATIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1003">
+<title>ON THE EXISTENCE OF PRIMITIVE MEANING UNITS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1004">
+<title>Metaphor - A Key to Extensible Semantic Analysis</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1005">
+<title>Metaphor Comprehension - A special mode of language processing? (Extended Abstract)</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1006">
+<title>Interactive Discourse: Influence of Problem Context Panel Chair's Introduction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Grosz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1007">
+<title>SHOULD COMPUTERS WRITE SPOKEN LANGUAGE?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wallace</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1008">
+<title>Signalling the Interpretation of Indirect Speech Acts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1009">
+<title>PARASESSION ON TOPICS IN INTERACTIVE DISCOURSE INFLUENCE OF THE PROBLEM CONTEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1010">
+<title>ON THE INDEPENDENCE OF DISCOURSE STRUCTURE AND SEMANTIC DOMAIN</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Charlotte</FirstName>
+<SecondName>Linde</SecondName>
+</Author>
+<Author>
+<FirstName>J.A.</FirstName>
+<SecondName>Goguen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1011">
+<title>The Parameters of Conversational Style</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Deborah</FirstName>
+<SecondName>Tannen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1012">
+<title>PHRASE STRUCTURE TREES BEAR MORE FRUIT THAN YOU WOULD HAVE THOUGHT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Leon</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1013">
+<title>CAPTURING LINGUISTIC GENERALIZATIONS WITH METARULES IN AN ANNOTATED PHRASE-STRUCTURE GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kurt</FirstName>
+<SecondName>Konolige</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1014">
+<title>Computational Analogues of Constraints on Grammars: A Model of Syntactic Acquisition MIT Artificial Intelligence</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Cregar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1015">
+<title>A Linear-time Model of Language Production: some psychological implications (extended abstract)</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1016">
+<title>PROBLEM SOLVING APPLIED TO LANGUAGE GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1017">
+<title>Interactive Discourse: Influence of the Social Context Panel Chair's Introduction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jerry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1018">
+<title>PARALANGUAGE IN COMPUTER MEDIATED COMMUNICATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carey</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1019">
+<title>Expanding the Horizons of Natural Language Interfaces</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Hayes</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1020">
+<title>THE PROCESS OF COMMUNICATION IN FACE TO FACE VS. COMPUTERIZED CONFERENCES; A CONTROLLED EXPERIMENT USING BALES INTERACTION PROCESS ANALYSIS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Starr</FirstName>
+<SecondName>Roxanne</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Ann</FirstName>
+<SecondName>Marie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1021">
+<title>WHAT TYPE OF INTERACTION IS IT TO BE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Emanuel</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1022">
+<title>THE COMPUTER AS AN ACTIVE COMMUNICATION MEDIUM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1023">
+<title>WHAT DISCOURSE FEATURES AREN'T NEEDED IN ON-LINE DIALOGUE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eleanor</FirstName>
+<SecondName>Wynn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1024">
+<title>Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>W.</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1025">
+<title>If The Parser Fails</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1026">
+<title>Flexible Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Hayes</SecondName>
+</Author>
+<Author>
+<FirstName>Geroge</FirstName>
+<SecondName>Mouradian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1027">
+<title>Parsiug in the Absence of a Complete Lexicon</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jim</FirstName>
+<SecondName>Davidson</SecondName>
+</Author>
+<Author>
+<FirstName>S.</FirstName>
+<SecondName>Jerrold</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1028">
+<title>On Parsing Strategies and Closure</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Church</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1029">
+<title>STRATEGIE SELECTION FOR AN ATN SYNTACTIC PARSER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Giacomo</FirstName>
+<SecondName>Ferrari</SecondName>
+</Author>
+<Author>
+<FirstName>Oliviero</FirstName>
+<SecondName>Stock</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1030">
+<title>PHRAN - A Knowledge-Based Natural Language Understander</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Wilensky</SecondName>
+</Author>
+<Author>
+<FirstName>Yigal</FirstName>
+<SecondName>Arens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1031">
+<title>ATN GRAMMAR MODELING IN APPLIED LINGUISTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>T.</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>R.</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1032">
+<title>Interactive Discourse: Looking to the Future Panel Chair's Introduction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Lynn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1033">
+<title>PROSPECTS FOR PRACTICAL NATURAL LANGUAGE SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Larry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1034">
+<title>FUTURE PROSPECTS FOR COMPUTATIONAL LINGUISTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gary</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1035">
+<title>NATURAL LANGUAGE INTERACTION WITH MACHINES: A PASSING FAD? OR THE WAY OF THE FUTURE?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>A.</FirstName>
+<SecondName>Michael</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1036">
+<title>NATURAL VS. PRECISE CONCISE LANGUAGES FOR HUMAN OPERATION OF COMPUTERS: RESEARCH ISSUES AND EXPERIMENTAL APPROACHES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName>Shneiderman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1037">
+<title>NATURAL LANGUAGE AND COMPUTER INTERFACE DESIGN</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>MURRAY</FirstName>
+<SecondName>TUROFF</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1038">
+<title>WORD, PHRASE AND SENTENCE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rob't</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1039">
+<title>REPRESENTATION OF TEXTS FOR INFORMATION RETRIEVAL</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>N.</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>B.</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>D.</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1040">
+<title>WORD AND OBJECT IN DISEASE DESCRIPTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>M.</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>D.</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>M.</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1041">
+<title>REQUIREMENTS OF TEXT-PROCESSING-LEXICONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1042">
+<title>Chronometric Studies of Lexical Ambiguity Resolution</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1043">
+<title>Real Reading Behavior</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Thibadeau</SecondName>
+</Author>
+<Author>
+<FirstName>Marcel</FirstName>
+<SecondName>Just</SecondName>
+</Author>
+<Author>
+<FirstName>Patricia</FirstName>
+<SecondName>Carpenter</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>
+
+
+
+
+<Paper id ="P80-1044">
+<title>An Experiment in Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Slocum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1980</Year>
+</Paper>

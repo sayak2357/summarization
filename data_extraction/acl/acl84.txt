@@ -1,0 +1,2088 @@
+<Paper id ="P84-1001">
+<title>Multilingual Text Processing in a Two-Byte Code</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lloyd</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1002">
+<title>CONVEYING IMPLICIT CONTENT IN NARRATIVE SUMMARIES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Malcolm</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+<Author>
+<FirstName>Wendy</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1003">
+<title>TRANSFORMING ENGLISH INTERFACES TO OTHER NATURAL LANGUAGES: AN EXPERIMENT WITH PORTUGUESE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>ABRIEL</FirstName>
+<SecondName>PEREIRA</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1004">
+<title>UN OUTIL MULTIDIMENSIONNEL DE L'ANALYSE DU DISCOURS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>CHAUCAE</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1005">
+<title>A STOCHASTIC APPROACH TO SENTENCE PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tetsunosuke</FirstName>
+<SecondName>Fujisaki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1006">
+<title>BOUNDED CONTEXT PARSING AND EASY LEARNABIITY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1007">
+<title>THE REPRESENTATION OF CONSTITUENT STRUCTURES FOR FINITE-STATE PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>D.</FirstName>
+<SecondName>Terence</SecondName>
+</Author>
+<Author>
+<FirstName>Yedidyah</FirstName>
+<SecondName>Langsam</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1008">
+<title>Features and Values</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lauri</FirstName>
+<SecondName>Karttunen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1009">
+<title>APPLICATIONS OF A LEXICOGRAPHICAL DATA BASE FOR GERMAN</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wolfgang</FirstName>
+<SecondName>Teubert</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1010">
+<title>DENORMALIZATION AND CROSS REFERENCING IN THEORETICAL LEXICOGRAPHY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joseph</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1011">
+<title>Lexicon Features for Japanese Syntactic Analysis in Mu-Project-JE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yoshiyuki</FirstName>
+<SecondName>Sakamoto</SecondName>
+</Author>
+<Author>
+<FirstName>Masayuki</FirstName>
+<SecondName>Satoh</SecondName>
+</Author>
+<Author>
+<FirstName>Tetsuya</FirstName>
+<SecondName>Ishikawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1012">
+<title>Toward a Redefinition of Yes/No Questions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1013">
+<title>THE SYNTAX AND SEMANTICS OF USER-DEFINED MODIFIERS IN TRANSPORTABLE NATURAL LANGUAGE PROCESSOR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bruce</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1014">
+<title>Interaction of Knowledge Sources in a Portable Natural Language Interface</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carole</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1015">
+<title>USES OF C-GPAPHS IN A PROTOTYPE FOR ALTOMATIC TWISLATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1016">
+<title>QUASI-INDEXICAL REFERENCE IN PROPOSITIONAL SEMANTIC NETWORKS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1017">
+<title>The Costs of Inheritance in Semantic Networks</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rob't</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1018">
+<title>FUNCTIONAL UNIFICATION GRAMMAR: A FORMALISM FOR MACHINE TRANSLATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Kay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1019">
+<title>COMPUTER SIMULATION OF SPONTANEOUS SPEECH PRODUCTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bengt</FirstName>
+<SecondName>Sigurd</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1020">
+<title>LIMITED DOMAIN SYSTEMS FOR LANGUAGE TEACHING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>S</FirstName>
+<SecondName>G</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1021">
+<title>GTT : A GENERAL TRANSDUCER FOR TEACHING COMPUTATIONAL LINGUISTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>P.</FirstName>
+<SecondName>Shane</SecondName>
+</Author>
+<Author>
+<FirstName>J.L.</FirstName>
+<SecondName>Cochard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1022">
+<title>A PARSING ARCHITECTURE BASED ON DISTRIBUTED MEMORY MACHINES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1023">
+<title>AUTOMATED DETERMINATION OF SUBLANGUAGE SYNTACTIC USAGE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>Grishman</SecondName>
+</Author>
+<Author>
+<FirstName>Ngo</FirstName>
+<SecondName>Thanh</SecondName>
+</Author>
+<Author>
+<FirstName>Elate</FirstName>
+<SecondName>Marsh</SecondName>
+</Author>
+<Author>
+<FirstName>Lyneae</FirstName>
+<SecondName>Hirschman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1024">
+<title>Semantic Interpretation Using KL-ONE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Norman</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1025">
+<title>TWO THEORIES FOR COMPUTING THE LOGICAL FORM OF MASS EXPRESSIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Francis</FirstName>
+<SecondName>Jeffry</SecondName>
+</Author>
+<Author>
+<FirstName>Lenhart</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1026">
+<title>SYNTACTIC AND SEMANTIC PARSABILITY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Geoffrey</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1027">
+<title>The Semantics of Grammar Formalisms Seen as Computer Languages</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1028">
+<title>THE RESOLUTION OF QUANTIFICATIONAL AMBIGUITY IN THE TENDUM SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Harry</FirstName>
+<SecondName>Bunt</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1029">
+<title>Preventing False Inferences</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>Joshi</SecondName>
+</Author>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Webber</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1030">
+<title>PROBLEM LOCALIZATION STRATEGIES FOR PRAMATICS PROCESSING IN NATURAL-LANGUAGE FRONT ENDS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lance</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1031">
+<title>A CONNECTIONIST MODEL OF SOME ASPECTS OF ANAPHOR RESOLUTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ronan</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1032">
+<title>CONCURRENT PARSING IN PROGRAMMABLE LOGIC ARRAY (PLA-) NETS PROBLEMS AND PROPOSALS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Helmut</FirstName>
+<SecondName>Schnelle</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1033">
+<title>A Case Analysis Method Cooperating with ATNG and Its Application to Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>IIDA</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1034">
+<title>A PROPER TREATMEMT OF SYNTAX AND SEMANTICS IN MACHINE TRANSLATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yoshihiko</FirstName>
+<SecondName>Nitta</SecondName>
+</Author>
+<Author>
+<FirstName>Atsushi</FirstName>
+<SecondName>Okajima</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroyuki</FirstName>
+<SecondName>Kaji</SecondName>
+</Author>
+<Author>
+<FirstName>Youichi</FirstName>
+<SecondName>Hidano</SecondName>
+</Author>
+<Author>
+<FirstName>Koichiro</FirstName>
+<SecondName>Ishihara</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1035">
+<title>A CONSIDERATION ON THE CONCEPTS STRUCTURE AND LANGUAGE- IN RELATION TO SELECTIONS OF TRANSLATION EQUIVALENTS OF VERBS IN MACHINE TRANSLATION SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sho</FirstName>
+<SecondName>Yoshida</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1036">
+<title>DETECTING PATTERNS IN A LEXICAL DATA BASE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nicoletta</FirstName>
+<SecondName>Calzolari</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1037">
+<title>LINGUISTIC PROBLEMS IN MULTILINGUAL MORPHOLOGICAL DECOMPOSITION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>G.Thurmair</FirstName>
+<SecondName>Siemens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1038">
+<title>A GENERAL COMPUTATIONAL MODEL FOR WORD-FORM RECOGNITION AND PRODUCTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kimmo</FirstName>
+<SecondName>Koskenniemi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1039">
+<title>PANEL: NATURAL LANGUAGE AND DATABASES, AGAIN</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Sparck</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1040">
+<title>THERE STILL IS GOLD IN THE DATABASE MINE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Madeleine</FirstName>
+<SecondName>Bates</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1041">
+<title>Is There Natural Language after Data Bases?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1042">
+<title>Panel on Natural Language and Databases</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1043">
+<title>Natural Language for Exert Systems: Comparisons with Database Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1044">
+<title>REPRESENTING KNOWLEDGE ABOUT KNOWLEDGE AND MUTUAL KNOWLEDGE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Said</FirstName>
+<SecondName>Soulhi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1045">
+<title>UNDERSTANDING PRAGMATICALLY ILL-FORMED INPUT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>M.</FirstName>
+<SecondName>Sandra</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1046">
+<title>Referring as Requesting</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1047">
+<title>Entity-Oriented Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1048">
+<title>Combining Functionality and Object- Orientedness for Natural Language Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Toyoaki</FirstName>
+<SecondName>Nishidal</SecondName>
+</Author>
+<Author>
+<FirstName>Shuji</FirstName>
+<SecondName>Doshita</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1049">
+<title>USE OF HEURISTIC KNOWLEDGE IN CHINESE LANGUAGE ANALYSIS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yiming</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Toyoaki</FirstName>
+<SecondName>NishidaShuji</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1050">
+<title>THE DESIGN OF THE KERNEL ARCHITECTURE FOR THE EUROTRA* SOFTWARE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>R.L.</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>M.A.</FirstName>
+<SecondName>Rosner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1051">
+<title>MACHINE TRANSLATION : WHAT TYPE OF POST-EDITING ON WHAT TYPE OF DOCUMENTS FOR WHAT TYPE OF USERS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anne-Marie</FirstName>
+<SecondName>LAURIAN</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1052">
+<title>Simplifying Deterministic Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1053">
+<title>DEALING WITH CONJUNCTIONS IN A MACHINE TRANSLATION ENVIRONMENT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiuming</FirstName>
+<SecondName>HUANG</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1054">
+<title>ON PARSING PREFERENCES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lenhart</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1055">
+<title>A COMPUTATIONAL THEORY OF THE FUNCTION OF CLUE WORDS IN ARGIJMENT UNDERSTANDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robin</FirstName>
+<SecondName>Cohen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1056">
+<title>CONTROL STRUCTURES AND THEORIES OF INTERACTION IN SPEECII UNDER STANDING SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>E.J.</FirstName>
+<SecondName>Briscoe</SecondName>
+</Author>
+<Author>
+<FirstName>H.K.</FirstName>
+<SecondName>Boguraev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1057">
+<title>Analysis Grammar of Japanese in the Mu-project - A Procedural Approach to Analysis Grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jun-ichi</FirstName>
+<SecondName>TSUJII</SecondName>
+</Author>
+<Author>
+<FirstName>Jun-ichi</FirstName>
+<SecondName>NAKAMURA</SecondName>
+</Author>
+<Author>
+<FirstName>Makoto</FirstName>
+<SecondName>NAGAO</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1058">
+<title>LEXICON-GRAMMAR AND THE SYNTACTIC ANALYSIS OF FRENCH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Maurice</FirstName>
+<SecondName>Gross</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1059">
+<title>Building a Large Knowledge Base for a Natural Language System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jerry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1060">
+<title>LINGUISTICALLY MOTIVATED DESCRIPTIVE TERM SELECTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Sparck</SecondName>
+</Author>
+<Author>
+<FirstName>J.I.</FirstName>
+<SecondName>Tait</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1061">
+<title>INFERENCING ON LINGUISTICALLY BASED SEMANTIC STRUCTURES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eva</FirstName>
+<SecondName>Ilajicova</SecondName>
+</Author>
+<Author>
+<FirstName>Milena</FirstName>
+<SecondName>Hnatkova</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1062">
+<title>SEMANTIC RELEVANCE AND ASPECT DEPENDENCY IN A GIVEN SUBJECT DOMAIN Contents-driven algorithmic processing of fuzzy wordmeanings to form dynamic stereotype representations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Arbeitsgruppe</FirstName>
+<SecondName>German</SecondName>
+</Author>
+<Author>
+<FirstName>Burghard</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1063">
+<title>A Plan Recognition Model for Clarification Subdialogues</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1064">
+<title>A COMPUTATIONAL THEORY OF DISPOSITIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lotfi</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1065">
+<title>Using Focus to Generate Complex and Simple Sentences</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marcia</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1066">
+<title>A RATIONAL RECONSTRUCTION OF THE PROTEUS SENTENCE PLANNER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Graeme</FirstName>
+<SecondName>Ritchie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1067">
+<title>SOFTWARE TOOLS FOR THE ENVIRONMENT OF A COMPUTER AIDED TRANSLATION SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>BACHUT</SecondName>
+</Author>
+<Author>
+<FirstName>Nelson</FirstName>
+<SecondName>VERASTEGUI</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1068">
+<title>DESIGN OF A MACHINE TRANSLATION SYSTEM FOR A SUBLANGUAGE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Beat</FirstName>
+<SecondName>Buchmann</SecondName>
+</Author>
+<Author>
+<FirstName>Susan</FirstName>
+<SecondName>Warwick</SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Shane</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1069">
+<title>Grammar Writing System (GRADE) of Mu-Machine Translation Project and its Characteristics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jun-ichi</FirstName>
+<SecondName>NAKAMURA</SecondName>
+</Author>
+<Author>
+<FirstName>Jun-ichi</FirstName>
+<SecondName>TSUJII</SecondName>
+</Author>
+<Author>
+<FirstName>Makoto</FirstName>
+<SecondName>NAGAO</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1070">
+<title>A DISCOVERY PROCEDURE FOR CERTAIN PHONOLOGICAL RULES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1071">
+<title>WHAT NOT TO SAY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jan</FirstName>
+<SecondName>Fornell</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1072">
+<title>WHEN IS THE NEXT ALPAC REPORT DUE?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Margaret</FirstName>
+<SecondName>KING</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1073">
+<title>LR Parsers For Natural Languages</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Masaru</FirstName>
+<SecondName>Tomita</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1074">
+<title>LFG System in Prolog </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hidekl</FirstName>
+<SecondName>Yasukawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1075">
+<title>The Design of a Computer Language for Linguistic Information </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1076">
+<title>Discourse Structures for Text Generation </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1077">
+<title>Semantic Rule Based Text Generation </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1078">
+<title>Controlling Lexical Substitution in Computer Text Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Granville</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1079">
+<title>UNDERSTANDING OF  JAPANESE IN AN INTERACTIVE PROGRAMMING SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName>Sugiyama</SecondName>
+</Author>
+<Author>
+<FirstName>Masayuki</FirstName>
+<SecondName>Kameda</SecondName>
+</Author>
+<Author>
+<FirstName>Kouji</FirstName>
+<SecondName>Akiyama</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1080">
+<title>TWO-WAY FINITE AUTOMATA AND DEPENDENCY GRAMMAR: A PARSING METHOD FOR INFLECTIONAL FREE WORD ORDER LANGUAGES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Esa</FirstName>
+<SecondName>Nelimarkka</SecondName>
+</Author>
+<Author>
+<FirstName>Harri</FirstName>
+<SecondName>Jappinen</SecondName>
+</Author>
+<Author>
+<FirstName>Aarno</FirstName>
+<SecondName>Lehtola</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1081">
+<title>INTERRUPTABLE TRANSITION NETWORKS </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sergei</FirstName>
+<SecondName>Nirenburg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1082">
+<title>AUTOMATIC CONSTRUCTION OF DISCOURSE REPRESENTATION STRUCTURES </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>Guenthner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1083">
+<title>TEXTUAL EXPERTISE IN WORD EXPERTS: AN APPROACH TO TEXT PARSING BASED ON TOPIC/COMMENT MONITORING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Udo</FirstName>
+<SecondName>Hahn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1084">
+<title>SOME LINGUISTIC ASPECTS FOR AUTOMATIC TEXT UNDERSTANDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yutaka</FirstName>
+<SecondName>Kusanagi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1085">
+<title>A SYNTACTIC APPROACH TO DISCOURSE SEMANTICS </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Livia</FirstName>
+<SecondName>Polanyi</SecondName>
+</Author>
+<Author>
+<FirstName>Remko</FirstName>
+<SecondName>Scha</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1086">
+<title>DEALING WITH INCOMPLETENESS OF LINGUISTIC KNOWLEDGE IN LANGUAGE TRANSLATION - TRANSFER AND GENERATION STAGE OF MU MACHINE TRANSLATION PROJECT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Makoto</FirstName>
+<SecondName>Nagao</SecondName>
+</Author>
+<Author>
+<FirstName>Toyoaki</FirstName>
+<SecondName>Nishida</SecondName>
+</Author>
+<Author>
+<FirstName>Jun-ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1087">
+<title>LEXICAL SEMANTICS IN HUMAN-COMPUTER COMMUNICATION </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jarrett</FirstName>
+<SecondName>Rosenberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1088">
+<title>A Response to the Need for Summary Responses</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>J.K.</FirstName>
+<SecondName>Kalita</SecondName>
+</Author>
+<Author>
+<FirstName>M.J.</FirstName>
+<SecondName>Colbourn</SecondName>
+</Author>
+<Author>
+<FirstName>G.I.</FirstName>
+<SecondName>McCalla</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1089">
+<title>Coping with Extragrammaticality </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1090">
+<title>Correcting Object-Related Misconceptions: How Should The System Respond?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1091">
+<title>AN ALGORITHM FOR IDENTIFYING COGNATES BETWEEN RELATED LANGUAGES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jacques</FirstName>
+<SecondName>B.M.Guy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1092">
+<title>From HOPE en I'ESPERANCE On the Role of Computational Neurolinguistics in Cross-Language Studies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Helen</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1093">
+<title>MACHINE-READABLE DICTIONARIES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1094">
+<title>LEXICAL KNOWLEDGE BASES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1095">
+<title>MACHINE-READABLE DICTIONARIES, LEXICAL DATA BASES AND THE LEXICAL SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nicoletta</FirstName>
+<SecondName>Calsolari</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1096">
+<title>THE DICTIONARY SERVER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Kay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1097">
+<title>HOW TO MISREAD A DICTIONARY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1098">
+<title>MACHINE-READABLE COMPONENTS IN A VARIETY OF INFORMATION-SYSTEM APPLICATIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Howard</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1099">
+<title>TRANSFER IN A MULTILINGUAL MT SYSTEM </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Krauwer</SecondName>
+</Author>
+<Author>
+<FirstName>Louis</FirstName>
+<SecondName>des</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1100">
+<title>EXPERT SYSTEMS AND OTHER NEW TECHNIQUES IN MT SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christian</FirstName>
+<SecondName>BOITET</SecondName>
+</Author>
+<Author>
+<FirstName>Rene</FirstName>
+<SecondName>GERBER</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1101">
+<title>ROBUST PROCESSING IN MACHINE TRANSLATION </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Doug</FirstName>
+<SecondName>Arnold</SecondName>
+</Author>
+<Author>
+<FirstName>Rod</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1102">
+<title>Disambiguating Grammatically Ambiguous Sentences By Asking</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Masaru</FirstName>
+<SecondName>Tornita</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1103">
+<title>AMBIGUITY RESOLUTION IN THE HUMAN SYNTACTIC PARSER" AN EXPERIMENTAL STUDY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Howard</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1104">
+<title>Conceptual Analysis of Garden-Path Sentences</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1105">
+<title>LANGUAGE GENERATION FROM CONCEPTUAL STRUCTURE: SYNTHESIS OF GERMAN IN A JAPANESE/GERMAN MT PROJECT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>Laubsch</SecondName>
+</Author>
+<Author>
+<FirstName>D.</FirstName>
+<SecondName>Roesner</SecondName>
+</Author>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Hanakata</SecondName>
+</Author>
+<Author>
+<FirstName>A.</FirstName>
+<SecondName>Lesnlewski</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1106">
+<title>Natural Language driven Image Generation </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Giovanni</FirstName>
+<SecondName>Adorni</SecondName>
+</Author>
+<Author>
+<FirstName>Mauro</FirstName>
+<SecondName>Di</SecondName>
+</Author>
+<Author>
+<FirstName>Fausto</FirstName>
+<SecondName>Giunchiglia</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1107">
+<title>Conceptual and Linguistic Decisions in Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Laurence</FirstName>
+<SecondName>DANLOS</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1108">
+<title>A Computational Analysis of Complex Noun Phrases in Navy Messages </title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Elaine</FirstName>
+<SecondName>Marsh</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1109">
+<title>ANOTHER LOOK AT NOMINAL COMPOUNDS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pierre</FirstName>
+<SecondName>Isabelle</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1110">
+<title>SEMANTIC PARSING AS GRAPH LANGUAGE TRANSFORMATION - A MULTIDIMENSIONAL APPROACH TO PARSING HIGHLY INFLECTIONAL LANGUAGES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eero</FirstName>
+<SecondName>Hyvonen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1111">
+<title>HANDLING SYNTACTICAL AMBIGUITY IN MACHINE TRANSLATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Vladimir</FirstName>
+<SecondName>Pericliev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1112">
+<title>ARGUMENTATION IN REPRESENTATION SEMANTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pierre-Yves</FirstName>
+<SecondName>RACCAH</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1113">
+<title>VOICE SIMULATION: FACTORS AFFECTING QUALITY AND NATURALNESS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>B.</FirstName>
+<SecondName>Yegnanarayana</SecondName>
+</Author>
+<Author>
+<FirstName>J.M.</FirstName>
+<SecondName>Naik</SecondName>
+</Author>
+<Author>
+<FirstName>D.G.</FirstName>
+<SecondName>Childers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1114">
+<title>INTERPRETING SYNTACTICALLY ILL-FORMED SENTENCES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Leonardo</FirstName>
+<SecondName>LESMO</SecondName>
+</Author>
+<Author>
+<FirstName>Pietro</FirstName>
+<SecondName>TORASSO</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1115">
+<title>AN INTONATIONAL DELPHI POLL ON FUTURE TRENDS IN "INFORMATION LINGUISTICS"</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rainer</FirstName>
+<SecondName>Kuhlen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>
+
+
+
+
+<Paper id ="P84-1116">
+<title>Machine Translation: its History, Current Status, and Future Prospects</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Slocum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1984</Year>
+</Paper>

@@ -1,0 +1,700 @@
+<Paper id ="P90-1001">
+<title>POLYNOMIAL TIME PARSING OF COMBINATORY CATEGORIAL GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Vijay-Shanker</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1002">
+<title>STRUCTURE AND INTONATION IN SPOKEN LANGUAGE UNDERSTANDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1003">
+<title>PROSODY, SYNTAX AND PARSIN</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Bear</SecondName>
+</Author>
+<Author>
+<FirstName>Patti</FirstName>
+<SecondName>Price</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1004">
+<title>Empirical Study of Predictive Powers of Simple Attachment Schemes for Post-modifier Prepositional Phrases</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Greg</FirstName>
+<SecondName>Whittemore</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>Ferrara</SecondName>
+</Author>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Brunner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1005">
+<title>STRUCTURAL DISAMBIGUATION WITH CONSTRAINT PROPAGATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Maruyama</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1006">
+<title>MEMORY CAPACITY AND SENTENCE PROCESSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Edward</FirstName>
+<SecondName>Gibson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1007">
+<title>TRANSFORMING SYNTACTIC GRAPHS INTO SEMANTIC GRAPHS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hae-Chang</FirstName>
+<SecondName>Rim</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Jungyun</FirstName>
+<SecondName>Seo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1008">
+<title>A Compositional Semantics for Focusing Subjuncts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Lyons</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1009">
+<title>DESIGNER DEFINITES IN LOGICAL FORM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mary</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1010">
+<title>Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>Walker</SecondName>
+</Author>
+<Author>
+<FirstName>Steve</FirstName>
+<SecondName>Whittaker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1011">
+<title>Performatives in a Rationally Based Speech Act Theory</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Hector</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1012">
+<title>NORMAL STATE IMPLICATURE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nancy</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1013">
+<title>THE COMPUTATIONAL COMPLEXITY OF AVOIDING CONVERSATIONAL IMPLICATURES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ehud</FirstName>
+<SecondName>Reitert</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1014">
+<title>Free Indexation: Combinatorial Analysis and A Compositional Algorithm</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sandiway</FirstName>
+<SecondName>Fong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1015">
+<title>LICENSING AND TREE ADJOINING GRAMMAR IN GOVERNMENT BINDING PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Frank</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1016">
+<title>A SIMPLIFIED THEORY OF TENSE REPRESENTATIONS AND CONSTRAINTS ON THEIR COMPOSITION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1017">
+<title>SOLVING THEMATIC DIVERGENCES IN MACHINE TRANSLATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Dorr</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1018">
+<title>A SYNTACTIC FILTER ON PRONOMINAL ANAPHORA FOR SLOT GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Shalom</FirstName>
+<SecondName>Lappin</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>McCord</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1019">
+<title>ACQUIRING CORE MEANINGS OF WORDS, REPRESENTED AS JACKENDOFF-STYLE CONCEPTUAL STRUCTURES, FROM CORRELATED STREAMS OF LINGUISTIC AND NON-LINGUISTIC INPUT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jeffrey</FirstName>
+<SecondName>Mark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1020">
+<title>TYPES IN FUNCTIONAL UNIFICATION GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Elhadad</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1021">
+<title>DEFAULTS IN UNIFICATION GRAMLAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gosse</FirstName>
+<SecondName>Bouma</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1022">
+<title>EXPRESSING DISJUNCTIVE AND NEGATIVE FEATURE CONSTRAINTS WITH CLASSICAL FIRST-ORDER LOGIC.</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1023">
+<title>LAZY UNIFICATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kurt</FirstName>
+<SecondName>Godden</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1024">
+<title>ZERO MORPHEMES IN UNIFICATION-BASED COMBINATORY CATEGORIAL GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chinatsu</FirstName>
+<SecondName>Aone</SecondName>
+</Author>
+<Author>
+<FirstName>Kent</FirstName>
+<SecondName>Wittenburg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1025">
+<title>THE LIMITS OF UNIFICATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1026">
+<title>Asymmetry in Parsing and Generating with Unification Grammars: Case Studies From ELU</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Russell</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>Susan</FirstName>
+<SecondName>Warwick</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1027">
+<title>AUTOMATED INVERSION OF LOGIC GRAMMARS FOR GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tomek</FirstName>
+<SecondName>Strzalkowski</SecondName>
+</Author>
+<Author>
+<FirstName>Ping</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1028">
+<title>ALGORITHMS FOR GENERATION IN LAMBEK THEOREM PROVING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Erik-Jan</FirstName>
+<SecondName>van</SecondName>
+</Author>
+<Author>
+<FirstName>Guido</FirstName>
+<SecondName>Minnen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1029">
+<title>Multiple Underlying Systems: Translating User Requests into Programs to Produce Answers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1030">
+<title>Computational structure of generative phonology and its relation to language comprehension.</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Sven</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1031">
+<title>PARSING THE LOB CORPUS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1032">
+<title>AUTOMATICALLY EXTRACTING AND REPRESENTING COLLOCATIONS FOR LANGUAGE GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1033">
+<title>DISAMIBIGUATING AND INTERPRETING VERB DEFINITIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yael</FirstName>
+<SecondName>Ravin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1034">
+<title>NOUN CLASSIFICATION FROM PREDICATE-ARGUMENT STRUCTURES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Hindle</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1035">
+<title>DETERMINISTIC LEFT TO RIGHT PARSING OF TREE ADJOINING LANGUAGES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yves</FirstName>
+<SecondName>Schabes</SecondName>
+</Author>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Vijay-Shanker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1036">
+<title>AN EFFICIENT PARSING ALGORITHM FOR TREE ADJOINING GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karin</FirstName>
+<SecondName>Harbusch</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1037">
+<title>LEXICAL AND SYNTACTIC RULES IN A TREE ADJOINING GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anne</FirstName>
+<SecondName>Abeille</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1038">
+<title>BOTTOM-UP PARSING EXTENDING CONTEXT-FREENESS IN A PROCESS GRAMMAR PROCESSOR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Massimo</FirstName>
+<SecondName>Marino</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>
+
+
+
+
+<Paper id ="P90-1039">
+<title>A HARDWARE ALGORITHM FOR HIGH SPEED MORPHEME EXTRACTION AND ITS IMPLEMENTATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Toshikazu</FirstName>
+<SecondName>Fukushima</SecondName>
+</Author>
+<Author>
+<FirstName>Yutaka</FirstName>
+<SecondName>Ohyama</SecondName>
+</Author>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>Miyai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1990</Year>
+</Paper>

@@ -1,0 +1,4538 @@
+<Paper id ="P12-1001">
+<title>Learning to Translate with Multiple Objectives</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Duh</SecondName>
+</Author>
+<Author>
+<FirstName>Katsuhito</FirstName>
+<SecondName>Sudoh</SecondName>
+</Author>
+<Author>
+<FirstName>Xianchao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Hajime</FirstName>
+<SecondName>Tsukada</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1002">
+<title>Joint Feature Selection in Distributed Stochastic Learning for Large-Scale Discriminative Training in SMT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Simianer</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Riezler</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1003">
+<title>Prediction of Learning Curves in Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Prasanth</FirstName>
+<SecondName>Kolachina</SecondName>
+</Author>
+<Author>
+<FirstName>Nicola</FirstName>
+<SecondName>Cancedda</SecondName>
+</Author>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Dymetman</SecondName>
+</Author>
+<Author>
+<FirstName>Sriram</FirstName>
+<SecondName>Venkatapathy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1004">
+<title>Probabilistic Integration of Partial Lexical Information for Noise Robust Haptic Voice Recognition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Khe</FirstName>
+<SecondName>Chai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1005">
+<title>A Nonparametric Bayesian Approach to Acoustic Model Discovery</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chia-ying</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1006">
+<title>Automated Essay Scoring Based on Finite State Transducer: towards ASR Transcription of Oral English Speech</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xingyuan</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Dengfeng</FirstName>
+<SecondName>Ke</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1007">
+<title>Text-level Discourse Parsing with Rich Linguistic Features</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Vanessa</FirstName>
+<SecondName>Wei</SecondName>
+</Author>
+<Author>
+<FirstName>Graeme</FirstName>
+<SecondName>Hirst</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1008">
+<title>PDTB-style Discourse Annotation of Chinese Text</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yuping</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Nianwen</FirstName>
+<SecondName>Xue</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1009">
+<title>SITS: A Hierarchical Nonparametric Model using Speaker Identity for Topic Segmentation in Multiparty Conversations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Viet-An</FirstName>
+<SecondName>Nguyen</SecondName>
+</Author>
+<Author>
+<FirstName>Jordan</FirstName>
+<SecondName>Boyd-Graber</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1010">
+<title>Extracting Narrative Timelines as Temporal Dependency Structures</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Oleksandr</FirstName>
+<SecondName>Kolomiyets</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Bethard</SecondName>
+</Author>
+<Author>
+<FirstName>Marie-Francine</FirstName>
+<SecondName>Moens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1011">
+<title>Labeling Documents with Timestamps: Learning from their Time Expressions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nathanael</FirstName>
+<SecondName>Chambers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1012">
+<title>Temporally Anchored Relation Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Guillermo</FirstName>
+<SecondName>Garrido</SecondName>
+</Author>
+<Author>
+<FirstName>Anselmo</FirstName>
+<SecondName>Peñas</SecondName>
+</Author>
+<Author>
+<FirstName>Bernardo</FirstName>
+<SecondName>Cabaleiro</SecondName>
+</Author>
+<Author>
+<FirstName>�?lvaro</FirstName>
+<SecondName>Rodrigo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1013">
+<title>Efficient Tree-based Approximation for Entailment Graph Learning</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Berant</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+<Author>
+<FirstName>Meni</FirstName>
+<SecondName>Adler</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Goldberger</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1014">
+<title>Learning High-Level Planning from Text</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>S.R.K.</FirstName>
+<SecondName>Branavan</SecondName>
+</Author>
+<Author>
+<FirstName>Nate</FirstName>
+<SecondName>Kushman</SecondName>
+</Author>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Lei</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1015">
+<title>Distributional Semantics in Technicolor</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Elia</FirstName>
+<SecondName>Bruni</SecondName>
+</Author>
+<Author>
+<FirstName>Gemma</FirstName>
+<SecondName>Boleda</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Baroni</SecondName>
+</Author>
+<Author>
+<FirstName>Nam</FirstName>
+<SecondName>Khanh</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1016">
+<title>A Class-Based Agreement Model for Generating Accurately Inflected Translations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Spence</FirstName>
+<SecondName>Green</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>DeNero</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1017">
+<title>Deciphering Foreign Language by Combining Language Models and Context Vectors</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Malte</FirstName>
+<SecondName>Nuhn</SecondName>
+</Author>
+<Author>
+<FirstName>Arne</FirstName>
+<SecondName>Mauser</SecondName>
+</Author>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName>Ney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1018">
+<title>Machine Translation without Words through Substring Alignment</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Taro</FirstName>
+<SecondName>Watanabe</SecondName>
+</Author>
+<Author>
+<FirstName>Shinsuke</FirstName>
+<SecondName>Mori</SecondName>
+</Author>
+<Author>
+<FirstName>Tatsuya</FirstName>
+<SecondName>Kawahara</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1019">
+<title>Fast Syntactic Analysis for Statistical Language Modeling via Substructure Sharing and Uptraining</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ariya</FirstName>
+<SecondName>Rastrow</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Dredze</SecondName>
+</Author>
+<Author>
+<FirstName>Sanjeev</FirstName>
+<SecondName>Khudanpur</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1020">
+<title>Bootstrapping a Unified Model of Lexical and Phonetic Acquisition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Micha</FirstName>
+<SecondName>Elsner</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Goldwater</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1021">
+<title>Discriminative Pronunciation Modeling: A Large-Margin, Feature-Rich Approach</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Tang</SecondName>
+</Author>
+<Author>
+<FirstName>Joseph</FirstName>
+<SecondName>Keshet</SecondName>
+</Author>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Livescu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1022">
+<title>Discriminative Strategies to Integrate Multiword Expression Recognition and Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Matthieu</FirstName>
+<SecondName>Constant</SecondName>
+</Author>
+<Author>
+<FirstName>Anthony</FirstName>
+<SecondName>Sigogne</SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Watrin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1023">
+<title>Utilizing Dependency Language Models for Graph-based Dependency Parsing Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wenliang</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Haizhou</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1024">
+<title>Spectral Learning of Latent-Variable PCFGs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Shay</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Karl</FirstName>
+<SecondName>Stratos</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Dean</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>Lyle</FirstName>
+<SecondName>Ungar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1025">
+<title>Reducing Approximation and Estimation Errors for Chinese Lexical Processing with Heterogeneous Annotations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Weiwei</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaojun</FirstName>
+<SecondName>Wan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1026">
+<title>Capturing Paradigmatic and Syntagmatic Lexical Relations: Towards Accurate Chinese Part-of-Speech Tagging</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Weiwei</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1027">
+<title>Fast Online Training with Frequency-Adaptive Learning Rates for Chinese Word Segmentation and New Word Detection</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xu</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Houfeng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Wenjie</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1028">
+<title>Verb Classification using Distributional Similarity in Syntactic and Semantic Structures</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Danilo</FirstName>
+<SecondName>Croce</SecondName>
+</Author>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Moschitti</SecondName>
+</Author>
+<Author>
+<FirstName>Roberto</FirstName>
+<SecondName>Basili</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1029">
+<title>Word Sense Disambiguation Improves Information Retrieval</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhi</FirstName>
+<SecondName>Zhong</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1030">
+<title>Efficient Search for Transformation-based Inference</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Asher</FirstName>
+<SecondName>Stern</SecondName>
+</Author>
+<Author>
+<FirstName>Roni</FirstName>
+<SecondName>Stern</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+<Author>
+<FirstName>Ariel</FirstName>
+<SecondName>Felner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1031">
+<title>Maximum Expected BLEU Training of Phrase and Lexicon Translation Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Maximum</FirstName>
+<SecondName>Expected</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1032">
+<title>Learning Translation Consensus with Structured Label Propagation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Shujie</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Chi-Ho</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Mu</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1033">
+<title>Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the l0-norm</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ashish</FirstName>
+<SecondName>Vaswani</SecondName>
+</Author>
+<Author>
+<FirstName>Liang</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1034">
+<title>Modeling Review Comments</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Arjun</FirstName>
+<SecondName>Mukherjee</SecondName>
+</Author>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1035">
+<title>A Joint Model for Discovery of Aspects in Utterances</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Asli</FirstName>
+<SecondName>Celikyilmaz</SecondName>
+</Author>
+<Author>
+<FirstName>Dilek</FirstName>
+<SecondName>Hakkani-Tur</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1036">
+<title>Aspect Extraction through Semi-Supervised Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Arjun</FirstName>
+<SecondName>Mukherjee</SecondName>
+</Author>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1037">
+<title>Learning to "Read Between the Lines" using Bayesian Logic Programs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sindhu</FirstName>
+<SecondName>Raghavan</SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>Mooney</SecondName>
+</Author>
+<Author>
+<FirstName>Hyeonseo</FirstName>
+<SecondName>Ku</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1038">
+<title>Collective Generation of Natural Image Descriptions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Polina</FirstName>
+<SecondName>Kuznetsova</SecondName>
+</Author>
+<Author>
+<FirstName>Vicente</FirstName>
+<SecondName>Ordonez</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Berg</SecondName>
+</Author>
+<Author>
+<FirstName>Tamara</FirstName>
+<SecondName>Berg</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1039">
+<title>Concept-to-text Generation via Discriminative Reranking</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ioannis</FirstName>
+<SecondName>Konstas</SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1040">
+<title>A Discriminative Hierarchical Model for Fast Coreference at Large Scale</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Wick</SecondName>
+</Author>
+<Author>
+<FirstName>Sameer</FirstName>
+<SecondName>Singh</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>McCallum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1041">
+<title>Coreference Semantics from Web Features</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1042">
+<title>Subgroup Detection in Ideological Discussions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Amjad</FirstName>
+<SecondName>Abu-Jbara</SecondName>
+</Author>
+<Author>
+<FirstName>Pradeep</FirstName>
+<SecondName>Dasigi</SecondName>
+</Author>
+<Author>
+<FirstName>Mona</FirstName>
+<SecondName>Diab</SecondName>
+</Author>
+<Author>
+<FirstName>Dragomir</FirstName>
+<SecondName>Radev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1043">
+<title>Cross-Domain Co-Extraction of Sentiment and Topic Lexicons</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fangtao</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Sinno</FirstName>
+<SecondName>Jialin</SecondName>
+</Author>
+<Author>
+<FirstName>Ou</FirstName>
+<SecondName>Jin</SecondName>
+</Author>
+<Author>
+<FirstName>Qiang</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoyan</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1044">
+<title>Learning Syntactic Verb Frames using Graphical Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Lippincott</SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Korhonen</SecondName>
+</Author>
+<Author>
+<FirstName>Diarmuid</FirstName>
+<SecondName>�?</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1045">
+<title>Fast Online Lexicon Learning for Grounded Language Acquisition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1046">
+<title>Bayesian Symbol-Refined Tree Substitution Grammars for Syntactic Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiroyuki</FirstName>
+<SecondName>Shindo</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Akinori</FirstName>
+<SecondName>Fujino</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1047">
+<title>String Re-writing Kernel</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fan</FirstName>
+<SecondName>Bu</SecondName>
+</Author>
+<Author>
+<FirstName>Hang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoyan</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1048">
+<title>Translation Model Adaptation for Statistical Machine Translation with Monolingual Topic Information</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jinsong</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Hua</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Haifeng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yidong</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Huailin</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1049">
+<title>A Statistical Model for Unsupervised and Semi-supervised Transliteration Mining</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hassan</FirstName>
+<SecondName>Sajjad</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Fraser</SecondName>
+</Author>
+<Author>
+<FirstName>Helmut</FirstName>
+<SecondName>Schmid</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1050">
+<title>Modified Distortion Matrices for Phrase-Based Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Arianna</FirstName>
+<SecondName>Bisazza</SecondName>
+</Author>
+<Author>
+<FirstName>Marcello</FirstName>
+<SecondName>Federico</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1051">
+<title>Semantic Parsing with Bayesian Tree Transducers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bevan</FirstName>
+<SecondName>Jones</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Goldwater</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1052">
+<title>Dependency Hashing for n-best CCG Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dominick</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1053">
+<title>Strong Lexicalization of Tree Adjoining Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Maletti</SecondName>
+</Author>
+<Author>
+<FirstName>Joost</FirstName>
+<SecondName>Engelfriet</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1054">
+<title>Tweet Recommendation with Graph Co-Ranking</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rui</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoming</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1055">
+<title>Joint Inference of Named Entity Recognition and Normalization for Tweets</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiaohua</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Xiangyang</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Zhongyang</FirstName>
+<SecondName>Fu</SecondName>
+</Author>
+<Author>
+<FirstName>Furu</FirstName>
+<SecondName>Wei</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1056">
+<title>Finding Bursty Topics from Microblogs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Qiming</FirstName>
+<SecondName>Diao</SecondName>
+</Author>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Feida</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Ee-Peng</FirstName>
+<SecondName>Lim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1057">
+<title>Spice it up? Mining Refinements to Online Instructions from User Generated Content</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gregory</FirstName>
+<SecondName>Druck</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Pang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1058">
+<title>Sentence Dependency Tagging in Online Question Answering Forums</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhonghua</FirstName>
+<SecondName>Qu</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1059">
+<title>Mining Entity Types from Query Logs via User Intent Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Pantel</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Gamon</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1060">
+<title>Cross-Lingual Mixture Model for Sentiment Classification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xinfan</FirstName>
+<SecondName>Meng</SecondName>
+</Author>
+<Author>
+<FirstName>Furu</FirstName>
+<SecondName>Wei</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaohua</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Ge</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Houfeng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1061">
+<title>Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wen</FirstName>
+<SecondName>Chan</SecondName>
+</Author>
+<Author>
+<FirstName>Xiangdong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Tat-Seng</FirstName>
+<SecondName>Chua</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1062">
+<title>Error Mining on Dependency Trees</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Gardent</SecondName>
+</Author>
+<Author>
+<FirstName>Shashi</FirstName>
+<SecondName>Narayan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1063">
+<title>Computational Approaches to Sentence Completion</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Geoffrey</FirstName>
+<SecondName>Zweig</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Meek</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>J.C.</SecondName>
+</Author>
+<Author>
+<FirstName>Ainur</FirstName>
+<SecondName>Yessenalina</SecondName>
+</Author>
+<Author>
+<FirstName>Qiang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1064">
+<title>Iterative Viterbi A* Algorithm for K-Best Sequential Decoding</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhiheng</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Long</SecondName>
+</Author>
+<Author>
+<FirstName>Jean-Francois</FirstName>
+<SecondName>Crespo</SecondName>
+</Author>
+<Author>
+<FirstName>Anlei</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Sathiya</FirstName>
+<SecondName>Keerthi</SecondName>
+</Author>
+<Author>
+<FirstName>Su-Lin</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1065">
+<title>Bootstrapping via Graph Propagation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Max</FirstName>
+<SecondName>Whitney</SecondName>
+</Author>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1066">
+<title>Selective Sharing for Multilingual Dependency Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tahira</FirstName>
+<SecondName>Naseem</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>Amir</FirstName>
+<SecondName>Globerson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1067">
+<title>The Creation of a Corpus of English Metalanguage</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Shomir</FirstName>
+<SecondName>Wilson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1068">
+<title>Crosslingual Induction of Semantic Roles</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Titov</SecondName>
+</Author>
+<Author>
+<FirstName>Alexandre</FirstName>
+<SecondName>Klementiev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1069">
+<title>Head-driven Transition-based Parsing with Top-down Prediction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Katsuhiko</FirstName>
+<SecondName>Hayashi</SecondName>
+</Author>
+<Author>
+<FirstName>Taro</FirstName>
+<SecondName>Watanabe</SecondName>
+</Author>
+<Author>
+<FirstName>Masayuki</FirstName>
+<SecondName>Asahara</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1070">
+<title>MIX Is Not a Tree-Adjoining Language</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Makoto</FirstName>
+<SecondName>Kanazawa</SecondName>
+</Author>
+<Author>
+<FirstName>Sylvain</FirstName>
+<SecondName>Salvati</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1071">
+<title>Exploiting Multiple Treebanks for Parsing with Quasi-synchronous Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhenghua</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Ting</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Wanxiang</FirstName>
+<SecondName>Che</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1072">
+<title>A Probabilistic Model for Canonicalizing Named Entity Mentions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dani</FirstName>
+<SecondName>Yogatama</SecondName>
+</Author>
+<Author>
+<FirstName>Yanchuan</FirstName>
+<SecondName>Sim</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1073">
+<title>Multilingual Named Entity Recognition using Parallel Data and Metadata from Wikipedia</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sungchul</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+<Author>
+<FirstName>Hwanjo</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1074">
+<title>A Computational Approach to the Automation of Creative Naming</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gozde</FirstName>
+<SecondName>Ozbal</SecondName>
+</Author>
+<Author>
+<FirstName>Carlo</FirstName>
+<SecondName>Strapparava</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1075">
+<title>Unsupervised Relation Discovery with Sense Disambiguation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Limin</FirstName>
+<SecondName>Yao</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>McCallum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1076">
+<title>Reducing Wrong Labels in Distant Supervision for Relation Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Shingo</FirstName>
+<SecondName>Takamatsu</SecondName>
+</Author>
+<Author>
+<FirstName>Issei</FirstName>
+<SecondName>Sato</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Nakagawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1077">
+<title>Finding Salient Dates for Building Thematic Timelines</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rémy</FirstName>
+<SecondName>Kessler</SecondName>
+</Author>
+<Author>
+<FirstName>Xavier</FirstName>
+<SecondName>Tannier</SecondName>
+</Author>
+<Author>
+<FirstName>Caroline</FirstName>
+<SecondName>Hagège</SecondName>
+</Author>
+<Author>
+<FirstName>Véronique</FirstName>
+<SecondName>Moriceau</SecondName>
+</Author>
+<Author>
+<FirstName>André</FirstName>
+<SecondName>Bittar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1078">
+<title>Historical Analysis of Legal Opinions with a Sparse Mixed-Effects Latent Variable Model</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Elijah</FirstName>
+<SecondName>Mayfield</SecondName>
+</Author>
+<Author>
+<FirstName>Suresh</FirstName>
+<SecondName>Naidu</SecondName>
+</Author>
+<Author>
+<FirstName>Jeremiah</FirstName>
+<SecondName>Dittmar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1079">
+<title>A Topic Similarity Model for Hierarchical Phrase-based Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xinyan</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+<Author>
+<FirstName>Deyi</FirstName>
+<SecondName>Xiong</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Shouxun</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1080">
+<title>Modeling Topic Dependencies in Hierarchical Text Categorization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Moschitti</SecondName>
+</Author>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Ju</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Johansson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1081">
+<title>Attacking Parsing Bottlenecks with Unlabeled Data and Relevant Factorizations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Emily</FirstName>
+<SecondName>Pitler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1082">
+<title>Semi-supervised Dependency Parsing using Lexical Affinities</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Seyed</FirstName>
+<SecondName>Abolghasem</SecondName>
+</Author>
+<Author>
+<FirstName>Alexis</FirstName>
+<SecondName>Nasr</SecondName>
+</Author>
+<Author>
+<FirstName>Joseph</FirstName>
+<SecondName>Le</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1083">
+<title>Chinese Comma Disambiguation for Discourse Analysis</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yaqin</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Nianwen</FirstName>
+<SecondName>Xue</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1084">
+<title>Collective Classification for Fine-grained Information Status</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Katja</FirstName>
+<SecondName>Markert</SecondName>
+</Author>
+<Author>
+<FirstName>Yufang</FirstName>
+<SecondName>Hou</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1085">
+<title>Structuring E-Commerce Inventory</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karin</FirstName>
+<SecondName>Mauge</SecondName>
+</Author>
+<Author>
+<FirstName>Khash</FirstName>
+<SecondName>Rohanimanesh</SecondName>
+</Author>
+<Author>
+<FirstName>Jean-David</FirstName>
+<SecondName>Ruvini</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1086">
+<title>Named Entity Disambiguation in Streaming Data</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alexandre</FirstName>
+<SecondName>Davis</SecondName>
+</Author>
+<Author>
+<FirstName>Adriano</FirstName>
+<SecondName>Veloso</SecondName>
+</Author>
+<Author>
+<FirstName>Altigran</FirstName>
+<SecondName>Soares</SecondName>
+</Author>
+<Author>
+<FirstName>Alberto</FirstName>
+<SecondName>Laender</SecondName>
+</Author>
+<Author>
+<FirstName>Wagner</FirstName>
+<SecondName>Meira</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1087">
+<title>Big Data versus the Crowd: Looking for Relationships in All the Right Places</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ce</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Feng</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Ré</SecondName>
+</Author>
+<Author>
+<FirstName>Jude</FirstName>
+<SecondName>Shavlik</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1088">
+<title>Automatic Event Extraction with Structured Preference Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1089">
+<title>Discriminative Learning for Joint Template Filling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Einat</FirstName>
+<SecondName>Minkov</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1090">
+<title>Classifying French Verbs Using French and English Lexical Resources</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ingrid</FirstName>
+<SecondName>Falk</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Gardent</SecondName>
+</Author>
+<Author>
+<FirstName>Jean-Charles</FirstName>
+<SecondName>Lamirel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1091">
+<title>Modeling Sentences in the Latent Space</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Modeling</FirstName>
+<SecondName>Sentences</SecondName>
+</Author>
+<Author>
+<FirstName>Weiwei</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Mona</FirstName>
+<SecondName>Diab</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1092">
+<title>Improving Word Representations via Global Context and Multiple Word Prototypes</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Socher</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Manning</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1093">
+<title>Exploiting Social Information in Grounded Language Learning via Grammatical Reduction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Katherine</FirstName>
+<SecondName>Demuth</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Frank</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1094">
+<title>You Had Me at Hello: How Phrasing Affects Memorability</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cristian</FirstName>
+<SecondName>Danescu-Niculescu-Mizil</SecondName>
+</Author>
+<Author>
+<FirstName>Justin</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>Kleinberg</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1095">
+<title>Modeling the Translation of Predicate-Argument Structure for SMT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Deyi</FirstName>
+<SecondName>Xiong</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Haizhou</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1096">
+<title>A Ranking-based Approach to Word Reordering for Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nan</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Mu</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Dongdong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Nenghai</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1097">
+<title>Character-Level Machine Translation Evaluation for Languages with Ambiguous Word Boundaries</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1098">
+<title>PORT: a Precision-Order-Recall MT Evaluation Metric for Tuning</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Boxing</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Roland</FirstName>
+<SecondName>Kuhn</SecondName>
+</Author>
+<Author>
+<FirstName>Samuel</FirstName>
+<SecondName>Larkin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1099">
+<title>Mixing Multiple Translation Models in Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Majid</FirstName>
+<SecondName>Razmara</SecondName>
+</Author>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>Foster</SecondName>
+</Author>
+<Author>
+<FirstName>Baskaran</FirstName>
+<SecondName>Sankaran</SecondName>
+</Author>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1100">
+<title>Hierarchical Chunk-to-String Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Feng</SecondName>
+</Author>
+<Author>
+<FirstName>Dongdong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Mu</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1101">
+<title>Large-Scale Syntactic Language Modeling with Treelets</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Pauls</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1102">
+<title>Text Segmentation by Language Using Minimum Description Length</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Yamaguchi</SecondName>
+</Author>
+<Author>
+<FirstName>Kumiko</FirstName>
+<SecondName>Tanaka-Ishii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1103">
+<title>Improve SMT Quality with Automatically Extracted Paraphrase Rules</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Hua</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Haifeng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Ting</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1104">
+<title>Ecological Evaluation of Persuasive Messages Using Google AdWords</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Guerini</SecondName>
+</Author>
+<Author>
+<FirstName>Carlo</FirstName>
+<SecondName>Strapparava</SecondName>
+</Author>
+<Author>
+<FirstName>Oliviero</FirstName>
+<SecondName>Stock</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1105">
+<title>Polarity Consistency Checking for Sentiment Dictionaries</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Dragut</SecondName>
+</Author>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Clement</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Prasad</FirstName>
+<SecondName>Sistla</SecondName>
+</Author>
+<Author>
+<FirstName>Weiyi</FirstName>
+<SecondName>Meng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1106">
+<title>Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization Evaluation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ziheng</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Chang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+<Author>
+<FirstName>Min-Yen</FirstName>
+<SecondName>Kan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1107">
+<title>Sentence Simplification by Monolingual Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sander</FirstName>
+<SecondName>Wubben</SecondName>
+</Author>
+<Author>
+<FirstName>Antal</FirstName>
+<SecondName>van</SecondName>
+</Author>
+<Author>
+<FirstName>Emiel</FirstName>
+<SecondName>Krahmer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1108">
+<title>A Cost Sensitive Part-of-Speech Tagging: Differentiating Serious Errors from Minor Errors</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hyun-Je</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Jeong-Woo</FirstName>
+<SecondName>Son</SecondName>
+</Author>
+<Author>
+<FirstName>Tae-Gil</FirstName>
+<SecondName>Noh</SecondName>
+</Author>
+<Author>
+<FirstName>Seong-Bae</FirstName>
+<SecondName>Park</SecondName>
+</Author>
+<Author>
+<FirstName>Sang-Jo</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1109">
+<title>A Broad-Coverage Normalization System for Social Media Language</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Fuliang</FirstName>
+<SecondName>Weng</SecondName>
+</Author>
+<Author>
+<FirstName>Xiao</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1110">
+<title>Incremental Joint Approach to Word Segmentation, POS Tagging, and Dependency Parsing in Chinese</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jun</FirstName>
+<SecondName>Hatori</SecondName>
+</Author>
+<Author>
+<FirstName>Takuya</FirstName>
+<SecondName>Matsuzaki</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Jun'ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-1111">
+<title>Exploring Deterministic Constraints: from a Constrained English POS Tagger to an Efficient ILP Solution to Chinese Word Segmentation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Qiuye</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Mitch</FirstName>
+<SecondName>Marcus</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2012</Year>
+</Paper>
+
+
+<Paper id ="P12-2001">
+<title>Higher-order Constituent Parsing and Parser Combination</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiao</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Chunyu</FirstName>
+<SecondName>Kit</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2002">
+<title>Joint Evaluation of Morphological Segmentation and Syntactic Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Reut</FirstName>
+<SecondName>Tsarfaty</SecondName>
+</Author>
+<Author>
+<FirstName>Joakim</FirstName>
+<SecondName>Nivre</SecondName>
+</Author>
+<Author>
+<FirstName>Evelina</FirstName>
+<SecondName>Andersson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2003">
+<title>A Comparison of Chinese Parsers for Stanford Dependencies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Wanxiang</FirstName>
+<SecondName>Che</SecondName>
+</Author>
+<Author>
+<FirstName>Valentin</FirstName>
+<SecondName>Spitkovsky</SecondName>
+</Author>
+<Author>
+<FirstName>Ting</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2004">
+<title>A Feature-Rich Constituent Context Model for Grammar Induction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dave</FirstName>
+<SecondName>Golland</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>DeNero</SecondName>
+</Author>
+<Author>
+<FirstName>Jakob</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2005">
+<title>Private Access to Phrase Tables for Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nicola</FirstName>
+<SecondName>Cancedda</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2006">
+<title>Fast and Scalable Decoding with Language Model Look-Ahead for Phrase-based Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joern</FirstName>
+<SecondName>Wuebker</SecondName>
+</Author>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName>Ney</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Zens</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2007">
+<title>Head-Driven Hierarchical Phrase-based Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Junhui</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Zhaopeng</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+<Author>
+<FirstName>Guodong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Josef</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2008">
+<title>Joint Learning of a Dual SMT System for Paraphrase Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2009">
+<title>A Novel Burst-based Text Representation Model for Scalable Event Detection</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xin</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Rishan</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Kai</FirstName>
+<SecondName>Fan</SecondName>
+</Author>
+<Author>
+<FirstName>Hongfei</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoming</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2010">
+<title>A Graph-based Cross-lingual Projection Approach for Weakly Supervised Relation Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Seokhwan</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Gary</FirstName>
+<SecondName>Geunbae</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2011">
+<title>Pattern Learning for Relation Extraction with a Hierarchical Topic Model</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Enrique</FirstName>
+<SecondName>Alfonseca</SecondName>
+</Author>
+<Author>
+<FirstName>Katja</FirstName>
+<SecondName>Filippova</SecondName>
+</Author>
+<Author>
+<FirstName>Jean-Yves</FirstName>
+<SecondName>Delort</SecondName>
+</Author>
+<Author>
+<FirstName>Guillermo</FirstName>
+<SecondName>Garrido</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2012">
+<title>Self-Disclosure and Relationship Strength in Twitter Conversations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>JinYeong</FirstName>
+<SecondName>Bak</SecondName>
+</Author>
+<Author>
+<FirstName>Suin</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Alice</FirstName>
+<SecondName>Oh</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2013">
+<title>Genre Independent Subgroup Detection in Online Discussion Threads: A Study of Implicit Attitude using Textual Latent Semantics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pradeep</FirstName>
+<SecondName>Dasigi</SecondName>
+</Author>
+<Author>
+<FirstName>Weiwei</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Mona</FirstName>
+<SecondName>Diab</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2014">
+<title>Learning to Temporally Order Medical Events in Clinical Text</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Preethi</FirstName>
+<SecondName>Raghavan</SecondName>
+</Author>
+<Author>
+<FirstName>Albert</FirstName>
+<SecondName>Lai</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Fosler-Lussier</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2015">
+<title>A Context-sensitive, Multi-faceted Model of Lexico-Conceptual Affect</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tony</FirstName>
+<SecondName>Veale</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2016">
+<title>Decoding Running Key Ciphers</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sravana</FirstName>
+<SecondName>Reddy</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2017">
+<title>Using Rejuvenation to Improve Particle Filtering for Bayesian Word Segmentation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Börschinger</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2018">
+<title>Baselines and Bigrams: Simple, Good Sentiment and Topic Classification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sida</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Manning</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2019">
+<title>Automatically Learning Measures of Child Language Development</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sam</FirstName>
+<SecondName>Sahakian</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Snyder</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2020">
+<title>A Comparative Study of Target Dependency Structures for Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xianchao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Katsuhito</FirstName>
+<SecondName>Sudoh</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Duh</SecondName>
+</Author>
+<Author>
+<FirstName>Hajime</FirstName>
+<SecondName>Tsukada</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2021">
+<title>Robust Conversion of CCG Derivations to Phrase Structure Trees</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2022">
+<title>Estimating Compact Yet Rich Tree Insertion Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Elif</FirstName>
+<SecondName>Yamangil</SecondName>
+</Author>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>Shieber</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2023">
+<title>Topic Models for Dynamic Translation Model Adaptation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Vladimir</FirstName>
+<SecondName>Eidelman</SecondName>
+</Author>
+<Author>
+<FirstName>Jordan</FirstName>
+<SecondName>Boyd-Graber</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2024">
+<title>Detecting Semantic Equivalence and Information Disparity in Cross-lingual Documents</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yashar</FirstName>
+<SecondName>Mehdad</SecondName>
+</Author>
+<Author>
+<FirstName>Matteo</FirstName>
+<SecondName>Negri</SecondName>
+</Author>
+<Author>
+<FirstName>Marcello</FirstName>
+<SecondName>Federico</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2025">
+<title>Cross-lingual Parse Disambiguation based on Semantic Correspondence</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lea</FirstName>
+<SecondName>Frermann</SecondName>
+</Author>
+<Author>
+<FirstName>Francis</FirstName>
+<SecondName>Bond</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2026">
+<title>Learning to Find Translations and Transliterations on the Web</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joseph</FirstName>
+<SecondName>Z.</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Jyh-Shing</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2027">
+<title>Beefmoves: Dissemination, Diversity, and Dynamics of English Borrowings in a German Hip Hop Forum</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Matt</FirstName>
+<SecondName>Garley</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2028">
+<title>Learning the Latent Semantics of a Concept from its Definition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Weiwei</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Mona</FirstName>
+<SecondName>Diab</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2029">
+<title>Unsupervised Semantic Role Induction with Global Role Ordering</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nikhil</FirstName>
+<SecondName>Garg</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2030">
+<title>Humor as Circuits in Semantic Networks</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Igor</FirstName>
+<SecondName>Labutov</SecondName>
+</Author>
+<Author>
+<FirstName>Hod</FirstName>
+<SecondName>Lipson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2031">
+<title>Crowdsourcing Inference-Rule Evaluation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Naomi</FirstName>
+<SecondName>Zeichner</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Berant</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2032">
+<title>A Comprehensive Gold Standard for the Enron Organizational Hierarchy</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Apoorv</FirstName>
+<SecondName>Agarwal</SecondName>
+</Author>
+<Author>
+<FirstName>Adinoyi</FirstName>
+<SecondName>Omuya</SecondName>
+</Author>
+<Author>
+<FirstName>Aaron</FirstName>
+<SecondName>Harnly</SecondName>
+</Author>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2033">
+<title>A Two-step Approach to Sentence Compression of Spoken Utterances</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dong</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Xian</FirstName>
+<SecondName>Qian</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2034">
+<title>Syntactic Stylometry for Deception Detection</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Song</FirstName>
+<SecondName>Feng</SecondName>
+</Author>
+<Author>
+<FirstName>Ritwik</FirstName>
+<SecondName>Banerjee</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2035">
+<title>Transforming Standard Arabic to Colloquial Arabic</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Emad</FirstName>
+<SecondName>Mohamed</SecondName>
+</Author>
+<Author>
+<FirstName>Behrang</FirstName>
+<SecondName>Mohit</SecondName>
+</Author>
+<Author>
+<FirstName>Kemal</FirstName>
+<SecondName>Oflazer</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2036">
+<title>Corpus-based Interpretation of Instructions in Virtual Environments</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Luciana</FirstName>
+<SecondName>Benotti</SecondName>
+</Author>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Villalba</SecondName>
+</Author>
+<Author>
+<FirstName>Tessa</FirstName>
+<SecondName>Lau</SecondName>
+</Author>
+<Author>
+<FirstName>Julian</FirstName>
+<SecondName>Cerruti</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2037">
+<title>Automatically Mining Question Reformulation Patterns from Search Log Data</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiaobing</FirstName>
+<SecondName>Xue</SecondName>
+</Author>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Tao</SecondName>
+</Author>
+<Author>
+<FirstName>Daxin</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Hang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2038">
+<title>Native Language Detection with Tree Substitution Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Swanson</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2039">
+<title>Tense and Aspect Error Correction for ESL Learners Using Global Context</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Toshikazu</FirstName>
+<SecondName>Tajiri</SecondName>
+</Author>
+<Author>
+<FirstName>Mamoru</FirstName>
+<SecondName>Komachi</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2040">
+<title>Movie-DiC: a Movie Dialogue Corpus for Research and Development</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rafael</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2041">
+<title>Combining Textual Entailment and Argumentation Theory for Supporting Online Debates Interactions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Elena</FirstName>
+<SecondName>Cabrio</SecondName>
+</Author>
+<Author>
+<FirstName>Serena</FirstName>
+<SecondName>Villata</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2042">
+<title>Towards the Unsupervised Acquisition of Discourse Relations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christian</FirstName>
+<SecondName>Chiarcos</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2043">
+<title>Arabic Retrieval Revisited: Morphological Hole Filling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kareem</FirstName>
+<SecondName>Darwish</SecondName>
+</Author>
+<Author>
+<FirstName>Ahmed</FirstName>
+<SecondName>Ali</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2044">
+<title>Extracting and modeling durations for habits and events from Twitter</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Williams</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Katz</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2045">
+<title>Event Linking: Grounding Event Reference in a News Archive</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joel</FirstName>
+<SecondName>Nothman</SecondName>
+</Author>
+<Author>
+<FirstName>Matthew</FirstName>
+<SecondName>Honnibal</SecondName>
+</Author>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName>Hachey</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2046">
+<title>Coupling Label Propagation and Constraints for Temporal Fact Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yafang</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Maximilian</FirstName>
+<SecondName>Dylla</SecondName>
+</Author>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Spaniol</SecondName>
+</Author>
+<Author>
+<FirstName>Gerhard</FirstName>
+<SecondName>Weikum</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2047">
+<title>Using Search-Logs to Improve Query Tagging</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kuzman</FirstName>
+<SecondName>Ganchev</SecondName>
+</Author>
+<Author>
+<FirstName>Keith</FirstName>
+<SecondName>Hall</SecondName>
+</Author>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>McDonald</SecondName>
+</Author>
+<Author>
+<FirstName>Slav</FirstName>
+<SecondName>Petrov</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2048">
+<title>Toward Automatically Assembling Hittite-Language Cuneiform Tablet Fragments into Larger Texts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Tyndall</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2049">
+<title>A Corpus of Textual Revisions in Second Language Writing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Webster</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2050">
+<title>Coarse Lexical Semantic Annotation with Supersenses: An Arabic Case Study</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nathan</FirstName>
+<SecondName>Schneider</SecondName>
+</Author>
+<Author>
+<FirstName>Behrang</FirstName>
+<SecondName>Mohit</SecondName>
+</Author>
+<Author>
+<FirstName>Kemal</FirstName>
+<SecondName>Oflazer</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2051">
+<title>Word Epoch Disambiguation: Finding How Words Change Over Time</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rada</FirstName>
+<SecondName>Mihalcea</SecondName>
+</Author>
+<Author>
+<FirstName>Vivi</FirstName>
+<SecondName>Nastase</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2052">
+<title>Authorship Attribution with Author-aware Topic Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Authorship</FirstName>
+<SecondName>Attribution</SecondName>
+</Author>
+<Author>
+<FirstName>Yanir</FirstName>
+<SecondName>Seroussi</SecondName>
+</Author>
+<Author>
+<FirstName>Fabian</FirstName>
+<SecondName>Bohnert</SecondName>
+</Author>
+<Author>
+<FirstName>Ingrid</FirstName>
+<SecondName>Zukerman</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2053">
+<title>Information-theoretic Multi-view Domain Adaptation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pei</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+<Author>
+<FirstName>Kam-Fai</FirstName>
+<SecondName>Wong</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2054">
+<title>Efficient Tree-Based Topic Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Efficient</FirstName>
+<SecondName>Tree-Based</SecondName>
+</Author>
+<Author>
+<FirstName>Yuening</FirstName>
+<SecondName>Hu</SecondName>
+</Author>
+<Author>
+<FirstName>Jordan</FirstName>
+<SecondName>Boyd-Graber</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2055">
+<title>Learning Better Rule Extraction with Translation Span Alignment</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jingbo</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Tong</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+<Author>
+<FirstName>Chunliang</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2056">
+<title>Enhancing Statistical Machine Translation with Character Alignment</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ning</FirstName>
+<SecondName>Xi</SecondName>
+</Author>
+<Author>
+<FirstName>Guangchao</FirstName>
+<SecondName>Tang</SecondName>
+</Author>
+<Author>
+<FirstName>Xinyu</FirstName>
+<SecondName>Dai</SecondName>
+</Author>
+<Author>
+<FirstName>Shujian</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Jiajun</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2057">
+<title>Translation Model Size Reduction for Hierarchical Phrase-based Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Seung-Wook</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Dongdong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Mu</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Hae-Chang</FirstName>
+<SecondName>Rim</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2058">
+<title>Heuristic Cube Pruning in Linear Time</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrea</FirstName>
+<SecondName>Gesmundo</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2059">
+<title>Combining Word-Level and Character-Level Models for Machine Translation Between Closely-Related Languages</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Preslav</FirstName>
+<SecondName>Nakov</SecondName>
+</Author>
+<Author>
+<FirstName>Jörg</FirstName>
+<SecondName>Tiedemann</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2060">
+<title>Improving the IBM Alignment Models Using Variational Bayes</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Darcey</FirstName>
+<SecondName>Riley</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2061">
+<title>Post-ordering by Parsing for Japanese-English Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Isao</FirstName>
+<SecondName>Goto</SecondName>
+</Author>
+<Author>
+<FirstName>Masao</FirstName>
+<SecondName>Utiyama</SecondName>
+</Author>
+<Author>
+<FirstName>Eiichiro</FirstName>
+<SecondName>Sumita</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2062">
+<title>An Exploration of Forest-to-String Translation: Does Translation Help or Hurt Parsing?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>An</FirstName>
+<SecondName>Exploration</SecondName>
+</Author>
+<Author>
+<FirstName>Hui</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2063">
+<title>Unsupervised Morphology Rivals Supervised Morphology for Arabic MT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Stallard</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Devlin</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Kayser</SecondName>
+</Author>
+<Author>
+<FirstName>Yoong</FirstName>
+<SecondName>Keok</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2064">
+<title>A Meta Learning Approach to Grammatical Error Correction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hongsuck</FirstName>
+<SecondName>Seo</SecondName>
+</Author>
+<Author>
+<FirstName>Jonghoon</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Seokhwan</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Kyusong</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Sechun</FirstName>
+<SecondName>Kang</SecondName>
+</Author>
+<Author>
+<FirstName>Gary</FirstName>
+<SecondName>Geunbae</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2065">
+<title>Fine Granular Aspect Analysis using Latent Structural Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Fang</SecondName>
+</Author>
+<Author>
+<FirstName>Minlie</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2066">
+<title>Identifying High-Impact Sub-Structures for Convolution Kernels in Document-level Sentiment Classification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhaopeng</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+<Author>
+<FirstName>Yifan</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Foster</SecondName>
+</Author>
+<Author>
+<FirstName>Josef</FirstName>
+<SecondName>van</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Shouxun</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2067">
+<title>Exploiting Latent Information to Predict Diffusions of Novel Topics on Social Networks</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tsung-Ting</FirstName>
+<SecondName>Kuo</SecondName>
+</Author>
+<Author>
+<FirstName>San-Chuan</FirstName>
+<SecondName>Hung</SecondName>
+</Author>
+<Author>
+<FirstName>Wei-Shih</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Nanyun</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Shou-De</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Wei-Fen</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2068">
+<title>Sentence Compression with Semantic Role Constraints</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Katsumasa</FirstName>
+<SecondName>Yoshikawa</SecondName>
+</Author>
+<Author>
+<FirstName>Ryu</FirstName>
+<SecondName>Iida</SecondName>
+</Author>
+<Author>
+<FirstName>Tsutomu</FirstName>
+<SecondName>Hirao</SecondName>
+</Author>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Okumura</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2069">
+<title>Fully Abstractive Approach to Guided Summarization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pierre-Etienne</FirstName>
+<SecondName>Genest</SecondName>
+</Author>
+<Author>
+<FirstName>Guy</FirstName>
+<SecondName>Lapalme</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2070">
+<title>Assessing the Effect of Inconsistent Assessors on Summarization Evaluation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karolina</FirstName>
+<SecondName>Owczarzak</SecondName>
+</Author>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Hoa</FirstName>
+<SecondName>Trang</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2071">
+<title>Fast and Robust Part-of-Speech Tagging Using Dynamic Model Selection</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jinho</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2072">
+<title>Lemmatisation as a Tagging Task</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrea</FirstName>
+<SecondName>Gesmundo</SecondName>
+</Author>
+<Author>
+<FirstName>Tanja</FirstName>
+<SecondName>Samardzic</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2073">
+<title>How Are Spelling Errors Generated and Corrected? A Study of Corrected and Uncorrected Spelling Errors Using Keystroke Logs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yukino</FirstName>
+<SecondName>Baba</SecondName>
+</Author>
+<Author>
+<FirstName>Hisami</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2074">
+<title>Tokenization: Returning to a Long Solved Problem �?? A Survey, Contrastive Experiment, Recommendations, and Toolkit �??</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Dridan</SecondName>
+</Author>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Oepen</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2075">
+<title>Unsupervized Word Segmentation: the Case for Mandarin Chinese</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pierre</FirstName>
+<SecondName>Magistry</SecondName>
+</Author>
+<Author>
+<FirstName>Benoît</FirstName>
+<SecondName>Sagot</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>
+
+
+
+
+<Paper id ="P12-2076">
+<title>Grammar Error Correction Using Pseudo-Error Sentences and Domain Adaptation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName>Imamura</SecondName>
+</Author>
+<Author>
+<FirstName>Kuniko</FirstName>
+<SecondName>Saito</SecondName>
+</Author>
+<Author>
+<FirstName>Kugatsu</FirstName>
+<SecondName>Sadamitsu</SecondName>
+</Author>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>Nishikawa</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2012</Year>
+</Paper>

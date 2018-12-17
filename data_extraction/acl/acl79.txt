@@ -1,0 +1,468 @@
+<Paper id ="P79-1001">
+<title>Syntactic Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Kay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1002">
+<title>TOWARDS A SELF-EXTENDING PARSER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1003">
+<title>WORD EXPERT PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1004">
+<title>Schank/Riesbeck vs. Norman/Rumelhart: What's the Difference?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Eisenstadt</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1005">
+<title>TOWARD A COMPUTATIONAL THEORY OF SPEECH PERCEPTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>All</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1006">
+<title>UNGRAMMATICALITY AND EXTRA-GRAMMATICALITY IN NATURAL LANGUAGE UNDERSTANDING SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stan</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Norman</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1007">
+<title>GENERALIZED AUGMENTED TRANSITIOM METWORK GRAMMARS FOR GENERATION FROM SEMANTIC NETWORKS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1008">
+<title>KNOWLEDGE ORGANIZATION AND APPLICATION: BRIEF COMMENTS ON PAPERS IN THE SESSION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1009">
+<title>Taxonomy, Descriptions, and Individuals in Natural Language Understanding</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ronald</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1010">
+<title>Semantics of Conceptual Graphs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1011">
+<title>ON THE AUTOMATIC TRANSFORMATION OF CLASS MEMBERSHIP CRITERIA</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1012">
+<title>A SNAPSHOT OF KDS A KNOWLEDGE DELIVERY SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1013">
+<title>The Use of Object-Specific Knowledge In Natural Language Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1014">
+<title>READING WITH A PURPOSE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Lebowitz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1015">
+<title>DISCOURSE: CODES AND CLUES IN CONTEXTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jane</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1016">
+<title>Paraphrasing Using Given and New Information in a Question-Answer System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1017">
+<title>WHERE QUESTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Benny</FirstName>
+<SecondName>Shanon</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1018">
+<title>The Role Of Focussing in Interpretation of Pronouns</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Candace</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1019">
+<title>The Structure and Process of Talking About Doing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Edwin</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1020">
+<title>DESIGN FOR DIALOGUE COMPREHENSION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1021">
+<title>Plans, Inference, and Indirect Speech Acts</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1022">
+<title>APPLICATIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>DAVID</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1023">
+<title>EUFID: A FRIENDLY AND FLEXIBLE FRONT-END FOR DATA MANAGEMENT SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marjorie</FirstName>
+<SecondName>Templeton</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1024">
+<title>AN APPLICATION OF AUTOMATED LANGUAGE UNDERSTANDING TECHNIQUES TO THE GENERATION OF DATA BASE ELEMENTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Georgette</FirstName>
+<SecondName>Silva</SecondName>
+</Author>
+<Author>
+<FirstName>Christine</FirstName>
+<SecondName>Montgomery</SecondName>
+</Author>
+<Author>
+<FirstName>Don</FirstName>
+<SecondName>Dwiggins</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1025">
+<title>RESPONSE GENERATION IN QUESTION - ANSWERING SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>Grishman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1026">
+<title>NATURAL LANGUAGE INPUT TO A COMPUTER-BASED GLAUCOMA CONSULTATION SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Victor</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1027">
+<title>PROSPECTS FOR COMPUTER-ASSISTED DIALECT ADAPTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>
+
+
+
+
+<Paper id ="P79-1028">
+<title>Powerful ideas in computational linquistics - Implications for problem solving, and education</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gerhard</FirstName>
+<SecondName>Fischer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1979</Year>
+</Paper>

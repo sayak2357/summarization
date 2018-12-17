@@ -1,0 +1,1032 @@
+<Paper id ="P96-1001">
+<title>Higher-Order Coloured Unification and Natural Language Semantics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Gardent</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Kohlhase</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1002">
+<title>A Model-Theoretic Framework for Theories of Syntax</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Rogers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1003">
+<title>Noun Phrase Analysis in Large Unrestricted Text for Information Retrieval</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Chengxiang</FirstName>
+<SecondName>Zhai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1004">
+<title>Morphological Cues for Lexical Semantics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Light</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1005">
+<title>From Submit to Submitted via Submission: On Lexical Rules in Large-Scale Lexicon Acquisition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Evelyne</FirstName>
+<SecondName>Viegas</SecondName>
+</Author>
+<Author>
+<FirstName>Boyan</FirstName>
+<SecondName>Onyshkevych</SecondName>
+</Author>
+<Author>
+<FirstName>Victor</FirstName>
+<SecondName>Raskin</SecondName>
+</Author>
+<Author>
+<FirstName>Sergei</FirstName>
+<SecondName>Nirenburg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1006">
+<title>Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+<Author>
+<FirstName>Hian</FirstName>
+<SecondName>Beng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1007">
+<title>Using Eye Movements to Study Spoken Language Comprehension: Evidence .for Incremental Interpretation (Invited Talk)</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1008">
+<title>A Fully Statistical Approach to Natural Language Interfaces</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Miller</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Stallard</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Bobrow</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Schwartz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1009">
+<title>A Robust System for Natural Spoken Dialogue</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Bradford</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Teresa</FirstName>
+<SecondName>Sikorski</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1010">
+<title>Combining Trigram-Based and Feature-Based Methods for Context-Sensitive Spelling Correction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Golding</SecondName>
+</Author>
+<Author>
+<FirstName>Yves</FirstName>
+<SecondName>Schabes</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1011">
+<title>Efficient Normal-Form Parsing for Combinatory Categorial Grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1012">
+<title>Another Facet of LIG Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pierre</FirstName>
+<SecondName>Boullier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1013">
+<title>Parsing with Semidirectional Lambek Grammar is NP-Complete</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jochen</FirstName>
+<SecondName>Dörre</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1014">
+<title>Computing Optimal Descriptions for Optimality Theory Grammars with Context-Free Position Structures</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bruce</FirstName>
+<SecondName>Tesar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1015">
+<title>Directed Replacement</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lauri</FirstName>
+<SecondName>Karttunen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1016">
+<title>Synchronous Models off Language</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1017">
+<title>Coordination as a Direct Process</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Augusta</FirstName>
+<SecondName>Mela</SecondName>
+</Author>
+<Author>
+<FirstName>Christophe</FirstName>
+<SecondName>Fouquerd</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1018">
+<title>High-Performance Bilingual Text Alignment Using Statistical and Dictionary Information</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Masahiko</FirstName>
+<SecondName>Haruno</SecondName>
+</Author>
+<Author>
+<FirstName>Takefumi</FirstName>
+<SecondName>Yamazaki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1019">
+<title>An Iterative Algorithm to Build Chinese Language Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Xiaoqiang</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Salim</FirstName>
+<SecondName>Roukos</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1020">
+<title>Pattern-Based Context-Free Grammars for Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Koichi</FirstName>
+<SecondName>Takeda</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1021">
+<title>A Polynomial-Time Algorithm for Statistical Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dekai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1022">
+<title>SEMHE: A Generalised Two-level System</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>Anton</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1023">
+<title>Head Automata and Bilingual Tiling: Translation with Minimal Representations (Invited Talk)</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiyan</FirstName>
+<SecondName>Alshawi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1024">
+<title>Parsing Algorithms and Metrics</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1025">
+<title>A New Statistical Parser Based on Bigram Lexical Dependencies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>John</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1026">
+<title>Two Sources of Control Over the Generation of Software Instructions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anthony</FirstName>
+<SecondName>Hartley</SecondName>
+</Author>
+<Author>
+<FirstName>Cecile</FirstName>
+<SecondName>Paris</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1027">
+<title>Chart Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Kay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1028">
+<title>Evaluating the Portability of Revision Rules for Incremental Summary Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jacques</FirstName>
+<SecondName>Robin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1029">
+<title>Compilation of Weighted Finite-State Transducers from Decision Trees</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Sproat</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Riley</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1030">
+<title>Fast Parsing Using Pruning and Grammar Specialization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Manny</FirstName>
+<SecondName>Rayner</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Carter</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1031">
+<title>An Efficient Compiler for Weighted Rewrite Rules</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mehryar</FirstName>
+<SecondName>Mohri</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Sproat</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1032">
+<title>Efficient Tabular L R Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark-Jan</FirstName>
+<SecondName>Nederhof</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1033">
+<title>Magic for Filter Optimization in Dynamic Bottom-Up Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Guido</FirstName>
+<SecondName>Minnen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1034">
+<title>Efficient Transformation-Based Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Girogion</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Brill</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1035">
+<title>Resolving Anaphors in Embedded Sentences</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Saliha</FirstName>
+<SecondName>Azzam</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1036">
+<title>Functional Centering</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+<Author>
+<FirstName>Udo</FirstName>
+<SecondName>Hahn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1037">
+<title>Mechanisms for Mixed-Initiative Human-Computer Collaborative Discourse</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Curry</FirstName>
+<SecondName>I.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1038">
+<title>A Prosodic Analysis of Discourse Segments in Direction-Giving Monologues</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+<Author>
+<FirstName>Christine</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1039">
+<title>An Information Structural Approach To Spoken Language Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Prevost</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1040">
+<title>The Rhythm of Lexical Stress in Prose</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Doug</FirstName>
+<SecondName>Beeferman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1041">
+<title>An Empirical Study of Smoothing Techniques for Language Modeling</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stanley</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1042">
+<title>Minimizing Manual Annotation Cost in Supervised Training from Corpora</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sean</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1043">
+<title>Unsupervised Learning of Word-Category Guessing Rules</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrei</FirstName>
+<SecondName>Mikheev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1044">
+<title>Linguistic Structure as Composition and Perturbation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>de</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1045">
+<title>Generating an LTAG out of a Principle-based Hierarchical Representation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marie-Helene</FirstName>
+<SecondName>Candito</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1046">
+<title>Using Parsed Corpora for Structural Disambiguation in the TRAINS Domain</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Core</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1047">
+<title>Subdeletion in Verb Phrase Ellipsis</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1048">
+<title>Using Textual Clues to Improve Metaphor Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephane</FirstName>
+<SecondName>Ferrari</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1049">
+<title>On Reversing the Generation Process in Optimality Theory</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>Eric</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1050">
+<title>A Synopsis of Learning to Recognize Names Across Languages</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anthony</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1051">
+<title>An Application of WordNet to Prepositional Attachment</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sanda</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1052">
+<title>Towards Testing the Syntax of Punctuation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bernard</FirstName>
+<SecondName>Jones</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1053">
+<title>Using Terminological Knowledge Representation Languages to Manage Linguistic Resources</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Pamela</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1054">
+<title>Transitivity and Foregrounding in News Articles: Experiments in Information Retrieval and Automatic Summarising</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Roderick</FirstName>
+<SecondName>Kay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1055">
+<title>The Selection of the Most Probable Dependency Structure in Japanese Using Mutual Information</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>de</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1056">
+<title>Incremental Parser Generation for Tree Adjoining Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1057">
+<title>Processing Complex Sentences in the Centering Framework</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="P96-1058">
+<title>Maximizing Top-down Constraints for Unification-based Systems</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Noriko</FirstName>
+<SecondName>Tomura</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>

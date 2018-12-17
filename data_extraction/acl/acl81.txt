@@ -1,0 +1,596 @@
+<Paper id ="P81-1001">
+<title>A Practical Comparison of Parsing Strategies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Slocum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1002">
+<title>COMPUTATIONAL COMPLEXITY AND LEXICAL FUNTIONAL GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1003">
+<title>Corepresentational Grammar and Parsing English Comparatives</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Ryan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1004">
+<title>PERFORMANCE COMPARISON OF COMPONENT ALGORITHMS FOR THE PHONEMICIZATION OF ORTHOGRAPHY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jared</FirstName>
+<SecondName>Bernstein</SecondName>
+</Author>
+<Author>
+<FirstName>Larry</FirstName>
+<SecondName>Nessly</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1005">
+<title>PHONY: A Heuristic Phonological Analyzer</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lee</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1006">
+<title>EVALUATION OF NATURAL LANGUAGE INTERFACES TO DATABASE SYSTEMS: A PANEL DISCUSSION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Norman</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1007">
+<title>Artificial Intelligence Corporation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>Norwood</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1008">
+<title>SELECTIVE PLANNING OF INTERFACE EVALUATIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1009">
+<title>FIELD TESTING THE TRANSFORMATIONAL QUESTION ANSWERING (TQA) SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>S.</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1010">
+<title>What Makes Evaluation Hard?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Harry</FirstName>
+<SecondName>Tennant</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1011">
+<title>EVALUATION OF NATURAL LANGUAGE INTERFACES TO DATA BASE SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bozena</FirstName>
+<SecondName>Henisz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1012">
+<title>TWO DISCOURSE GENERATORS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1013">
+<title>A GRAMMAR AND A LEXICON FOR A TEXT-PRODUCTION SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christian</FirstName>
+<SecondName>M.I.M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1014">
+<title>Language Production: the Source of the Dictionary</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1015">
+<title>Analogies in Spontaneous Discourse</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rachel</FirstName>
+<SecondName>Reichman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1016">
+<title>INVESTIGATION OF PROCESSING STRATEGIES FOR THE STRUCTURAL ANALYSIS OF ARGUMENTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robin</FirstName>
+<SecondName>Cohen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1017">
+<title>What's Necessary to Hide?: Modeling Action Verbs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1018">
+<title>A Rule-based Conversation Participant</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1019">
+<title>SEARCH AND INFERENCE STRATEGIES IN PRONOUN RESOLUTION: AN EXPERIMENTAL STUDY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kate</FirstName>
+<SecondName>Ehrlich</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1020">
+<title>PERSPECTIVES ON PARSING ISSUES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jane</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1021">
+<title>S0ME ISSUES IN PARSING AND NATURAL LANGUAGE UNDERSTANDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1022">
+<title>PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>Grishman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1023">
+<title>A View of Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ronald</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1024">
+<title>PERSPECTIVES ON PARSING ISSUES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1025">
+<title>PRESUPPOSITION AND IMPLICATURE IN MODEL-THEORETIC PRAGMATICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1026">
+<title>SOME COMPUTATIONAL ASPECTS OF SITUATION SEMANTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>Barwise</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1027">
+<title>A SITUATION SEMANTICS APPROACH TO THE ANALYSIS OF SPEECH ACTS'</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Andreoff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1028">
+<title>PROBLEMS IN LOGICAL FORM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1029">
+<title>A CASE FOR RULE-DRIVEN SEMANTIC PROCESSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1030">
+<title>A TAXONOMY FOR ENGLISH NOUNS AND VERBS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1031">
+<title>INTERPRETING NATURAL LANGUAGE DATABASE UPDATES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>S.</FirstName>
+<SecondName>Jerrold</SecondName>
+</Author>
+<Author>
+<FirstName>Jim</FirstName>
+<SecondName>Davidson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1032">
+<title>Dynamic Strategy Selection in Flexible Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1033">
+<title>A Construction-Specific approach to Focused Interaction in Flexible Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1034">
+<title>CONTROLLED TRANSFORMATIONAL SENTENCE GENERATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Madeleine</FirstName>
+<SecondName>Bates</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Ingria</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1035">
+<title>TRANSPORTABLE NATURAL-LANGUAGE INTERFACES TO DATABASES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gary</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>
+
+
+
+
+<Paper id ="P81-1036">
+<title>Chart Parsing and Rule Schemata in PSG</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Henry</FirstName>
+<SecondName>Thompson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1981</Year>
+</Paper>

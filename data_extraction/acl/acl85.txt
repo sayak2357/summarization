@@ -1,0 +1,728 @@
+<Paper id ="P85-1001">
+<title>SEMANTICS OF TEMPORAL QUERIES AND TEMPORAL DATA</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carole</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1002">
+<title>TEMPORAL INFERENCES IN MEDICAL TEXTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Klaus</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1003">
+<title>Tense, Aspect and the Cognitive Representation of Time</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Man-kam</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1004">
+<title>CLASSIFICATION OF MODALITY FUNCTION AND ITS APPLICATION TO JAPANESE LANGUAGE ANALYSIS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Shozo</FirstName>
+<SecondName>NAITO</SecondName>
+</Author>
+<Author>
+<FirstName>Akira</FirstName>
+<SecondName>SHIMAZU</SecondName>
+</Author>
+<Author>
+<FirstName>Hirosato</FirstName>
+<SecondName>NOMURA</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1005">
+<title>UNIVERSALITY AND INDIVIDUALITY: THE INTERACTION OF NOUN PHRASE DETERMINERS IN COPULAR CLAUSES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1006">
+<title>MEINONGIAN SEMANTICS FOR PROPOSITIONAL SEMANTIC NETWORKS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1007">
+<title>Speech Acts and Rationality</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Levesque</FirstName>
+<SecondName>Hector</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1008">
+<title>Ontological Promiscuity</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jerry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1009">
+<title>REVERSIBLE AUTOMATA AND INDUCTION OF THE ENGLISH AUXILIARY SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Samuel</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1010">
+<title>THE COMPUTATIONAL DIFFICULTY OF ID/LP PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>G.</FirstName>
+<SecondName>Edward</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1011">
+<title>SOME COMPUTATIONAL PROPERTIES OF TREE ADJOINING GRAMMERS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Vijay-Shankar</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1012">
+<title>TAG's as a Grammatical Formalism for Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1013">
+<title>MODULAR LOGIC GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1014">
+<title>New Approaches to Parsing Conjunctions Using Prolog</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sandiway</FirstName>
+<SecondName>Fong</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1015">
+<title>Parsing with Discontinuous Constituents</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1016">
+<title>Structure Sharing with Binary Trees</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lauri</FirstName>
+<SecondName>Karttunen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1017">
+<title>A Structure-Sharing Representation for Unification-Based Grammar Formalisms</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1018">
+<title>Using Restriction to Extend Parsing Algorithms for Complex-Feature-Based Formalisms</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1019">
+<title>Semantic Caseframe Parsing and Syntactic Generality</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Peggy</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Safier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1020">
+<title>MOVEMENT IN ACTIVE PRODUCTION NETWORKS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1021">
+<title>PARSING HEAD-DRIVEN PHRASE STRUCTURE GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Derek</FirstName>
+<SecondName>Proudian</SecondName>
+</Author>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>Pollard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1022">
+<title>A Computational Semantics for Natural Language</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lewis</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1023">
+<title>ANALYSIS OF CONJUNCTIONS IN A RULE-BASED PARSER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Leonardo</FirstName>
+<SecondName>Lesmo</SecondName>
+</Author>
+<Author>
+<FirstName>Pietro</FirstName>
+<SecondName>Torasso</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1024">
+<title>A PRAGMATICS-BASED APPROACH TO UNDERSTANDING INTERSFNTENTIAL ELLIPSIS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sandra</FirstName>
+<SecondName>Carberry</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1025">
+<title>Some Pragmatic Issues in the Planning of Definite and Indefinite Noun Phrases</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1026">
+<title>REPAIRING REFERENCE IDENTIFICATION FAILURES BY RELAXATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bradley</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1027">
+<title>ANAPHORA RESOLUTION: SHORT-TERM MEMORY AND FOCUSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>RAYMONDE</FirstName>
+<SecondName>GUINDON</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1028">
+<title>Explanation Structures in XSEL</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Kukich</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1029">
+<title>DESCRIPTION STRATEGIES FOR NAIVE AND EXPERT USERS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cecile</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1030">
+<title>Stress Assignment in Letter to Sound Rules for Speech Synthesis</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Church</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1031">
+<title>AN ECLECTIC APPROACH TO BUILDING NATURAL LANGUAGE INTERFACES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Phillips</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Steve</FirstName>
+<SecondName>Rehfuss</SecondName>
+</Author>
+<Author>
+<FirstName>Sheldon</FirstName>
+<SecondName>Nichollt</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1032">
+<title>Structure-Sharing in Lexical Representation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Flickinger</SecondName>
+</Author>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>Pollard</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Wasaw</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1033">
+<title>A TOOL KIT FOR LEXICON BUILDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1034">
+<title>USING AN ON-LINE DICTIONARY TO FIND RHYMING WORDS AND PRONUNCIATIONS FOR UNKNOWN WORDS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Roy</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1035">
+<title>Towards a Self-Extending Lexicon</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Uri</FirstName>
+<SecondName>Zernik</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1036">
+<title>GRAMMATICAL ANALYSIS BY COMPUTER OF THE LANCASTER-OSLO/BERGEN (LOB) CORPUS OF BRITISH ENGLISH TEXTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>David</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1037">
+<title>EXTRACTING SEMANTIC HIERARCHIES FROM A LARGE ON-LINE DICTIONARY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Roy</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1038">
+<title>DICTIONARIES of THE MIND</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1039">
+<title>THE USE OF SYNTACTIC CLUES IN DISCOURSE PROCESSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nan</FirstName>
+<SecondName>Decker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>
+
+
+
+
+<Paper id ="P85-1040">
+<title>GRAMMAR VIEWED AS A FUNCTIONING PART OF A COGNITIVE SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Helen</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1985</Year>
+</Paper>

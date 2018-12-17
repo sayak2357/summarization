@@ -1,0 +1,656 @@
+<Paper id ="P87-1001">
+<title>TEMPORAL ONTOLOGY IN NATURAL LANGUAGE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Moens</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedmant</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1002">
+<title>A COMPOSITIONAL SEMANTICS OF TEMPORAL EXPRESSIONS IN ENGLISH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Erhard</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1003">
+<title>SITUATIONS AND INTERVALS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1004">
+<title>JETR: A ROBUST MACHINE TRANSLATION SYSTEM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rika</FirstName>
+<SecondName>Yoshii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1005">
+<title>AN ENVIRONMENT FOR ACQUIRING SEMANTIC INFORMATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Damaris</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Varda</FirstName>
+<SecondName>Shaked</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1006">
+<title>GRAMMATICAL AND UNGRAMMATICAL STRUCTURES IN USER-ADVISER DIALOGUES= EVIDENCE FOR SUFFICIENCY OF RESTRICTED LANGUAGES IN NATURAL LANGUAGE INTERFACES TO ADVISORY SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Raymonde</FirstName>
+<SecondName>Guindon</SecondName>
+</Author>
+<Author>
+<FirstName>Kelly</FirstName>
+<SecondName>Shuldberg</SecondName>
+</Author>
+<Author>
+<FirstName>Joyce</FirstName>
+<SecondName>Conner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1007">
+<title>An Attribute-Grammar Implementation of Government-binding Theory</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nelson</FirstName>
+<SecondName>Correa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1008">
+<title>GETTING IDIOMS INTO A LEXICON BASED PARSER'S HEAD</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Oliviero</FirstName>
+<SecondName>Stock</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1009">
+<title>Phrasal Analysis of Long Noun Sequences</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yigal</FirstName>
+<SecondName>Arens</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Alice</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1010">
+<title>Constituent-Based Morphological Parsing: A New Approach to the Problem of Word-Recognition.</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Sproat</SecondName>
+</Author>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Brunson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1011">
+<title>PREDICTIVE COMBINATORS: A METHOD FOR EFFICIENT PROCESSING OF COMBINATORY CATEGORIAL GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kent</FirstName>
+<SecondName>Wittenburg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1012">
+<title>A Lazy way to Chart-Parse with Categorial Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Remo</FirstName>
+<SecondName>Pareschi</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedmant</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1013">
+<title>A LOGICAL VERSION OF FUNCTIONAL GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Alexis</FirstName>
+<SecondName>Manaster-Ramer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1014">
+<title>Functional Unification Grammar Revisited</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Cecile</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1015">
+<title>CHARACTERIZING STRUCTURAL DESCRIPTIONS PRODUCED BY VARIOUS GRAMMATICAL FORMALISMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Vijay-Shanker</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1016">
+<title>ON THE SUCCINCTNESS PROPERTIES OF UNORDERED CONTEXT-FREE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>M.</FirstName>
+<SecondName>Drew</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1017">
+<title>CONTEXT-FREENESS OF THE LANGUAGE ACCEPTED BY MARCUS' PARSER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>R</FirstName>
+<SecondName>Nozohoor-Farshi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1018">
+<title>SEMANTIC STRUCTURE ANALYSIS OF JAPANESE NOUN PHRASES WITH ADNOMINAL PARTICLES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Akira</FirstName>
+<SecondName>SHIMAZU</SecondName>
+</Author>
+<Author>
+<FirstName>Shozo</FirstName>
+<SecondName>NAITO</SecondName>
+</Author>
+<Author>
+<FirstName>Hirosato</FirstName>
+<SecondName>NOMURA</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1019">
+<title>NOMINALIZATIONS IN PUNDIT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Deborah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1020">
+<title>TOWARD TREATING ENGLISH NONIINALS CORRECTLY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Y.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1021">
+<title>THE INTERPRETATION OF TENSE IN DISCOURSE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Lynn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1022">
+<title>A CENTERING APPROACH TO PRONOUNS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Susan</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1023">
+<title>NOW LET'S TALK ABOUT NOW; IDENTIFYING CUE PHRASES INTONATIONALLY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>Litman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1024">
+<title>On the Acquisition of Lexical Entries: The Perceptual Origin of Thematic Relations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Pustejovsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1025">
+<title>THE LOGICAL ANALYSIS OF LEXICAL AMBIGUITY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Stallard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1026">
+<title>FLUSH: A Flexible Lexicon Design</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1027">
+<title>The Derivation of a Grammatically Indexed Lexicon from the Longman Dictionary of Contemporary English</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bran</FirstName>
+<SecondName>Boguraev</SecondName>
+</Author>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Briscoe</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Carter</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Grover</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1028">
+<title>Lexical Selection in the Process of Language Generation Sergei Nirenburg</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Pustejovsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1029">
+<title>CONSTRAINTS ON THE GENERATION OF ADJUNCT CLAUSES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alison</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Marie</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1030">
+<title>A Model For Generating Better Explanations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1031">
+<title>Expressing Concern</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Luria</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1032">
+<title>INCORPORATING INHERITANCE AND FEATURE STRUCTURES INTO A LOGIC GRAMMAR FORMALISM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Harry</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1033">
+<title>A Unification Method for Disjunctive Feature Descriptions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>
+
+
+
+
+<Paper id ="P87-1034">
+<title>REVISED GENERALIZED PHRASE STRUCTURE GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Sven</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1987</Year>
+</Paper>

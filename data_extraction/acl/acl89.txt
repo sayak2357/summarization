@@ -1,0 +1,628 @@
+<Paper id ="P89-1001">
+<title>A TRANSFER MODEL USING A TYPED FEATURE STRUCTURE REWRITING SYSTEM WITH INHERITANCE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mini</FirstName>
+<SecondName>Zajac</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1002">
+<title>A Semantic-Head-Driven Generation Algorithm for Unification-Based Formalisms</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Gertjan</FirstName>
+<SecondName>van</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1003">
+<title>A THREE-VALUED INTERPRETATION OF NEGATION IN FEATURE STRUCTURE DESCRIPTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Anuj</FirstName>
+<SecondName>Dawar</SecondName>
+</Author>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Vijay-Shanker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1004">
+<title>LOGICAL FORMS IN THE CORE LANGUAGE ENGINE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiyan</FirstName>
+<SecondName>Alshawi</SecondName>
+</Author>
+<Author>
+<FirstName>Jan</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1005">
+<title>Unification-Based Semantic Interpretation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1006">
+<title>REFERENCE TO LOCATIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lewis</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>Mark</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Nerbonne</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1007">
+<title>GETTING AT DISCOURSE REFERENTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1008">
+<title>CONVERSATIONALLY RELEVANT DESCRIPTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Amichai</FirstName>
+<SecondName>Kronfeld</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1009">
+<title>COOKING UP REFERRING EXPRESSIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Dale</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1010">
+<title>Word Association Norms, Mutual Information, and Lexicography</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Ward</SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Hanks</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1011">
+<title>LEXICAL ACCESS IN CONNECTED SPEECH RECOGNITION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Briscoe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1012">
+<title>DICTIONARIES, DICTIONARY GRAMMARS AND DICTIONARY ENTRY PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mary</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Brammir</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1013">
+<title>SOME CHART-BASED TECHNIQUES FOR PARSING ILL-FORMED INPUT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1014">
+<title>ON REPRESENTING GOVERNED PREPOSITIONS AND HANDLING "INCORRECT" AND NOVEL PREPOSITIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hatte</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Flank</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Kehler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1015">
+<title>ACQUIRING DISAMBIGUATION RULES FROM TEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Hindle</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1016">
+<title>THE EFFECTS OF INTERACTION ON SPOKEN DISCOURSE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1017">
+<title>How to cover a grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rene</FirstName>
+<SecondName>Leermakers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1018">
+<title>The Structure of Shared Forests in Ambiguous Parsing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sylvie</FirstName>
+<SecondName>Billott</SecondName>
+</Author>
+<Author>
+<FirstName>Bernard</FirstName>
+<SecondName>Lang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1019">
+<title>A Calculus for Semantic Composition and Scoping</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.N.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1020">
+<title>A General Computational Treatment Of The Comparative</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carol</FirstName>
+<SecondName>Friedman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1021">
+<title>THE LEXICAL SEMANTICS OF COMPARATIVE EXPRESSIONS IN A MULTI-LEVEL SEMANTIC PROCESSOR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Duane</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1022">
+<title>AUTOMATIC ACQUISITION OF THE LEXICAL SEMANTICS OF VERBS FROM SENTENCE FRAMES`</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mort</FirstName>
+<SecondName>Webster</SecondName>
+</Author>
+<Author>
+<FirstName>Mitch</FirstName>
+<SecondName>Marcus</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1023">
+<title>COMPUTER AIDED INTERPRETATION OF LEXICAL COOCCURRENCES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Paola</FirstName>
+<SecondName>Velardi</SecondName>
+</Author>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Teresa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1024">
+<title>A HYBRID APPROACH TO REPRESENTATION IN THE JANUS NATURAL LANGUAGE PROCESSOR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1025">
+<title>PLANNING TEXT FOR ADVISORY DIALOGUES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Johanna</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Cecile</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1026">
+<title>Two Constraints on Speech Act Ambiguity</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1027">
+<title>TREATMENT OF LONG DISTANCE DEPENDENCIES IN LFG AND TAG: FUNCTIONAL UNCERTAINTY IN LFG IS A COROLLARY IN TAG</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>Vijay-Shanker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1028">
+<title>TREE UNIFICATION GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fred</FirstName>
+<SecondName>Popowich</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1029">
+<title>A GENERALIZATIONNOF THE OFFLINE PARSABLE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Haas</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1030">
+<title>DISCOURSE ENTITIES IN JANUS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Damaris</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1031">
+<title>EVALUATING DISCOURSE PROCESSING ALGORITHMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1032">
+<title>A COMPUTATIONAL MECHANISM FOR PRONOMINAL REFERENCE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Stallard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1033">
+<title>PARSING AS NATURAL DEDUCTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Esther</FirstName>
+<SecondName>Konig</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>
+
+
+
+
+<Paper id ="P89-1034">
+<title>EFFICIENT PARSING FOR FRENCH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Gardent</SecondName>
+</Author>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>Pierre-Frangois</FirstName>
+<SecondName>Jurie</SecondName>
+</Author>
+<Author>
+<FirstName>Karine</FirstName>
+<SecondName>Baschung</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1989</Year>
+</Paper>

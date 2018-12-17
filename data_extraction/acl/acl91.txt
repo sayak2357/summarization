@@ -1,0 +1,1028 @@
+<Paper id ="P91-1001">
+<title>RESOLUTION OF COLLECTIVE-DISTRIBUTIVE AMBIGUITY USING MODEL-BASED REASONING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Chinatsu</FirstName>
+<SecondName>Aone</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1002">
+<title>INCLUSION, DISJOINTNESS AND CHOICE: THE LOGIC OF LINGUISTIC CLASSIFICATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Bob</FirstName>
+<SecondName>Carpenter</SecondName>
+</Author>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>Pollard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1003">
+<title>Event-building through Role-filling and anaphora Resolution</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Greg</FirstName>
+<SecondName>Whittemore</SecondName>
+</Author>
+<Author>
+<FirstName>Melissa</FirstName>
+<SecondName>Macpherson</SecondName>
+</Author>
+<Author>
+<FirstName>Greg</FirstName>
+<SecondName>Carlson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1004">
+<title>Toward a Plan-Based Understanding Model for Mixed-Initiative Dialogues</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiroaki</FirstName>
+<SecondName>Kitano</SecondName>
+</Author>
+<Author>
+<FirstName>Carol</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1005">
+<title>AN ALGORITHM FOR PLAN RECOGNITION IN COLLABORATIVE DISCOURSE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1006">
+<title>A THREE-LEVEL MODEL FOR PLAN EXPLORATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lance</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1007">
+<title>A TRIPARTITE PLAN-BASED MODEL OF DIALOGUE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lynn</FirstName>
+<SecondName>Lambert</SecondName>
+</Author>
+<Author>
+<FirstName>Sandra</FirstName>
+<SecondName>Carberry</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1008">
+<title>DISCOURSE RELATIONS AND DEFEASIBLE KNOWLEDGE`</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alex</FirstName>
+<SecondName>Lascaridest</SecondName>
+</Author>
+<Author>
+<FirstName>Nicholas</FirstName>
+<SecondName>Asher</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1009">
+<title>SOME FACTS ABOUT CENTERS, INDEXICALS, AND DEMONSTRATIVES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1010">
+<title>TYPE-RAISING AND DIRECTIONALITY IN COMBINATORY GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1011">
+<title>EFFICIENT INCREMENTAL PROCESSING WITH CATEGORIAL GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Hepple</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1012">
+<title>COMPOSE-REDUCE PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Henry</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Mike</FirstName>
+<SecondName>Dixon</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Lamping</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1013">
+<title>LR RECURSIVE TRANSITION NETWORKS FOR EARLEY AND TOMITA PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Perlin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1014">
+<title>Polynomial Time and Space Shift-Reduce Parsing of Arbitrary Context-free Grammars.</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yves</FirstName>
+<SecondName>Schabes</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1015">
+<title>Head Corner Parsing for Discontinuous Constituency</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gertjan</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1016">
+<title>The Acquisition and Application of Context Sensitive Grammar for English</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Yeong-Ho</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1017">
+<title>Two Languages Are More Informative Than One</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+<Author>
+<FirstName>Alon</FirstName>
+<SecondName>Itai</SecondName>
+</Author>
+<Author>
+<FirstName>Ulrike</FirstName>
+<SecondName>Schwall</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1018">
+<title>LEARNING PERCEPTUALLY-GROUNDED SEMANTICS IN THE Lo PROJECT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Terry</FirstName>
+<SecondName>Regier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1019">
+<title>SUBJECT-DEPENDENT CO-OCCURRENCE AND WORD SENSE DISAMBIGUATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Joe</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Louise</FirstName>
+<SecondName>Guthrie</SecondName>
+</Author>
+<Author>
+<FirstName>Homa</FirstName>
+<SecondName>Aidinejad</SecondName>
+</Author>
+<Author>
+<FirstName>Yorick</FirstName>
+<SecondName>Wilks</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1020">
+<title>A SYSTEM FOR TRANSLATING LOCATIVE PREPOSITIONS FROM ENGLISH INTO FRENCH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nathalie</FirstName>
+<SecondName>Japkowicz</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1021">
+<title>TRANSLATION BY QUASI LOGICAL FORM TRANSFER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiyan</FirstName>
+<SecondName>Alshawi</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Carter</SecondName>
+</Author>
+<Author>
+<FirstName>Manny</FirstName>
+<SecondName>Rayner</SecondName>
+</Author>
+<Author>
+<FirstName>Bjorn</FirstName>
+<SecondName>Gamback</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1022">
+<title>ALIGNING SENTENCES IN PARALLEL CORPORA</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1023">
+<title>A PROGRAM FOR ALIGNING SENTENCES IN BILINGUAL CORPORA</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1024">
+<title>EXPERIMENTS AND PROSPECTS OF EXAMPLE-BASED MACHINE TRANSLATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eiichiro</FirstName>
+<SecondName>SUMITA</SecondName>
+</Author>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>HDA</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1025">
+<title>Resolving Translation Mismatches With Information Flow</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Megumi</FirstName>
+<SecondName>Kameyama</SecondName>
+</Author>
+<Author>
+<FirstName>Ryo</FirstName>
+<SecondName>Ochitani</SecondName>
+</Author>
+<Author>
+<FirstName>Stanley</FirstName>
+<SecondName>Peters</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1026">
+<title>AUTOMATIC NOUN CLASSIFICATION BY USING JAPANESE-ENGLISH WORD PAIRS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Naomi</FirstName>
+<SecondName>Inoue</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1027">
+<title>AUTOMATIC ACQUISITION OF SUBCATEGORIZATION FRAMES FROM UNTAGGED TEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1028">
+<title>Multiple Default Inheritance in a Unification-Based Lexicon</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Russell</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>Susan</FirstName>
+<SecondName>Warwick-Armstrong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1029">
+<title>METAPHORIC GENERALIZATION THROUGH SORT COERCION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Hays</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1030">
+<title>STRUCTURAL AMBIGUITY AND LEXICAL RELATIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Hindle</SecondName>
+</Author>
+<Author>
+<FirstName>Mats</FirstName>
+<SecondName>Rooth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1031">
+<title>STRATEGIES FOR ADDING CONTROL INFORMATION TO DECLARATIVE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1032">
+<title>FINITE-STATE APPROXIMATION OF PHRASE STRUCTURE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1033">
+<title>FEATURE LOGIC WITH WEAK SUBSUMPTION CONSTRAINTS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jochen</FirstName>
+<SecondName>Dorre</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1034">
+<title>WORD-SENSE DISAMBIGUATION USING STATISTICAL METHODS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1035">
+<title>A STOCHASTIC PROCESS FOR WORD FREQUENCY DISTRIBUTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Harald</FirstName>
+<SecondName>Baayen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1036">
+<title>FROM N-GRAMS TO COLLOCATIONS AN EVALUATION OF XTRACT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1037">
+<title>PREDICTING INTONATIONAL PHRASING FROM TEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michelle</FirstName>
+<SecondName>Q.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1038">
+<title>A Preference-first Language Processor: Integrating the Unification Grammar and Markov Language Model for Speech Recognition Applications</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lee-Feng</FirstName>
+<SecondName>Chien</SecondName>
+</Author>
+<Author>
+<FirstName>K.</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Lin-Shan</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1039">
+<title>FACTORIZATION OF LANGUAGE CONSTRAINTS IN SPEECH RECOGNITION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Roberto</FirstName>
+<SecondName>Pieraccini</SecondName>
+</Author>
+<Author>
+<FirstName>Chin-Hui</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1040">
+<title>CONSTRAINT PROJECTION: AN EFFICIENT TREATMENT OF DISJUNCTIVE FEATURE DESCRIPTIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mikio</FirstName>
+<SecondName>Nakano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1041">
+<title>Quasi-Destructive Graph Unification</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hideto</FirstName>
+<SecondName>Tomabechi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1042">
+<title>UNIFICATION WITH LAZY NON-REDUNDANT COPYING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1043">
+<title>Logical Form of Complex Sentences in Task-Oriented Dialogues</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Cecile</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1044">
+<title>Action representation for NL instructions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Di</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1045">
+<title>Extracting Semantic Roles from a Model of Eventualities</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Sylvie</FirstName>
+<SecondName>Ratt</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1046">
+<title>Case Revisited: in the Shadow of Automatic Processing of Machine-Readable Dictionaries</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fuliang</FirstName>
+<SecondName>Weng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1047">
+<title>Discovering the Lexical Features of a Language</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Brill</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1048">
+<title>Lexical Disambiguation: Sources of Information and their Statistical Realization</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1049">
+<title>Non-Literal Word Sense Identification Through Semantic Network Path Schemata</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Iverson</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Hebnreich</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1050">
+<title>Collaborating on Referring Expressions</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1051">
+<title>Conceptual Revision for Natural Language Generation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1052">
+<title>Modifying Beliefs in a Plan-Based Dialogue Model</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Lynn</FirstName>
+<SecondName>Lambert</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1053">
+<title>RESOLVING A PRAGMATIC PREPOSITIONAL PHRASE ATTACHMENT AMBIGUITY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christine</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1054">
+<title>Current Research in the Development of a Spoken Language Understanding System using PARSEC</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carla</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1055">
+<title>Syntactic Graphs and Constraint Satisfaction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jeff</FirstName>
+<SecondName>Martin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>
+
+
+
+
+<Paper id ="P91-1056">
+<title>An Incremental Connectionist Phrase Structure Parser</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1991</Year>
+</Paper>

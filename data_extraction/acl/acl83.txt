@@ -1,0 +1,448 @@
+<Paper id ="P83-1001">
+<title>CONTEXT-FREENESS AND THE COMPUTER PROCESSING OF HUMAN LANGUAGES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Geoffrey</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1002">
+<title>FACTORING RECURSION AND DEPENDENCIES: AN ASPECT OF TREE ADJOINING GRAMMARS (TAG) AND A COMPARISON OF SOME FORMAL PROPERTIES OF TAGS, GPSGS, PLGS, AND LPGS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1003">
+<title>Crossed Serial Dependencies: A low-power parseable extension to GPSG</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Henry</FirstName>
+<SecondName>Thompson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1004">
+<title>Formal Constraints on Metarules</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Swan</FirstName>
+<SecondName>U.</SecondName>
+</Author>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+<Author>
+<FirstName>Jane</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1005">
+<title>A PROLEGOMENON TO SITUATION SEMANTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1006">
+<title>A Modal Temporal Logic for Reasoning about Change</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Mays</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1007">
+<title>PROVIDING A UNIFIED ACCOUNT OF DEFINITE NOUN PHRASES IN DISCOURSE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Weinstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1008">
+<title>USING X-CALCULUS TO REPRESENT MEANINGS IN LOGIC GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Scott</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1009">
+<title>AN IMPROPER TREATMENT OF QUANTIFICATION IN ORDINARY ENGLISH</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jerry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1010">
+<title>A FOUNDATION FOR SEMANTIC INTERPRETATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Graeme</FirstName>
+<SecondName>Hirst</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1011">
+<title>TELEGRAM: A GRAMMAR. FORMALISM FOR LANGUAGE PLANNING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>E</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1012">
+<title>AN OVERVIEW OF THE NIGEL TEXT GENERATION GRAMMAR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1013">
+<title>Automatic Recognition of Intonation Patterns</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Janet</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1014">
+<title>A Finite-State Parser for Use in Speech Recognition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1015">
+<title>On the Mathematical Properties of Linguistic Theories</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>C.</FirstName>
+<SecondName>Raymond</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1016">
+<title>A Framework for Processing Partially Free Word Order</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1017">
+<title>Sentence Disambiguation by a Shift-Reduce Parsing Technique</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1018">
+<title>SYNTACTIC CONSTRAINTS AND EFFICIENT PARSABILITY</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Amy</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1019">
+<title>Deterministic Parsing of Syntactic Non-fluencies</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Hindle</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1020">
+<title>D-Theory: Talking about Talking about Trees</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mitchell</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Hindle</SecondName>
+</Author>
+<Author>
+<FirstName>Margaret</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1021">
+<title>PARSING AS DEDUCTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1022">
+<title>DESIGN OF A KNOWLEDGE-BASED REPORT GENERATOR</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Kukich</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1023">
+<title>MENU-BASED NATURAL LANGUAGE UNDERSTANDING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Harry</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Craig</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1024">
+<title>Knowledge Structures in UC, the UNIX* Consultant</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>N.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>
+
+
+
+
+<Paper id ="P83-1025">
+<title>Discourse Pragmatics and Ellipsis Resolution in Task-Oriented Natural Language Interfaces</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1983</Year>
+</Paper>

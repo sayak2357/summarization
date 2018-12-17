@@ -1,0 +1,972 @@
+<Paper id ="P94-1001">
+<title>Discourse Obligations in Dialogue Processing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1002">
+<title>MULTI-PARAGRAPH SEGMENTATION EXPOSITORY TEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Marti</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1003">
+<title>PRIORITY UNION AND GENERALIZATION IN DISCOURSE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Grover</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Brew</SecondName>
+</Author>
+<Author>
+<FirstName>Suresh</FirstName>
+<SecondName>Manandhar</SecondName>
+</Author>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Moens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1004">
+<title>HIDDEN UNDERSTANDING MODELS OF NATURAL LANGUAGE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Miller</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Bobrow</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Ingria</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Schwartz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1005">
+<title>From Strings to Trees to Strings to Trees (Abstract)</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1006">
+<title>INTENTIONS AND INFORMATION IN DISCOURSE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nicholas</FirstName>
+<SecondName>Asher</SecondName>
+</Author>
+<Author>
+<FirstName>Alex</FirstName>
+<SecondName>Lascarides</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1007">
+<title>GENERATING PRECONDITION EXPRESSIONS IN INSTRUCTIONAL TEXT</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Keith</FirstName>
+<SecondName>Vander</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1008">
+<title>COMMON TOPICS AND COHERENT SITUATIONS: INTERPRETING ELLIPSIS IN THE CONTEXT OF DISCOURSE INFERENCE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Kehler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1009">
+<title>A HYBRID REASONING MODEL FOR INDIRECT ANSWERS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Nancy</FirstName>
+<SecondName>Green</SecondName>
+</Author>
+<Author>
+<FirstName>Sandra</FirstName>
+<SecondName>Carberry</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1010">
+<title>A STOCHASTIC FINITE-STATE WORD-SEGMENTATION ALGORITHM FOR CHINESE</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Sproat</SecondName>
+</Author>
+<Author>
+<FirstName>Chilin</FirstName>
+<SecondName>Shih</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Gale</SecondName>
+</Author>
+<Author>
+<FirstName>Nancy</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1011">
+<title>PRECISE N-GRAM PROBABILITIES FROM STOCHASTIC CONTEXT-FREE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Stolcke</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Segal</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1012">
+<title>ALIGNING A PARALLEL ENGLISH-CHINESE CORPUS STATISTICALLY WITH LEXICAL CRITERIA</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Dekai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1013">
+<title>DECISION LISTS FOR LEXICAL AMBIGUITY RESOLUTION: Application to Accent Restoration in Spanish and French</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1014">
+<title>AN EMPIRICAL MODEL OF ACKNOWLEDGMENT FOR SPOKEN-LANGUAGE SYSTEMS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Sutton</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1015">
+<title>SPEECH DIALOGUE WITH FACIAL DISPLAYS: MULTIMODAL HUMAN-COMPUTER CONVERSATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Katashi</FirstName>
+<SecondName>Nagao</SecondName>
+</Author>
+<Author>
+<FirstName>Akikazu</FirstName>
+<SecondName>Takeuchi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1016">
+<title>INTERLEAVING SYNTAX AND SEMANTICS IN AN EFFICIENT BOTTOM-UP PARSER</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Dowding</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Moore</SecondName>
+</Author>
+<Author>
+<FirstName>Francois</FirstName>
+<SecondName>Andryt</SecondName>
+</Author>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>Moran</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1017">
+<title>AN OPTIMAL TABULAR PARSING ALGORITHM</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark-Jan</FirstName>
+<SecondName>Nederhof</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1018">
+<title>A Psycholinguistically Motivated Parser for CCG</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Niv</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1019">
+<title>VERB SEMANTICS AND LEXICAL SELECTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhibiao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1020">
+<title>Word-Sense Disambiguation Using Decomposable Models</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Bruce</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1021">
+<title>Constraint-Based Categorial Grammar</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Gosse</FirstName>
+<SecondName>Bouma</SecondName>
+</Author>
+<Author>
+<FirstName>Gertjan</FirstName>
+<SecondName>van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1022">
+<title>Capturing CFLs with Tree Adjoining Grammars</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Rogers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1023">
+<title>ON DETERMINING THE CONSISTENCY OF PARTIAL DESCRIPTIONS OF TREES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1024">
+<title>A MARKOV LANGUAGE LEARNING MODEL FOR FINITE PARAMETER SPACES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Partha</FirstName>
+<SecondName>Niyogi</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1025">
+<title>PART-OF-SPEECH TAGGING USING A VARIABLE MEMORY MARKOV MODEL</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Schuetze</SecondName>
+</Author>
+<Author>
+<FirstName>Yoram</FirstName>
+<SecondName>Singer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1026">
+<title>GRAMMAR SPECIALIZATION THROUGH ENTROPY THRESHOLDS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christer</FirstName>
+<SecondName>Samuelsson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1027">
+<title>OPTIMIZING THE COMPUTATIONAL LEXICALIZATION OF LARGE GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Christian</FirstName>
+<SecondName>JACQUEMIN</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1028">
+<title>COMPACT REPRESENTATIONS BY FINITE-STATE TRANSDUCERS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mehryar</FirstName>
+<SecondName>Mohri</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1029">
+<title>AN EXTENDED THEORY OF HEAD-DRIVEN PARSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark-Jan</FirstName>
+<SecondName>Nederhof</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1030">
+<title>GENERALIZED CHART ALGORITHM: AN EFFICIENT PROCEDURE FOR COST-BASED ABDUCTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Yasuharu</FirstName>
+<SecondName>Den</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1031">
+<title>Tricolor DAGs for Machine Translation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Koichi</FirstName>
+<SecondName>Takeda</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1032">
+<title>Extracting Noun Phrases from Large-Scale Texts: A Hybrid Approach and Its Automatic Evaluation</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kuang-hua</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Hsin-Hsi</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1033">
+<title>A Corpus-based Approach to Automatic Compound Extraction</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Keh-Yih</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Ming-Wen</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Jing-Shin</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1034">
+<title>An Automatic Treebank Conversion Algorithm for Corpus Sharing</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jong-Nae</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Jing-Shin</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Keh-Yih</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1035">
+<title>An Attributive Logic of Set Descriptions and Set Operations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Suresh</FirstName>
+<SecondName>Manandhar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1036">
+<title>Multiset-Valued Linear Index Grammars: Imposing Dominance Constraints on Derivations</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1037">
+<title>Optimality Theory: Universal Grammar, Learning and Parsing Algorithms, and Connectionist Foundations (Abstract)</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>Smolensky</SecondName>
+</Author>
+<Author>
+<FirstName>Bruce</FirstName>
+<SecondName>Tesar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1038">
+<title>Similarity-Based Estimation of Word Cooccurrence Probabilities</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Pereira</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1039">
+<title>Acquiring Receptive Morphology: A Connectionist Model</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Gasser</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1040">
+<title>RELATING COMPLEXITY TO PRACTICAL PERFORMANCE IN PARSING WITH WIDE-COVERAGE UNIFICATION GRAMMARS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1041">
+<title>Detecting and Correcting Speech Repairs</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Heeman</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Allen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1042">
+<title>A COMPUTATIONAL VIEW OF THE COGNITIVE SEMANTICS OF SPATIAL PREPOSITIONS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Olivier</SecondName>
+</Author>
+<Author>
+<FirstName>Jun-ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1043">
+<title>REAPING THE BENEFITS OF INTERACTIVE SYNTAX AND SEMANTICS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Kavi</FirstName>
+<SecondName>Mahesh</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1044">
+<title>GRADED UNIFICATION: A FRAMEWORK FOR INTERACTIVE PROCESSING</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Albert</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1045">
+<title>AN INTEGRATED HEURISTIC SCHEME FOR PARTIAL PARSE EVALUATION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Alon</FirstName>
+<SecondName>Lavie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1046">
+<title>TEMPORAL RELATIONS: REFERENCE OR DISCOURSE COHERENCE?</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Kehler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1047">
+<title>SIMULATING CHILDREN'S NULL SUBJECTS: AN EARLY LANGUAGE GENERATION MODEL</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Carole</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1048">
+<title>DUAL-CODING THEORY AND CONNECTIONIST LEXICAL SELECTION</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Ye-Yi</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1049">
+<title>Integration Of Visual Inter-word Constraints And Linguistic Knowledge In Degraded Text Recognition</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Hong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1050">
+<title>AN AUTOMATIC METHOD OF FINDING TOPIC BOUNDARIES</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Jeffrey</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1051">
+<title>AUTOMATIC ALIGNMENT IN PARALLEL CORPORA</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Harris</FirstName>
+<SecondName>Papageorgiou</SecondName>
+</Author>
+<Author>
+<FirstName>Lambros</FirstName>
+<SecondName>Cranias</SecondName>
+</Author>
+<Author>
+<FirstName>Stelios</FirstName>
+<SecondName>Piperidis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
+
+
+
+
+<Paper id ="P94-1052">
+<title>CONCEPTUAL ASSOCIATION FOR COMPOUND NOUN ANALYSIS</title>
+<Venue> ACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Lauer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1994</Year>
+</Paper>
