@@ -1,0 +1,7337 @@
+<Paper id ="D16-1001">
+<title>
+      Span-Based Constituency Parsing with a Structure-Label System and Provably
+      Optimal Dynamic OrEMNLPes
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Cross</SecondName>
+</Author>
+<Author>
+<FirstName>Liang</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1002">
+<title>Rule Extraction for Tree-to-Tree Transducers by Cost Minimization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pascual</FirstName>
+<SecondName>Martínez-Gómez</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1003">
+<title>A Neural Network for Coordination Boundary Prediction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jessica</FirstName>
+<SecondName>Ficler</SecondName>
+</Author>
+<Author>
+<FirstName>Yoav</FirstName>
+<SecondName>Goldberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1004">
+<title>
+      Using Left-corner Parsing to Encode Universal Structural Constraints in
+      Grammar Induction
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Noji</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1005">
+<title>Distinguishing Past, On-going, and Future Events: The EventStatus Corpus</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ruihong</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Ignacio</FirstName>
+<SecondName>Cases</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+<Author>
+<FirstName>Cleo</FirstName>
+<SecondName>Condoravdi</SecondName>
+</Author>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1006">
+<title>Nested Propositions in Open Information Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Nikita</FirstName>
+<SecondName>Bhutani</SecondName>
+</Author>
+<Author>
+<FirstName>H</FirstName>
+<SecondName>V</SecondName>
+</Author>
+<Author>
+<FirstName>Dragomir</FirstName>
+<SecondName>Radev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1007">
+<title>
+      A Position Encoding Convolutional Neural Network Based on Dependency Tree
+      for Relation Classification
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yunlun</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Yunhai</FirstName>
+<SecondName>Tong</SecondName>
+</Author>
+<Author>
+<FirstName>Shulei</FirstName>
+<SecondName>Ma</SecondName>
+</Author>
+<Author>
+<FirstName>Zhi-Hong</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1008">
+<title>Learning to Recognize Discontiguous Entities</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Learning</FirstName>
+<SecondName>to</SecondName>
+</Author>
+<Author>
+<FirstName>Aldrian</FirstName>
+<SecondName>Obaja</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1009">
+<title>Modeling Human Reading with Neural Attention</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Hahn</SecondName>
+</Author>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName>Keller</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1010">
+<title>
+      Comparing Computational Cognitive Models of Generalization in a Language
+      Acquisition Task
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Libby</FirstName>
+<SecondName>Barak</SecondName>
+</Author>
+<Author>
+<FirstName>Adele</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+<Author>
+<FirstName>Suzanne</FirstName>
+<SecondName>Stevenson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1011">
+<title>Rationalizing Neural Predictions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Lei</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>Tommi</FirstName>
+<SecondName>Jaakkola</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1012">
+<title>Deep Multi-Task Learning with Shared Memory for Text Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pengfei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Xipeng</FirstName>
+<SecondName>Qiu</SecondName>
+</Author>
+<Author>
+<FirstName>Xuanjing</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1013">
+<title>Natural Language Comprehension with the EpiReader</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Trischler</SecondName>
+</Author>
+<Author>
+<FirstName>Zheng</FirstName>
+<SecondName>Ye</SecondName>
+</Author>
+<Author>
+<FirstName>Xingdi</FirstName>
+<SecondName>Yuan</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Bachman</SecondName>
+</Author>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Sordoni</SecondName>
+</Author>
+<Author>
+<FirstName>Kaheer</FirstName>
+<SecondName>Suleman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1014">
+<title>Creating Causal Embeddings for Question Answering with Minimal Supervision</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Sharp</SecondName>
+</Author>
+<Author>
+<FirstName>Mihai</FirstName>
+<SecondName>Surdeanu</SecondName>
+</Author>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Jansen</SecondName>
+</Author>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Hammond</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1015">
+<title>Improving Semantic Parsing via Answer Type Inference</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Semih</FirstName>
+<SecondName>Yavuz</SecondName>
+</Author>
+<Author>
+<FirstName>Izzeddin</FirstName>
+<SecondName>Gur</SecondName>
+</Author>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Mudhakar</FirstName>
+<SecondName>Srivatsa</SecondName>
+</Author>
+<Author>
+<FirstName>Xifeng</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1016">
+<title>Semantic Parsing to Probabilistic Programs for Situated Question Answering</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jayant</FirstName>
+<SecondName>Krishnamurthy</SecondName>
+</Author>
+<Author>
+<FirstName>Oyvind</FirstName>
+<SecondName>Tafjord</SecondName>
+</Author>
+<Author>
+<FirstName>Aniruddha</FirstName>
+<SecondName>Kembhavi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1017">
+<title>Event participant modelling with neural networks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ottokar</FirstName>
+<SecondName>Tilk</SecondName>
+</Author>
+<Author>
+<FirstName>Vera</FirstName>
+<SecondName>Demberg</SecondName>
+</Author>
+<Author>
+<FirstName>Asad</FirstName>
+<SecondName>Sayeed</SecondName>
+</Author>
+<Author>
+<FirstName>Dietrich</FirstName>
+<SecondName>Klakow</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Thater</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1018">
+<title>Context-Dependent Sense Embedding</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lin</FirstName>
+<SecondName>Qiu</SecondName>
+</Author>
+<Author>
+<FirstName>Kewei</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+<Author>
+<FirstName>Yong</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1019">
+<title>Jointly Embedding Knowledge Graphs and Logical Rules</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jointly</FirstName>
+<SecondName>Embedding</SecondName>
+</Author>
+<Author>
+<FirstName>Shu</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Quan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Lihong</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Bin</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1020">
+<title>
+      Learning Connective-based Word Representations for Implicit Discourse
+      Relation Identification
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chloé</FirstName>
+<SecondName>Braud</SecondName>
+</Author>
+<Author>
+<FirstName>Pascal</FirstName>
+<SecondName>Denis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1021">
+<title>Aspect Level Sentiment Classification with Deep Memory Network</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Duyu</FirstName>
+<SecondName>Tang</SecondName>
+</Author>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Qin</SecondName>
+</Author>
+<Author>
+<FirstName>Ting</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1022">
+<title>
+      Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and
+      Aspects in Opinion Targets
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Shu</SecondName>
+</Author>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Hu</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Annice</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1023">
+<title>
+      Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain
+      Sentiment Classification
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jianfei</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1024">
+<title>Attention-based LSTM Network for Cross-Lingual Sentiment Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xinjie</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaojun</FirstName>
+<SecondName>Wan</SecondName>
+</Author>
+<Author>
+<FirstName>Jianguo</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1025">
+<title>Neural versus Phrase-Based Machine Translation Quality: a Case Study</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Luisa</FirstName>
+<SecondName>Bentivogli</SecondName>
+</Author>
+<Author>
+<FirstName>Arianna</FirstName>
+<SecondName>Bisazza</SecondName>
+</Author>
+<Author>
+<FirstName>Mauro</FirstName>
+<SecondName>Cettolo</SecondName>
+</Author>
+<Author>
+<FirstName>Marcello</FirstName>
+<SecondName>Federico</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1026">
+<title>Zero-Resource Translation with Multi-Lingual Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Orhan</FirstName>
+<SecondName>Firat</SecondName>
+</Author>
+<Author>
+<FirstName>Baskaran</FirstName>
+<SecondName>Sankaran</SecondName>
+</Author>
+<Author>
+<FirstName>Yaser</FirstName>
+<SecondName>Al-Onaizan</SecondName>
+</Author>
+<Author>
+<FirstName>Fatos</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+<Author>
+<FirstName>Kyunghyun</FirstName>
+<SecondName>Cho</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1027">
+<title>Memory-enhanced Decoder for Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Mingxuan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhengdong</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Hang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1028">
+<title>Semi-Supervised Learning of Sequence Models with Method of Moments</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zita</FirstName>
+<SecondName>Marinho</SecondName>
+</Author>
+<Author>
+<FirstName>André</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Shay</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1029">
+<title>
+      Learning from Explicit and Implicit Supervision Jointly For Algebra Word
+      Problems
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Shyam</FirstName>
+<SecondName>Upadhyay</SecondName>
+</Author>
+<Author>
+<FirstName>Ming-Wei</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Kai-Wei</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Wen-tau</FirstName>
+<SecondName>Yih</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1030">
+<title>
+      TweeTime : A Minimally Supervised Method for Recognizing and Normalizing
+      Time Expressions in Twitter
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jeniya</FirstName>
+<SecondName>Tabassum</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>Ritter</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1031">
+<title>
+      Language as a Latent Variable: Discrete Generative Models for Sentence
+      Compression
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yishu</FirstName>
+<SecondName>Miao</SecondName>
+</Author>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Blunsom</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1032">
+<title>Globally Coherent Text Generation with Neural Checklist Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chloé</FirstName>
+<SecondName>Kiddon</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1033">
+<title>
+      A Dataset and Evaluation Metrics for Abstractive Compression of Sentences
+      and Short Paragraphs
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Brockett</SecondName>
+</Author>
+<Author>
+<FirstName>Ke</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Saleema</FirstName>
+<SecondName>Amershi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1034">
+<title>
+      PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic
+      Text Simplification
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dominique</FirstName>
+<SecondName>Brunato</SecondName>
+</Author>
+<Author>
+<FirstName>Andrea</FirstName>
+<SecondName>Cimino</SecondName>
+</Author>
+<Author>
+<FirstName>Felice</FirstName>
+<SecondName>Dell'Orletta</SecondName>
+</Author>
+<Author>
+<FirstName>Giulia</FirstName>
+<SecondName>Venturi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1035">
+<title>Discourse Parsing with Attention-based Hierarchical Neural Networks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Tianshi</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Baobao</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1036">
+<title>Multi-view Response Selection for Human-Computer Conversation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xiangyang</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Daxiang</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Hua</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Shiqi</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Dianhai</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Tian</SecondName>
+</Author>
+<Author>
+<FirstName>Xuan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Rui</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1037">
+<title>Variational Neural Discourse Relation Recognizer</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Biao</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Deyi</FirstName>
+<SecondName>Xiong</SecondName>
+</Author>
+<Author>
+<FirstName>jinsong</FirstName>
+<SecondName>su</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Rongrong</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Duan</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1038">
+<title>Event Detection and Co-reference with Minimal Supervision</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Event</FirstName>
+<SecondName>Detection</SecondName>
+</Author>
+<Author>
+<FirstName>Haoruo</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Yangqiu</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1039">
+<title>
+      Learning Term Embeddings for Taxonomic Relation Identification Using
+      Dynamic Weighting Neural Network
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tuan</FirstName>
+<SecondName>Luu</SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Tay</SecondName>
+</Author>
+<Author>
+<FirstName>Siu</FirstName>
+<SecondName>Cheung</SecondName>
+</Author>
+<Author>
+<FirstName>See</FirstName>
+<SecondName>Kiong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1040">
+<title>Relation Schema Induction using Tensor Factorization with Side Information</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Madhav</FirstName>
+<SecondName>Nimishakavi</SecondName>
+</Author>
+<Author>
+<FirstName>Uday</FirstName>
+<SecondName>Singh</SecondName>
+</Author>
+<Author>
+<FirstName>Partha</FirstName>
+<SecondName>Talukdar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1041">
+<title>Supervised Distributional Hypernym Discovery via Domain Adaptation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Luis</FirstName>
+<SecondName>Espinosa</SecondName>
+</Author>
+<Author>
+<FirstName>Jose</FirstName>
+<SecondName>Camacho-Collados</SecondName>
+</Author>
+<Author>
+<FirstName>Claudio</FirstName>
+<SecondName>Delli</SecondName>
+</Author>
+<Author>
+<FirstName>Horacio</FirstName>
+<SecondName>Saggion</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1042">
+<title>Latent Tree Language Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tomáš</FirstName>
+<SecondName>Brychcín</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1043">
+<title>
+      Comparing Data Sources and Architectures for Deep Visual Representation
+      Learning in Semantics
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Douwe</FirstName>
+<SecondName>Kiela</SecondName>
+</Author>
+<Author>
+<FirstName>Anita</FirstName>
+<SecondName>Lilla</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1044">
+<title>
+      Multimodal Compact Bilinear Pooling for Visual Question Answering and
+      Visual Grounding
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Akira</FirstName>
+<SecondName>Fukui</SecondName>
+</Author>
+<Author>
+<FirstName>Dong</FirstName>
+<SecondName>Huk</SecondName>
+</Author>
+<Author>
+<FirstName>Daylen</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Rohrbach</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Darrell</SecondName>
+</Author>
+<Author>
+<FirstName>Marcus</FirstName>
+<SecondName>Rohrbach</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1045">
+<title>The Structured Weighted Violations Perceptron Algorithm</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>The</FirstName>
+<SecondName>Structured</SecondName>
+</Author>
+<Author>
+<FirstName>Rotem</FirstName>
+<SecondName>Dror</SecondName>
+</Author>
+<Author>
+<FirstName>Roi</FirstName>
+<SecondName>Reichart</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1046">
+<title>How Transferable are Neural Networks in NLP Applications?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lili</FirstName>
+<SecondName>Mou</SecondName>
+</Author>
+<Author>
+<FirstName>Zhao</FirstName>
+<SecondName>Meng</SecondName>
+</Author>
+<Author>
+<FirstName>Rui</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>Ge</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Yan</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Lu</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhi</FirstName>
+<SecondName>Jin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1047">
+<title>Morphological Priors for Probabilistic Neural Word Embeddings</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Parminder</FirstName>
+<SecondName>Bhatia</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Guthrie</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1048">
+<title>
+      Automatic Cross-Lingual Similarization of Dependency Grammars for
+      Tree-based Machine Translation
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Wenbin</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Wen</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jinan</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Rangjia</FirstName>
+<SecondName>Cai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1049">
+<title>
+      IRT-based Aggregation Model of Crowdsourced Pairwise Comparison for
+      Evaluating Machine Translations
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Naoki</FirstName>
+<SecondName>Otani</SecondName>
+</Author>
+<Author>
+<FirstName>Toshiaki</FirstName>
+<SecondName>Nakazawa</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Kawahara</SecondName>
+</Author>
+<Author>
+<FirstName>Sadao</FirstName>
+<SecondName>Kurohashi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1050">
+<title>Variational Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Biao</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Deyi</FirstName>
+<SecondName>Xiong</SecondName>
+</Author>
+<Author>
+<FirstName>jinsong</FirstName>
+<SecondName>su</SecondName>
+</Author>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Duan</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1051">
+<title>Towards a Convex HMM Surrogate for Word Alignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Andrei</FirstName>
+<SecondName>Simion</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Cliff</FirstName>
+<SecondName>Stein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1052">
+<title>Solving Verbal Questions in IQ Test by Knowledge-Powered Word Embedding</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Huazheng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Tian</SecondName>
+</Author>
+<Author>
+<FirstName>Bin</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Chengjieren</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Jiang</FirstName>
+<SecondName>Bian</SecondName>
+</Author>
+<Author>
+<FirstName>Tie-Yan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1053">
+<title>Long Short-Term Memory-Networks for Machine Reading</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jianpeng</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1054">
+<title>On Generating Characteristic-rich Question Sets for QA Evaluation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>On</FirstName>
+<SecondName>Generating</SecondName>
+</Author>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Huan</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Sadler</SecondName>
+</Author>
+<Author>
+<FirstName>Mudhakar</FirstName>
+<SecondName>Srivatsa</SecondName>
+</Author>
+<Author>
+<FirstName>Izzeddin</FirstName>
+<SecondName>Gur</SecondName>
+</Author>
+<Author>
+<FirstName>Zenghui</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>Xifeng</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1055">
+<title>Learning to Translate for Multilingual Question Answering</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ferhan</FirstName>
+<SecondName>Ture</SecondName>
+</Author>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>Boschee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1056">
+<title>A Semiparametric Model for Bayesian Reader Identification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ahmed</FirstName>
+<SecondName>Abdelwahab</SecondName>
+</Author>
+<Author>
+<FirstName>Reinhold</FirstName>
+<SecondName>Kliegl</SecondName>
+</Author>
+<Author>
+<FirstName>Niels</FirstName>
+<SecondName>Landwehr</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1057">
+<title>Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Jure</FirstName>
+<SecondName>Leskovec</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1058">
+<title>Attention-based LSTM for Aspect-level Sentiment Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yequan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Minlie</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>xiaoyan</FirstName>
+<SecondName>zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1059">
+<title>Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Wenya</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Sinno</FirstName>
+<SecondName>Jialin</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Dahlmeier</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaokui</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1060">
+<title>Extracting Aspect Specific Opinion Expressions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Abhishek</FirstName>
+<SecondName>Laddha</SecondName>
+</Author>
+<Author>
+<FirstName>Arjun</FirstName>
+<SecondName>Mukherjee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1061">
+<title>Emotion Distribution Learning from Texts</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Deyu</FirstName>
+<SecondName>ZHOU</SecondName>
+</Author>
+<Author>
+<FirstName>Xuan</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Yin</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Quan</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Xin</FirstName>
+<SecondName>Geng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1062">
+<title>Building an Evaluation Scale using Item Response Theory</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Lalor</SecondName>
+</Author>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>hong</FirstName>
+<SecondName>yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1063">
+<title>WordRank: Learning Word Embeddings via Robust Ranking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>WordRank:</FirstName>
+<SecondName>Learning</SecondName>
+</Author>
+<Author>
+<FirstName>Shihao</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Hyokun</FirstName>
+<SecondName>Yun</SecondName>
+</Author>
+<Author>
+<FirstName>Pinar</FirstName>
+<SecondName>Yanardag</SecondName>
+</Author>
+<Author>
+<FirstName>Shin</FirstName>
+<SecondName>Matsushima</SecondName>
+</Author>
+<Author>
+<FirstName>S.</FirstName>
+<SecondName>V.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1064">
+<title>Exploring Semantic Representation in Brain Activity Using Word Embeddings</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yu-Ping</FirstName>
+<SecondName>Ruan</SecondName>
+</Author>
+<Author>
+<FirstName>Zhen-Hua</FirstName>
+<SecondName>Ling</SecondName>
+</Author>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Hu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1065">
+<title>AMR Parsing with an Incremental Joint Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Junsheng</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Feiyu</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+<Author>
+<FirstName>Weiguang</FirstName>
+<SecondName>QU</SecondName>
+</Author>
+<Author>
+<FirstName>Ran</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Yanhui</FirstName>
+<SecondName>Gu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1066">
+<title>Identifying Dogmatism in Social Media: Signals and Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ethan</FirstName>
+<SecondName>Fast</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Horvitz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1067">
+<title>Enhanced Personalized Search using Social Data</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Séamus</FirstName>
+<SecondName>Lawless</SecondName>
+</Author>
+<Author>
+<FirstName>Xuan</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Wenyu</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Jianxun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1068">
+<title>Effective Greedy Inference for Graph-based Non-Projective Dependency Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ilan</FirstName>
+<SecondName>Tchernowitz</SecondName>
+</Author>
+<Author>
+<FirstName>Liron</FirstName>
+<SecondName>Yedidsion</SecondName>
+</Author>
+<Author>
+<FirstName>Roi</FirstName>
+<SecondName>Reichart</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1069">
+<title>
+      Generating Abbreviations for Chinese Named Entities Using Recurrent Neural
+      Network with Dynamic Dictionary
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jin</FirstName>
+<SecondName>Qian</SecondName>
+</Author>
+<Author>
+<FirstName>Ya</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Yaqian</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Xuanjing</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1070">
+<title>Neural Network for Heterogeneous Annotations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hongshen</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1071">
+<title>LAMB: A Good Shepherd of Morphologically Rich Languages</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Ebert</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Müller</SecondName>
+</Author>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Schütze</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1072">
+<title>
+      Fast Coupled Sequence Labeling on Heterogeneous Annotations via
+      Context-aware Pruning
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zhenghua</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Jiayuan</FirstName>
+<SecondName>Chao</SecondName>
+</Author>
+<Author>
+<FirstName>Min</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jiwen</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1073">
+<title>Unsupervised Neural Dependency Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yong</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Wenjuan</FirstName>
+<SecondName>Han</SecondName>
+</Author>
+<Author>
+<FirstName>Kewei</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1074">
+<title>Generating Coherent Summaries of Scientific Articles Using Coherence Patterns</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Generating</FirstName>
+<SecondName>Coherent</SecondName>
+</Author>
+<Author>
+<FirstName>Daraksha</FirstName>
+<SecondName>Parveen</SecondName>
+</Author>
+<Author>
+<FirstName>Mohsen</FirstName>
+<SecondName>Mesgar</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1075">
+<title>News Stream Summarization using Burst Information Networks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Ge</SecondName>
+</Author>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Cui</SecondName>
+</Author>
+<Author>
+<FirstName>Baobao</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Sujian</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Zhifang</FirstName>
+<SecondName>Sui</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1076">
+<title>Rationale-Augmented Convolutional Neural Networks for Text Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ye</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Iain</FirstName>
+<SecondName>Marshall</SecondName>
+</Author>
+<Author>
+<FirstName>Byron</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1077">
+<title>
+      Transferring User Interests Across Websites with Unstructured Text for
+      Cold-Start Recommendation
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yu-Yang</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Shou-De</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1078">
+<title>Speculation and Negation Scope Detection via Convolutional Neural Networks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Speculation</FirstName>
+<SecondName>and</SecondName>
+</Author>
+<Author>
+<FirstName>Zhong</FirstName>
+<SecondName>Qian</SecondName>
+</Author>
+<Author>
+<FirstName>Peifeng</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Qiaoming</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Guodong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Zhunchen</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1079">
+<title>Analyzing Linguistic Knowledge in Sequential Model of Sentence</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Qian</SecondName>
+</Author>
+<Author>
+<FirstName>Xipeng</FirstName>
+<SecondName>Qiu</SecondName>
+</Author>
+<Author>
+<FirstName>Xuanjing</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1080">
+<title>Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yeyun</FirstName>
+<SecondName>Gong</SecondName>
+</Author>
+<Author>
+<FirstName>Xuanjing</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1081">
+<title>Solving and Generating Chinese Character Riddles</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chuanqi</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+<Author>
+<FirstName>Furu</FirstName>
+<SecondName>Wei</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Weifeng</FirstName>
+<SecondName>Lv</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1082">
+<title>Structured prediction models for RNN based sequence labeling in clinical text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Abhyuday</FirstName>
+<SecondName>Jagannatha</SecondName>
+</Author>
+<Author>
+<FirstName>hong</FirstName>
+<SecondName>yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1083">
+<title>Learning to Represent Review with Tensor Decomposition for Spam Detection</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xuepeng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Kang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Shizhu</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Jun</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1084">
+<title>Stance Detection with Bidirectional Conditional Encoding</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Isabelle</FirstName>
+<SecondName>Augenstein</SecondName>
+</Author>
+<Author>
+<FirstName>Tim</FirstName>
+<SecondName>Rocktäschel</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Vlachos</SecondName>
+</Author>
+<Author>
+<FirstName>Kalina</FirstName>
+<SecondName>Bontcheva</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1085">
+<title>Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Thien</FirstName>
+<SecondName>Huu</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>Grishman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1086">
+<title>Porting an Open Information Extraction System from English to German</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tobias</FirstName>
+<SecondName>Falke</SecondName>
+</Author>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>Stanovsky</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1087">
+<title>Named Entity Recognition for Novel Types by Transfer Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lizhen</FirstName>
+<SecondName>Qu</SecondName>
+</Author>
+<Author>
+<FirstName>Gabriela</FirstName>
+<SecondName>Ferraro</SecondName>
+</Author>
+<Author>
+<FirstName>Liyuan</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Weiwei</FirstName>
+<SecondName>Hou</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1088">
+<title>Extracting Subevents via an Effective Two-phase Approach</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Allison</FirstName>
+<SecondName>Badgett</SecondName>
+</Author>
+<Author>
+<FirstName>Ruihong</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1089">
+<title>Gaussian Visual-Linguistic Embedding for Zero-Shot Recognition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tanmoy</FirstName>
+<SecondName>Mukherjee</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Hospedales</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1090">
+<title>Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Question</FirstName>
+<SecondName>Relevance</SecondName>
+</Author>
+<Author>
+<FirstName>Arijit</FirstName>
+<SecondName>Ray</SecondName>
+</Author>
+<Author>
+<FirstName>Gordon</FirstName>
+<SecondName>Christie</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+<Author>
+<FirstName>Dhruv</FirstName>
+<SecondName>Batra</SecondName>
+</Author>
+<Author>
+<FirstName>Devi</FirstName>
+<SecondName>Parikh</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1091">
+<title>Sort Story: Sorting Jumbled Images and Captions into Stories</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sort</FirstName>
+<SecondName>Story:</SecondName>
+</Author>
+<Author>
+<FirstName>Harsh</FirstName>
+<SecondName>Agrawal</SecondName>
+</Author>
+<Author>
+<FirstName>Arjun</FirstName>
+<SecondName>Chandrasekaran</SecondName>
+</Author>
+<Author>
+<FirstName>Dhruv</FirstName>
+<SecondName>Batra</SecondName>
+</Author>
+<Author>
+<FirstName>Devi</FirstName>
+<SecondName>Parikh</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1092">
+<title>
+      Human Attention in Visual Question Answering: Do Humans and Deep Networks
+      look at the same regions?
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Abhishek</FirstName>
+<SecondName>Das</SecondName>
+</Author>
+<Author>
+<FirstName>Harsh</FirstName>
+<SecondName>Agrawal</SecondName>
+</Author>
+<Author>
+<FirstName>Larry</FirstName>
+<SecondName>Zitnick</SecondName>
+</Author>
+<Author>
+<FirstName>Devi</FirstName>
+<SecondName>Parikh</SecondName>
+</Author>
+<Author>
+<FirstName>Dhruv</FirstName>
+<SecondName>Batra</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1093">
+<title>Recurrent Residual Learning for Sequence Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yiren</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Tian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1094">
+<title>Richer Interpolative Smoothing Based on Modified Kneser-Ney Language Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ehsan</FirstName>
+<SecondName>Shareghi</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+<Author>
+<FirstName>Gholamreza</FirstName>
+<SecondName>Haffari</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1095">
+<title>A General Regularization Framework for Domain Adaptation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>A</FirstName>
+<SecondName>General</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Hai</FirstName>
+<SecondName>Leong</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Löfgren</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1096">
+<title>Coverage Embedding Models for Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Haitao</FirstName>
+<SecondName>Mi</SecondName>
+</Author>
+<Author>
+<FirstName>Baskaran</FirstName>
+<SecondName>Sankaran</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiguo</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Abe</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1097">
+<title>Neural Morphological Analysis: Encoding-Decoding Canonical Segments</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Katharina</FirstName>
+<SecondName>Kann</SecondName>
+</Author>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Cotterell</SecondName>
+</Author>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Schütze</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1098">
+<title>
+      Exploiting Mutual Benefits between Syntax and Semantic Roles using Neural
+      Network
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiyang</FirstName>
+<SecondName>Teng</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1099">
+<title>The Effects of Data Size and Frequency Range on Distributional Semantic Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Magnus</FirstName>
+<SecondName>Sahlgren</SecondName>
+</Author>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Lenci</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1100">
+<title>Multi-Granularity Chinese Word Embedding</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Multi-Granularity</FirstName>
+<SecondName>Chinese</SecondName>
+</Author>
+<Author>
+<FirstName>Rongchao</FirstName>
+<SecondName>Yin</SecondName>
+</Author>
+<Author>
+<FirstName>Quan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Rui</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Bin</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1101">
+<title>Numerically Grounded Language Models for Semantic Error Correction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Georgios</FirstName>
+<SecondName>Spithourakis</SecondName>
+</Author>
+<Author>
+<FirstName>Isabelle</FirstName>
+<SecondName>Augenstein</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1102">
+<title>
+      Towards Semi-Automatic Generation of Proposition Banks for Low-Resource
+      Languages
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>Akbik</SecondName>
+</Author>
+<Author>
+<FirstName>vishwajeet</FirstName>
+<SecondName>kumar</SecondName>
+</Author>
+<Author>
+<FirstName>Yunyao</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1103">
+<title>A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Ruder</SecondName>
+</Author>
+<Author>
+<FirstName>Parsa</FirstName>
+<SecondName>Ghaffari</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1104">
+<title>Are Word Embedding-based Features Useful for Sarcasm Detection?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Aditya</FirstName>
+<SecondName>Joshi</SecondName>
+</Author>
+<Author>
+<FirstName>Vaibhav</FirstName>
+<SecondName>Tripathi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Patel</SecondName>
+</Author>
+<Author>
+<FirstName>Pushpak</FirstName>
+<SecondName>Bhattacharyya</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Carman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1105">
+<title>Weakly Supervised Tweet Stance Classification by Relational Bootstrapping</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Javid</FirstName>
+<SecondName>Ebrahimi</SecondName>
+</Author>
+<Author>
+<FirstName>Dejing</FirstName>
+<SecondName>Dou</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Lowd</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1106">
+<title>The Gun Violence Database: A new task and data set for NLP</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>The</FirstName>
+<SecondName>Gun</SecondName>
+</Author>
+<Author>
+<FirstName>Ellie</FirstName>
+<SecondName>Pavlick</SecondName>
+</Author>
+<Author>
+<FirstName>Heng</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoman</FirstName>
+<SecondName>Pan</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Callison-Burch</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1107">
+<title>Fluency detection on communication networks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tom</FirstName>
+<SecondName>Lippincott</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1108">
+<title>
+      Characterizing the Language of Online Communities and its Relation to
+      Community Reception
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Trang</FirstName>
+<SecondName>Tran</SecondName>
+</Author>
+<Author>
+<FirstName>Mari</FirstName>
+<SecondName>Ostendorf</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1109">
+<title>
+      Joint Transition-based Dependency Parsing and Disfluency Detection for
+      Automatic Speech Recognition Texts
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Masashi</FirstName>
+<SecondName>Yoshikawa</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroyuki</FirstName>
+<SecondName>Shindo</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1110">
+<title>
+      Real-Time Speech Emotion and Sentiment Recognition for Interactive
+      Dialogue Systems
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dario</FirstName>
+<SecondName>Bertero</SecondName>
+</Author>
+<Author>
+<FirstName>Farhad</FirstName>
+<SecondName>Bin</SecondName>
+</Author>
+<Author>
+<FirstName>Chien-Sheng</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Yan</FirstName>
+<SecondName>Wan</SecondName>
+</Author>
+<Author>
+<FirstName>Ricky</FirstName>
+<SecondName>Ho</SecondName>
+</Author>
+<Author>
+<FirstName>Pascale</FirstName>
+<SecondName>Fung</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1111">
+<title>A Neural Network Architecture for Multilingual Punctuation Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Miguel</FirstName>
+<SecondName>Ballesteros</SecondName>
+</Author>
+<Author>
+<FirstName>Leo</FirstName>
+<SecondName>Wanner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1112">
+<title>Neural Headline Generation on Abstract Meaning Representation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sho</FirstName>
+<SecondName>Takase</SecondName>
+</Author>
+<Author>
+<FirstName>Jun</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+<Author>
+<FirstName>Naoaki</FirstName>
+<SecondName>Okazaki</SecondName>
+</Author>
+<Author>
+<FirstName>Tsutomu</FirstName>
+<SecondName>Hirao</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1113">
+<title>Robust Gram Embeddings</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Taygun</FirstName>
+<SecondName>Kekec</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1114">
+<title>SimpleScience: Lexical Simplification of Scientific Terminology</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>SimpleScience:</FirstName>
+<SecondName>Lexical</SecondName>
+</Author>
+<Author>
+<FirstName>Yea</FirstName>
+<SecondName>Seul</SecondName>
+</Author>
+<Author>
+<FirstName>Jessica</FirstName>
+<SecondName>Hullman</SecondName>
+</Author>
+<Author>
+<FirstName>Matthew</FirstName>
+<SecondName>Burgess</SecondName>
+</Author>
+<Author>
+<FirstName>Eytan</FirstName>
+<SecondName>Adar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1115">
+<title>Automatic Features for Essay Scoring �?? An Empirical Study</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1116">
+<title>Semantic Parsing with Semi-Supervised Sequential Autoencoders</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tomáš</FirstName>
+<SecondName>Kočiský</SecondName>
+</Author>
+<Author>
+<FirstName>Gábor</FirstName>
+<SecondName>Melis</SecondName>
+</Author>
+<Author>
+<FirstName>Edward</FirstName>
+<SecondName>Grefenstette</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+<Author>
+<FirstName>Wang</FirstName>
+<SecondName>Ling</SecondName>
+</Author>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Blunsom</SecondName>
+</Author>
+<Author>
+<FirstName>Karl</FirstName>
+<SecondName>Moritz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1117">
+<title>Equation Parsing : Mapping Sentences to Grounded Equations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Subhro</FirstName>
+<SecondName>Roy</SecondName>
+</Author>
+<Author>
+<FirstName>Shyam</FirstName>
+<SecondName>Upadhyay</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1118">
+<title>Automatic Extraction of Implicit Interpretations from Modal Constructions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jordan</FirstName>
+<SecondName>Sanders</SecondName>
+</Author>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>Blanco</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1119">
+<title>Understanding Negation in Positive Terms Using Syntactic Dependencies</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zahra</FirstName>
+<SecondName>Sarabi</SecondName>
+</Author>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>Blanco</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1120">
+<title>
+      Demographic Dialectal Variation in Social Media: A Case Study of
+      African-American English
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Su</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Lisa</FirstName>
+<SecondName>Green</SecondName>
+</Author>
+<Author>
+<FirstName>Brendan</FirstName>
+<SecondName>O'Connor</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1121">
+<title>
+      Understanding Language Preference for Expression of Opinion and Sentiment:
+      What do Hindi-English Speakers do on Twitter?
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Koustav</FirstName>
+<SecondName>Rudra</SecondName>
+</Author>
+<Author>
+<FirstName>Shruti</FirstName>
+<SecondName>Rijhwani</SecondName>
+</Author>
+<Author>
+<FirstName>Rafiya</FirstName>
+<SecondName>Begum</SecondName>
+</Author>
+<Author>
+<FirstName>Kalika</FirstName>
+<SecondName>Bali</SecondName>
+</Author>
+<Author>
+<FirstName>Monojit</FirstName>
+<SecondName>Choudhury</SecondName>
+</Author>
+<Author>
+<FirstName>Niloy</FirstName>
+<SecondName>Ganguly</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1122">
+<title>Detecting and Characterizing Events</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Detecting</FirstName>
+<SecondName>and</SecondName>
+</Author>
+<Author>
+<FirstName>Allison</FirstName>
+<SecondName>Chaney</SecondName>
+</Author>
+<Author>
+<FirstName>Hanna</FirstName>
+<SecondName>Wallach</SecondName>
+</Author>
+<Author>
+<FirstName>Matthew</FirstName>
+<SecondName>Connelly</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Blei</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1123">
+<title>Convolutional Neural Network Language Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ngoc-Quan</FirstName>
+<SecondName>Pham</SecondName>
+</Author>
+<Author>
+<FirstName>Germán</FirstName>
+<SecondName>Kruszewski</SecondName>
+</Author>
+<Author>
+<FirstName>Gemma</FirstName>
+<SecondName>Boleda</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1124">
+<title>Generalizing and Hybridizing Count-based and Neural Language Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1125">
+<title>Reasoning about Pragmatics with Neural Listeners and Speakers</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Andreas</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1126">
+<title>Generating Topical Poetry</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marjan</FirstName>
+<SecondName>Ghazvininejad</SecondName>
+</Author>
+<Author>
+<FirstName>Xing</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1127">
+<title>Deep Reinforcement Learning for Dialogue Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jiwei</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Will</FirstName>
+<SecondName>Monroe</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>Ritter</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+<Author>
+<FirstName>Michel</FirstName>
+<SecondName>Galley</SecondName>
+</Author>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1128">
+<title>
+      Neural Text Generation from Structured Data with Application to the
+      Biography Domain
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rémi</FirstName>
+<SecondName>Lebret</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Grangier</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Auli</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1129">
+<title>
+      What makes a convincing argument? Empirical analysis and detecting
+      attributes of convincingness in Web argumentation
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Habernal</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1130">
+<title>
+      Recognizing Implicit Discourse Relations via Repeated Reading: Neural
+      Networks with Multi-Level Attention
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Sujian</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1131">
+<title>Antecedent Selection for Sluicing: Structure and Content</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pranav</FirstName>
+<SecondName>Anand</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Hardt</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1132">
+<title>
+      Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column
+      Convolutional Neural Network
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ryu</FirstName>
+<SecondName>Iida</SecondName>
+</Author>
+<Author>
+<FirstName>Kentaro</FirstName>
+<SecondName>Torisawa</SecondName>
+</Author>
+<Author>
+<FirstName>Jong-Hoon</FirstName>
+<SecondName>Oh</SecondName>
+</Author>
+<Author>
+<FirstName>Canasai</FirstName>
+<SecondName>Kruengkrai</SecondName>
+</Author>
+<Author>
+<FirstName>Julien</FirstName>
+<SecondName>Kloetzer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1133">
+<title>
+      An Unsupervised Probability Model for Speech-to-Translation Alignment of
+      Low-Resource Languages
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Antonios</FirstName>
+<SecondName>Anastasopoulos</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+<Author>
+<FirstName>Long</FirstName>
+<SecondName>Duong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1134">
+<title>HUME: Human UCCA-Based Evaluation of Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Alexandra</FirstName>
+<SecondName>Birch</SecondName>
+</Author>
+<Author>
+<FirstName>Omri</FirstName>
+<SecondName>Abend</SecondName>
+</Author>
+<Author>
+<FirstName>Ond�?ej</FirstName>
+<SecondName>Bojar</SecondName>
+</Author>
+<Author>
+<FirstName>Barry</FirstName>
+<SecondName>Haddow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1135">
+<title>
+      Improving Multilingual Named Entity Recognition with Wikipedia Entity Type
+      Mapping
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Ni</SecondName>
+</Author>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Florian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1136">
+<title>Learning Crosslingual Word Embeddings without Bilingual Corpora</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Long</FirstName>
+<SecondName>Duong</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Kanayama</SecondName>
+</Author>
+<Author>
+<FirstName>Tengfei</FirstName>
+<SecondName>Ma</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Bird</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1137">
+<title>Sequence-to-Sequence Learning as Beam-Search Optimization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sam</FirstName>
+<SecondName>Wiseman</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1138">
+<title>Online Segment to Segment Neural Transduction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Jan</FirstName>
+<SecondName>Buys</SecondName>
+</Author>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Blunsom</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1139">
+<title>Sequence-Level Knowledge Distillation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yoon</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1140">
+<title>Controlling Output Length in Neural Encoder-Decoders</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yuta</FirstName>
+<SecondName>Kikuchi</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Ryohei</FirstName>
+<SecondName>Sasano</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroya</FirstName>
+<SecondName>Takamura</SecondName>
+</Author>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Okumura</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1141">
+<title>
+      Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering
+      Poetic Texts
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Cole</FirstName>
+<SecondName>Peterson</SecondName>
+</Author>
+<Author>
+<FirstName>Alona</FirstName>
+<SecondName>Fyshe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1142">
+<title>All Fingers are not Equal: Intensity of References in Scientific Articles</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tanmoy</FirstName>
+<SecondName>Chakraborty</SecondName>
+</Author>
+<Author>
+<FirstName>Ramasuri</FirstName>
+<SecondName>Narayanam</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1143">
+<title>Improving Users' Demographic Prediction via the Videos They Talk about</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yuan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+<Author>
+<FirstName>Chao</FirstName>
+<SecondName>Ma</SecondName>
+</Author>
+<Author>
+<FirstName>Zhen</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1144">
+<title>
+      AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label
+      Embedding
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Xiang</FirstName>
+<SecondName>Ren</SecondName>
+</Author>
+<Author>
+<FirstName>Wenqi</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Meng</FirstName>
+<SecondName>Qu</SecondName>
+</Author>
+<Author>
+<FirstName>Lifu</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Heng</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Jiawei</FirstName>
+<SecondName>Han</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1145">
+<title>Mining Inference Formulas by Goal-Directed Random Walks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zhuoyu</FirstName>
+<SecondName>Wei</SecondName>
+</Author>
+<Author>
+<FirstName>Jun</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Kang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1146">
+<title>Lifted Rule Injection for Relation Embeddings</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Demeester</SecondName>
+</Author>
+<Author>
+<FirstName>Tim</FirstName>
+<SecondName>Rocktäschel</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1147">
+<title>Key-Value Memory Networks for Directly Reading Documents</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Miller</SecondName>
+</Author>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Fisch</SecondName>
+</Author>
+<Author>
+<FirstName>Jesse</FirstName>
+<SecondName>Dodge</SecondName>
+</Author>
+<Author>
+<FirstName>Amir-Hossein</FirstName>
+<SecondName>Karimi</SecondName>
+</Author>
+<Author>
+<FirstName>Antoine</FirstName>
+<SecondName>Bordes</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Weston</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1148">
+<title>Analyzing Framing through the Casts of Characters in the News</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Analyzing</FirstName>
+<SecondName>Framing</SecondName>
+</Author>
+<Author>
+<FirstName>Dallas</FirstName>
+<SecondName>Card</SecondName>
+</Author>
+<Author>
+<FirstName>Justin</FirstName>
+<SecondName>Gross</SecondName>
+</Author>
+<Author>
+<FirstName>Amber</FirstName>
+<SecondName>Boydstun</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1149">
+<title>The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>The</FirstName>
+<SecondName>Teams</SecondName>
+</Author>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>Litman</SecondName>
+</Author>
+<Author>
+<FirstName>Susannah</FirstName>
+<SecondName>Paletz</SecondName>
+</Author>
+<Author>
+<FirstName>Zahra</FirstName>
+<SecondName>Rahimi</SecondName>
+</Author>
+<Author>
+<FirstName>Stefani</FirstName>
+<SecondName>Allegretti</SecondName>
+</Author>
+<Author>
+<FirstName>Caitlin</FirstName>
+<SecondName>Rice</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1150">
+<title>Personalized Emphasis Framing for Persuasive Message Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Ding</SecondName>
+</Author>
+<Author>
+<FirstName>Shimei</FirstName>
+<SecondName>Pan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1151">
+<title>Cross Sentence Inference for Process Knowledge</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Samuel</FirstName>
+<SecondName>Louvan</SecondName>
+</Author>
+<Author>
+<FirstName>Chetan</FirstName>
+<SecondName>Naik</SecondName>
+</Author>
+<Author>
+<FirstName>Sadhana</FirstName>
+<SecondName>Kumaravel</SecondName>
+</Author>
+<Author>
+<FirstName>Heeyoung</FirstName>
+<SecondName>Kwon</SecondName>
+</Author>
+<Author>
+<FirstName>Niranjan</FirstName>
+<SecondName>Balasubramanian</SecondName>
+</Author>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1152">
+<title>
+      Toward Socially-Infused Information Extraction: Embedding Authors,
+      Mentions, and Entities
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Ming-Wei</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1153">
+<title>
+      Phonologically Aware Neural Model for Named Entity Recognition in Low
+      Resource Transfer Settings
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Akash</FirstName>
+<SecondName>Bharadwaj</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Mortensen</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName>Carbonell</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1154">
+<title>Long-Short Range Context Neural Networks for Language Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Youssef</FirstName>
+<SecondName>Oualil</SecondName>
+</Author>
+<Author>
+<FirstName>Mittul</FirstName>
+<SecondName>Singh</SecondName>
+</Author>
+<Author>
+<FirstName>Clayton</FirstName>
+<SecondName>Greenberg</SecondName>
+</Author>
+<Author>
+<FirstName>Dietrich</FirstName>
+<SecondName>Klakow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1155">
+<title>
+      Jointly Learning Grounded Task Structures from Language Instruction and
+      Visual Demonstration
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Changsong</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Shaohua</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Sari</FirstName>
+<SecondName>Saba-Sadiya</SecondName>
+</Author>
+<Author>
+<FirstName>Nishant</FirstName>
+<SecondName>Shukla</SecondName>
+</Author>
+<Author>
+<FirstName>Yunzhong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Song-chun</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Joyce</FirstName>
+<SecondName>Chai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1156">
+<title>
+      Resolving Language and Vision Ambiguities Together: Joint Segmentation
+      & Prepositional Attachment Resolution in Captioned Scenes
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Gordon</FirstName>
+<SecondName>Christie</SecondName>
+</Author>
+<Author>
+<FirstName>Ankit</FirstName>
+<SecondName>Laddha</SecondName>
+</Author>
+<Author>
+<FirstName>Aishwarya</FirstName>
+<SecondName>Agrawal</SecondName>
+</Author>
+<Author>
+<FirstName>Stanislaw</FirstName>
+<SecondName>Antol</SecondName>
+</Author>
+<Author>
+<FirstName>Yash</FirstName>
+<SecondName>Goyal</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Kochersberger</SecondName>
+</Author>
+<Author>
+<FirstName>Dhruv</FirstName>
+<SecondName>Batra</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1157">
+<title>Charagram: Embedding Words and Sentences via Character n-grams</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Charagram:</FirstName>
+<SecondName>Embedding</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Wieting</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Gimpel</SecondName>
+</Author>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Livescu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1158">
+<title>Length bias in Encoder Decoder Models and a Case for Global Conditioning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pavel</FirstName>
+<SecondName>Sountsov</SecondName>
+</Author>
+<Author>
+<FirstName>Sunita</FirstName>
+<SecondName>Sarawagi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1159">
+<title>Does String-Based Neural MT Learn Source Syntax?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xing</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Inkit</FirstName>
+<SecondName>Padhi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1160">
+<title>Exploiting Source-side Monolingual Data in Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jiajun</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Chengqing</FirstName>
+<SecondName>Zong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1161">
+<title>
+      Phrase-based Machine Translation is State-of-the-Art for Automatic
+      Grammatical Error Correction
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marcin</FirstName>
+<SecondName>Junczys-Dowmunt</SecondName>
+</Author>
+<Author>
+<FirstName>Roman</FirstName>
+<SecondName>Grundkiewicz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1162">
+<title>Incorporating Discrete Translation Lexicons into Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Arthur</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Satoshi</FirstName>
+<SecondName>Nakamura</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1163">
+<title>Transfer Learning for Low-Resource Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Barret</FirstName>
+<SecondName>Zoph</SecondName>
+</Author>
+<Author>
+<FirstName>Deniz</FirstName>
+<SecondName>Yuret</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>May</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1164">
+<title>MixKMeans: Clustering Question-Answer Archives</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Deepak</FirstName>
+<SecondName>P</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1165">
+<title>
+      It Takes Three to Tango: Triangulation Approach to Answer Ranking in
+      Community Question Answering
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Preslav</FirstName>
+<SecondName>Nakov</SecondName>
+</Author>
+<Author>
+<FirstName>Lluís</FirstName>
+<SecondName>M� rquez</SecondName>
+</Author>
+<Author>
+<FirstName>Francisco</FirstName>
+<SecondName>Guzmán</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1166">
+<title>Character-Level Question Answering with Attention</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Golub</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1167">
+<title>Learning to Generate Textual Data</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Guillaume</FirstName>
+<SecondName>Bouchard</SecondName>
+</Author>
+<Author>
+<FirstName>Pontus</FirstName>
+<SecondName>Stenetorp</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1168">
+<title>A Theme-Rewriting Approach for Generating Algebra Word Problems</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rik</FirstName>
+<SecondName>Koncel-Kedziorski</SecondName>
+</Author>
+<Author>
+<FirstName>Ioannis</FirstName>
+<SecondName>Konstas</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+<Author>
+<FirstName>Hannaneh</FirstName>
+<SecondName>Hajishirzi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1169">
+<title>Context-Sensitive Lexicon Features for Neural Sentiment Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zhiyang</FirstName>
+<SecondName>Teng</SecondName>
+</Author>
+<Author>
+<FirstName>Duy</FirstName>
+<SecondName>Tin</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1170">
+<title>Event-Driven Emotion Cause Extraction with Corpus Construction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lin</FirstName>
+<SecondName>Gui</SecondName>
+</Author>
+<Author>
+<FirstName>Dongyin</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Ruifeng</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Qin</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1171">
+<title>Neural Sentiment Classification with User and Product Attention</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Huimin</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Maosong</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Cunchao</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+<Author>
+<FirstName>Yankai</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiyuan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1172">
+<title>
+      Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment
+      Classification
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jiacheng</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Danlu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Xipeng</FirstName>
+<SecondName>Qiu</SecondName>
+</Author>
+<Author>
+<FirstName>Xuanjing</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1173">
+<title>Deep Neural Networks with Massive Learned Knowledge</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Deep</FirstName>
+<SecondName>Neural</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiting</FirstName>
+<SecondName>Hu</SecondName>
+</Author>
+<Author>
+<FirstName>Zichao</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Ruslan</FirstName>
+<SecondName>Salakhutdinov</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Xing</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1174">
+<title>De-Conflated Semantic Representations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Mohammad</FirstName>
+<SecondName>Taher</SecondName>
+</Author>
+<Author>
+<FirstName>Nigel</FirstName>
+<SecondName>Collier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1175">
+<title>
+      Improving Sparse Word Representations with Distributional Inference for
+      Semantic Composition
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Kober</SecondName>
+</Author>
+<Author>
+<FirstName>Julie</FirstName>
+<SecondName>Weeds</SecondName>
+</Author>
+<Author>
+<FirstName>Jeremy</FirstName>
+<SecondName>Reffin</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Weir</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1176">
+<title>Modelling Interaction of Sentence Pair with Coupled-LSTMs</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pengfei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Xipeng</FirstName>
+<SecondName>Qiu</SecondName>
+</Author>
+<Author>
+<FirstName>Yaqian</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Jifan</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Xuanjing</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1177">
+<title>Universal Decompositional Semantics on Universal Dependencies</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Aaron</FirstName>
+<SecondName>Steven</SecondName>
+</Author>
+<Author>
+<FirstName>Drew</FirstName>
+<SecondName>Reisinger</SecondName>
+</Author>
+<Author>
+<FirstName>Keisuke</FirstName>
+<SecondName>Sakaguchi</SecondName>
+</Author>
+<Author>
+<FirstName>Tim</FirstName>
+<SecondName>Vieira</SecondName>
+</Author>
+<Author>
+<FirstName>Sheng</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Rachel</FirstName>
+<SecondName>Rudinger</SecondName>
+</Author>
+<Author>
+<FirstName>Kyle</FirstName>
+<SecondName>Rawlins</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1178">
+<title>Friends with Motives: Using Text to Infer Influence on SCOTUS</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Friends</FirstName>
+<SecondName>with</SecondName>
+</Author>
+<Author>
+<FirstName>Yanchuan</FirstName>
+<SecondName>Sim</SecondName>
+</Author>
+<Author>
+<FirstName>Bryan</FirstName>
+<SecondName>Routledge</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1179">
+<title>
+      Verb Phrase Ellipsis Resolution Using Discriminative and Margin-Infused
+      Algorithms
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kian</FirstName>
+<SecondName>Kenyon-Dean</SecondName>
+</Author>
+<Author>
+<FirstName>Jackie</FirstName>
+<SecondName>Chi</SecondName>
+</Author>
+<Author>
+<FirstName>Doina</FirstName>
+<SecondName>Precup</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1180">
+<title>Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adhiguna</FirstName>
+<SecondName>Kuncoro</SecondName>
+</Author>
+<Author>
+<FirstName>Miguel</FirstName>
+<SecondName>Ballesteros</SecondName>
+</Author>
+<Author>
+<FirstName>Lingpeng</FirstName>
+<SecondName>Kong</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1181">
+<title>LSTM Shift-Reduce CCG Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>LSTM</FirstName>
+<SecondName>Shift-Reduce</SecondName>
+</Author>
+<Author>
+<FirstName>Wenduan</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1182">
+<title>An Evaluation of Parser Robustness for Ungrammatical Sentences</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Homa</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Hwa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1183">
+<title>Neural Shift-Reduce CCG Semantic Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Neural</FirstName>
+<SecondName>Shift-Reduce</SecondName>
+</Author>
+<Author>
+<FirstName>Dipendra</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>Yoav</FirstName>
+<SecondName>Artzi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1184">
+<title>Syntactic Parsing of Web Queries</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xiangyan</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Haixun</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yanghua</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+<Author>
+<FirstName>Zhongyuan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1185">
+<title>Unsupervised Text Recap Extraction for TV Series</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hongliang</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Shikun</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Louis-Philippe</FirstName>
+<SecondName>Morency</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1186">
+<title>
+      On- and Off-Topic Classification and Semantic Annotation of User-Generated
+      Software Requirements
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Markus</FirstName>
+<SecondName>Dollmann</SecondName>
+</Author>
+<Author>
+<FirstName>Michaela</FirstName>
+<SecondName>Geierhos</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1187">
+<title>
+      Deceptive Review Spam Detection via Exploiting Task Relatedness and
+      Unlabeled Data
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zhen</FirstName>
+<SecondName>Hai</SecondName>
+</Author>
+<Author>
+<FirstName>Peilin</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Xiao-Li</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Guangxia</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1188">
+<title>Regularizing Text Categorization with Clusters of Words</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Konstantinos</FirstName>
+<SecondName>Skianis</SecondName>
+</Author>
+<Author>
+<FirstName>Francois</FirstName>
+<SecondName>Rousseau</SecondName>
+</Author>
+<Author>
+<FirstName>Michalis</FirstName>
+<SecondName>Vazirgiannis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1189">
+<title>
+      Deep Reinforcement Learning with a Combinatorial Action Space for
+      Predicting Popular Reddit Threads
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ji</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Mari</FirstName>
+<SecondName>Ostendorf</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Jianshu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Lihong</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1190">
+<title>
+      Non-Literal Text Reuse in Historical Texts: An Approach to Identify Reuse
+      Transformations and its Application to Bible Reuse
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Moritz</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Wiederhold</SecondName>
+</Author>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Pavlek</SecondName>
+</Author>
+<Author>
+<FirstName>Yuri</FirstName>
+<SecondName>Bizzoni</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Büchler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1191">
+<title>A Graph Degeneracy-based Approach to Keyword Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Antoine</FirstName>
+<SecondName>Tixier</SecondName>
+</Author>
+<Author>
+<FirstName>Fragkiskos</FirstName>
+<SecondName>Malliaros</SecondName>
+</Author>
+<Author>
+<FirstName>Michalis</FirstName>
+<SecondName>Vazirgiannis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1192">
+<title>
+      Predicting the Relative Difficulty of Single Sentences With and Without
+      Surrounding Context
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Elliot</FirstName>
+<SecondName>Schumacher</SecondName>
+</Author>
+<Author>
+<FirstName>Maxine</FirstName>
+<SecondName>Eskenazi</SecondName>
+</Author>
+<Author>
+<FirstName>Gwen</FirstName>
+<SecondName>Frishkoff</SecondName>
+</Author>
+<Author>
+<FirstName>Kevyn</FirstName>
+<SecondName>Collins-Thompson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1193">
+<title>A Neural Approach to Automated Essay Scoring</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kaveh</FirstName>
+<SecondName>Taghipour</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1194">
+<title>Non-uniform Language Detection in Technical Writing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Weibo</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Abidalrahman</FirstName>
+<SecondName>Moh'd</SecondName>
+</Author>
+<Author>
+<FirstName>Aminul</FirstName>
+<SecondName>Islam</SecondName>
+</Author>
+<Author>
+<FirstName>Axel</FirstName>
+<SecondName>Soto</SecondName>
+</Author>
+<Author>
+<FirstName>Evangelos</FirstName>
+<SecondName>Milios</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1195">
+<title>
+      Adapting Grammatical Error Correction Based on the Native Language of
+      Writers with Neural Network Joint Models
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Shamil</FirstName>
+<SecondName>Chollampatt</SecondName>
+</Author>
+<Author>
+<FirstName>Duc</FirstName>
+<SecondName>Tam</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1196">
+<title>Orthographic Syllable as basic unit for SMT between Related Languages</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Kunchukuttan</SecondName>
+</Author>
+<Author>
+<FirstName>Pushpak</FirstName>
+<SecondName>Bhattacharyya</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1197">
+<title>
+      Neural Generation of Regular Expressions from Natural Language with
+      Minimal Domain Knowledge
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Nicholas</FirstName>
+<SecondName>Locascio</SecondName>
+</Author>
+<Author>
+<FirstName>Karthik</FirstName>
+<SecondName>Narasimhan</SecondName>
+</Author>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>De</SecondName>
+</Author>
+<Author>
+<FirstName>Nate</FirstName>
+<SecondName>Kushman</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1198">
+<title>Supervised Keyphrase Extraction as Positive Unlabeled Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lucas</FirstName>
+<SecondName>Sterckx</SecondName>
+</Author>
+<Author>
+<FirstName>Cornelia</FirstName>
+<SecondName>Caragea</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Demeester</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Develder</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1199">
+<title>Learning to Answer Questions from Wikipedia Infoboxes</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Alvaro</FirstName>
+<SecondName>Morales</SecondName>
+</Author>
+<Author>
+<FirstName>Varot</FirstName>
+<SecondName>Premtoon</SecondName>
+</Author>
+<Author>
+<FirstName>Cordelia</FirstName>
+<SecondName>Avery</SecondName>
+</Author>
+<Author>
+<FirstName>Sue</FirstName>
+<SecondName>Felshin</SecondName>
+</Author>
+<Author>
+<FirstName>Boris</FirstName>
+<SecondName>Katz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1200">
+<title>Timeline extraction using distant supervision and joint inference</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Savelie</FirstName>
+<SecondName>Cornegruta</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Vlachos</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1201">
+<title>Combining Supervised and Unsupervised Enembles for Knowledge Base Population</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Nazneen</FirstName>
+<SecondName>Fatema</SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>Mooney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1202">
+<title>Character Sequence Models for Colorful Words</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kazuya</FirstName>
+<SecondName>Kawakami</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+<Author>
+<FirstName>Bryan</FirstName>
+<SecondName>Routledge</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1203">
+<title>Analyzing the Behavior of Visual Question Answering Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Analyzing</FirstName>
+<SecondName>the</SecondName>
+</Author>
+<Author>
+<FirstName>Aishwarya</FirstName>
+<SecondName>Agrawal</SecondName>
+</Author>
+<Author>
+<FirstName>Dhruv</FirstName>
+<SecondName>Batra</SecondName>
+</Author>
+<Author>
+<FirstName>Devi</FirstName>
+<SecondName>Parikh</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1204">
+<title>
+      Improving LSTM-based Video Description with Linguistic Knowledge Mined
+      from Text
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Subhashini</FirstName>
+<SecondName>Venugopalan</SecondName>
+</Author>
+<Author>
+<FirstName>Lisa</FirstName>
+<SecondName>Anne</SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>Mooney</SecondName>
+</Author>
+<Author>
+<FirstName>Kate</FirstName>
+<SecondName>Saenko</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1205">
+<title>Representing Verbs with Rich Contexts: an Evaluation on Verb Similarity</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Emmanuele</FirstName>
+<SecondName>Chersoni</SecondName>
+</Author>
+<Author>
+<FirstName>Enrico</FirstName>
+<SecondName>Santus</SecondName>
+</Author>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Lenci</SecondName>
+</Author>
+<Author>
+<FirstName>Philippe</FirstName>
+<SecondName>Blache</SecondName>
+</Author>
+<Author>
+<FirstName>Chu-Ren</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1206">
+<title>
+      Speed-Accuracy Tradeoffs in Tagging with Variable-Order CRFs and
+      Structured Sparsity
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tim</FirstName>
+<SecondName>Vieira</SecondName>
+</Author>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Cotterell</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1207">
+<title>Learning Robust Representations of Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yitong</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1208">
+<title>
+      Modified Dirichlet Distribution: Allowing Negative Parameters to Induce
+      Stronger Sparsity
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kewei</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1209">
+<title>Gated Word-Character Recurrent Language Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yasumasa</FirstName>
+<SecondName>Miyamoto</SecondName>
+</Author>
+<Author>
+<FirstName>Kyunghyun</FirstName>
+<SecondName>Cho</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1210">
+<title>Unsupervised Word Alignment by Agreement Under ITG Constraint</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hidetaka</FirstName>
+<SecondName>Kamigaito</SecondName>
+</Author>
+<Author>
+<FirstName>Akihiro</FirstName>
+<SecondName>Tamura</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroya</FirstName>
+<SecondName>Takamura</SecondName>
+</Author>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Okumura</SecondName>
+</Author>
+<Author>
+<FirstName>Eiichiro</FirstName>
+<SecondName>Sumita</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1211">
+<title>Training with Exploration Improves a Greedy Stack LSTM Parser</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Miguel</FirstName>
+<SecondName>Ballesteros</SecondName>
+</Author>
+<Author>
+<FirstName>Yoav</FirstName>
+<SecondName>Goldberg</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1212">
+<title>Capturing Argument Relationship for Chinese Semantic Role Labeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Sha</SecondName>
+</Author>
+<Author>
+<FirstName>Sujian</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Baobao</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhifang</FirstName>
+<SecondName>Sui</SecondName>
+</Author>
+<Author>
+<FirstName>Tingsong</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1213">
+<title>BrainBench: A Brain-Image Test Suite for Distributional Semantic Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Haoyan</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Murphy</SecondName>
+</Author>
+<Author>
+<FirstName>Alona</FirstName>
+<SecondName>Fyshe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1214">
+<title>Evaluating Induced CCG Parsers on Grounded Semantic Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yonatan</FirstName>
+<SecondName>Bisk</SecondName>
+</Author>
+<Author>
+<FirstName>Siva</FirstName>
+<SecondName>Reddy</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Blitzer</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1215">
+<title>Vector-space models for PPDB paraphrase ranking in context</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marianna</FirstName>
+<SecondName>Apidianaki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1216">
+<title>Interpreting Neural Networks to Improve Politeness Comprehension</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Interpreting</FirstName>
+<SecondName>Neural</SecondName>
+</Author>
+<Author>
+<FirstName>Malika</FirstName>
+<SecondName>Aubakirova</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1217">
+<title>Does �??well-being�?? translate on Twitter?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Laura</FirstName>
+<SecondName>Smith</SecondName>
+</Author>
+<Author>
+<FirstName>Salvatore</FirstName>
+<SecondName>Giorgi</SecondName>
+</Author>
+<Author>
+<FirstName>Rishi</FirstName>
+<SecondName>Solanki</SecondName>
+</Author>
+<Author>
+<FirstName>Johannes</FirstName>
+<SecondName>Eichstaedt</SecondName>
+</Author>
+<Author>
+<FirstName>H.</FirstName>
+<SecondName>Andrew</SecondName>
+</Author>
+<Author>
+<FirstName>Muhammad</FirstName>
+<SecondName>Abdul-Mageed</SecondName>
+</Author>
+<Author>
+<FirstName>Anneke</FirstName>
+<SecondName>Buffone</SecondName>
+</Author>
+<Author>
+<FirstName>Lyle</FirstName>
+<SecondName>Ungar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1218">
+<title>Beyond Canonical Texts: A Computational Analysis of Fanfiction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Smitha</FirstName>
+<SecondName>Milli</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Bamman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1219">
+<title>
+      Using Syntactic and Semantic Context to Explore Psychodemographic
+      Differences in Self-reference
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Masoud</FirstName>
+<SecondName>Rouhizadeh</SecondName>
+</Author>
+<Author>
+<FirstName>Lyle</FirstName>
+<SecondName>Ungar</SecondName>
+</Author>
+<Author>
+<FirstName>Anneke</FirstName>
+<SecondName>Buffone</SecondName>
+</Author>
+<Author>
+<FirstName>H.</FirstName>
+<SecondName>Andrew</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1220">
+<title>Learning to Identify Metaphors from a Corpus of Proverbs</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Gözde</FirstName>
+<SecondName>�?zbal</SecondName>
+</Author>
+<Author>
+<FirstName>Carlo</FirstName>
+<SecondName>Strapparava</SecondName>
+</Author>
+<Author>
+<FirstName>Serra</FirstName>
+<SecondName>Sinem</SecondName>
+</Author>
+<Author>
+<FirstName>Daniele</FirstName>
+<SecondName>Pighin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1221">
+<title>An Embedding Model for Predicting Roll-Call Votes</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Kraft</SecondName>
+</Author>
+<Author>
+<FirstName>Hirsh</FirstName>
+<SecondName>Jain</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1222">
+<title>Natural Language Model Re-usability for Scaling to Different Domains</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Young-Bum</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Alexandre</FirstName>
+<SecondName>Rochette</SecondName>
+</Author>
+<Author>
+<FirstName>Ruhi</FirstName>
+<SecondName>Sarikaya</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1223">
+<title>
+      Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot
+      Filling
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Gakuto</FirstName>
+<SecondName>Kurata</SecondName>
+</Author>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Xiang</SecondName>
+</Author>
+<Author>
+<FirstName>Bowen</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Mo</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1224">
+<title>AMR-to-text generation as a Traveling Salesman Problem</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Linfeng</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaochang</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiguo</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1225">
+<title>
+      Learning to Capitalize with Character-Level Recurrent Neural Networks: An
+      Empirical Study
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>Hendy</SecondName>
+</Author>
+<Author>
+<FirstName>Hai</FirstName>
+<SecondName>Leong</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1226">
+<title>The Effects of the Content of FOMC Communications on US Treasury Rates</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Rohlfs</SecondName>
+</Author>
+<Author>
+<FirstName>Sunandan</FirstName>
+<SecondName>Chakraborty</SecondName>
+</Author>
+<Author>
+<FirstName>Lakshminarayanan</FirstName>
+<SecondName>Subramanian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1227">
+<title>Learning to refine text based recommendations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Learning</FirstName>
+<SecondName>to</SecondName>
+</Author>
+<Author>
+<FirstName>Youyang</FirstName>
+<SecondName>Gu</SecondName>
+</Author>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Lei</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>Tommi</FirstName>
+<SecondName>Jaakkola</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1228">
+<title>
+      There's No Comparison: Reference-less Evaluation Metrics in Grammatical
+      Error Correction
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Courtney</FirstName>
+<SecondName>Napoles</SecondName>
+</Author>
+<Author>
+<FirstName>Keisuke</FirstName>
+<SecondName>Sakaguchi</SecondName>
+</Author>
+<Author>
+<FirstName>Joel</FirstName>
+<SecondName>Tetreault</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1229">
+<title>
+      Cultural Shift or Linguistic Drift? Comparing Two Computational Measures
+      of Semantic Change
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Jure</FirstName>
+<SecondName>Leskovec</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1230">
+<title>
+      How NOT To Evaluate Your Dialogue System: An Empirical Study of
+      Unsupervised Evaluation Metrics for Dialogue Response Generation
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Chia-Wei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Lowe</SecondName>
+</Author>
+<Author>
+<FirstName>Iulian</FirstName>
+<SecondName>Serban</SecondName>
+</Author>
+<Author>
+<FirstName>Mike</FirstName>
+<SecondName>Noseworthy</SecondName>
+</Author>
+<Author>
+<FirstName>Laurent</FirstName>
+<SecondName>Charlin</SecondName>
+</Author>
+<Author>
+<FirstName>Joelle</FirstName>
+<SecondName>Pineau</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1231">
+<title>Addressee and Response Selection for Multi-Party Conversation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hiroki</FirstName>
+<SecondName>Ouchi</SecondName>
+</Author>
+<Author>
+<FirstName>Yuta</FirstName>
+<SecondName>Tsuboi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1232">
+<title>Nonparametric Bayesian Models for Spoken Language Understanding</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kei</FirstName>
+<SecondName>Wakabayashi</SecondName>
+</Author>
+<Author>
+<FirstName>Johane</FirstName>
+<SecondName>Takeuchi</SecondName>
+</Author>
+<Author>
+<FirstName>Kotaro</FirstName>
+<SecondName>Funakoshi</SecondName>
+</Author>
+<Author>
+<FirstName>Mikio</FirstName>
+<SecondName>Nakano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1233">
+<title>Conditional Generation and Snapshot Learning in Neural Dialogue Systems</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tsung-Hsien</FirstName>
+<SecondName>Wen</SecondName>
+</Author>
+<Author>
+<FirstName>Milica</FirstName>
+<SecondName>Gasic</SecondName>
+</Author>
+<Author>
+<FirstName>Nikola</FirstName>
+<SecondName>Mrkši�?</SecondName>
+</Author>
+<Author>
+<FirstName>Lina</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Pei-Hao</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Ultes</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Vandyke</SecondName>
+</Author>
+<Author>
+<FirstName>Steve</FirstName>
+<SecondName>Young</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1234">
+<title>
+      Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in
+      Distributional Vectors for Lexical Entailment
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Roller</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Erk</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1235">
+<title>SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>SimVerb-3500:</FirstName>
+<SecondName>A</SecondName>
+</Author>
+<Author>
+<FirstName>Daniela</FirstName>
+<SecondName>Gerz</SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Vuli�?</SecondName>
+</Author>
+<Author>
+<FirstName>Felix</FirstName>
+<SecondName>Hill</SecondName>
+</Author>
+<Author>
+<FirstName>Roi</FirstName>
+<SecondName>Reichart</SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Korhonen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1236">
+<title>POLY: Mining Relational Paraphrases from Multilingual Sentences</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Grycner</SecondName>
+</Author>
+<Author>
+<FirstName>Gerhard</FirstName>
+<SecondName>Weikum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1237">
+<title>Exploiting Sentence Similarities for Better Alignments</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Vivek</FirstName>
+<SecondName>Srikumar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1238">
+<title>Bi-directional Attention with Agreement for Dependency Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Fang</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1239">
+<title>Anchoring and Agreement in Syntactic Annotations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yevgeni</FirstName>
+<SecondName>Berzak</SecondName>
+</Author>
+<Author>
+<FirstName>Yan</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Andrei</FirstName>
+<SecondName>Barbu</SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Korhonen</SecondName>
+</Author>
+<Author>
+<FirstName>Boris</FirstName>
+<SecondName>Katz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1240">
+<title>Tense Manages to Predict Implicative Behavior in Verbs</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tense</FirstName>
+<SecondName>Manages</SecondName>
+</Author>
+<Author>
+<FirstName>Ellie</FirstName>
+<SecondName>Pavlick</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Callison-Burch</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1241">
+<title>Who did What: A Large-Scale Person-Centered Cloze Dataset</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Who</FirstName>
+<SecondName>did</SecondName>
+</Author>
+<Author>
+<FirstName>Takeshi</FirstName>
+<SecondName>Onishi</SecondName>
+</Author>
+<Author>
+<FirstName>Hai</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Gimpel</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>McAllester</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1242">
+<title>
+      Building compositional semantics and higher-order inference system for a
+      wide-coverage Japanese CCG parser
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Koji</FirstName>
+<SecondName>Mineshima</SecondName>
+</Author>
+<Author>
+<FirstName>Ribeka</FirstName>
+<SecondName>Tanaka</SecondName>
+</Author>
+<Author>
+<FirstName>Pascual</FirstName>
+<SecondName>Martínez-Gómez</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Bekki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1243">
+<title>Learning to Generate Compositional Color Descriptions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Will</FirstName>
+<SecondName>Monroe</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Potts</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1244">
+<title>A Decomposable Attention Model for Natural Language Inference</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ankur</FirstName>
+<SecondName>Parikh</SecondName>
+</Author>
+<Author>
+<FirstName>Oscar</FirstName>
+<SecondName>Täckström</SecondName>
+</Author>
+<Author>
+<FirstName>Dipanjan</FirstName>
+<SecondName>Das</SecondName>
+</Author>
+<Author>
+<FirstName>Jakob</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1245">
+<title>Deep Reinforcement Learning for Mention-Ranking Coreference Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1246">
+<title>
+      A Stacking Gated Neural Architecture for Implicit Discourse Relation
+      Classification
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Lianhui</FirstName>
+<SecondName>Qin</SecondName>
+</Author>
+<Author>
+<FirstName>Zhisong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Hai</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1247">
+<title>
+      Insertion Position Selection Model for Flexible Non-Terminals in
+      Dependency Tree-to-Tree Machine Translation
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Toshiaki</FirstName>
+<SecondName>Nakazawa</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Richardson</SecondName>
+</Author>
+<Author>
+<FirstName>Sadao</FirstName>
+<SecondName>Kurohashi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1248">
+<title>Why Neural Translations are the Right Length</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xing</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+<Author>
+<FirstName>Deniz</FirstName>
+<SecondName>Yuret</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1249">
+<title>Supervised Attentions for Neural Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Haitao</FirstName>
+<SecondName>Mi</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiguo</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Abe</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1250">
+<title>
+      Learning principled bilingual mappings of word embeddings while preserving
+      monolingual invariance
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Mikel</FirstName>
+<SecondName>Artetxe</SecondName>
+</Author>
+<Author>
+<FirstName>Gorka</FirstName>
+<SecondName>Labaka</SecondName>
+</Author>
+<Author>
+<FirstName>Eneko</FirstName>
+<SecondName>Agirre</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1251">
+<title>
+      Measuring the behavioral impact of machine translation quality
+      improvements with A/B testing
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName>Russell</SecondName>
+</Author>
+<Author>
+<FirstName>Duncan</FirstName>
+<SecondName>Gillespie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1252">
+<title>Creating a Large Benchmark for Open Information Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>Stanovsky</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1253">
+<title>
+      Bilingually-constrained Synthetic Data for Implicit Discourse Relation
+      Recognition
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Changxing</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>xiaodong</FirstName>
+<SecondName>shi</SecondName>
+</Author>
+<Author>
+<FirstName>Yidong</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Yanzhou</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>jinsong</FirstName>
+<SecondName>su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1254">
+<title>Transition-Based Dependency Parsing with Heuristic Backtracking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Buckman</SecondName>
+</Author>
+<Author>
+<FirstName>Miguel</FirstName>
+<SecondName>Ballesteros</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1255">
+<title>Word Ordering Without Syntax</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Allen</FirstName>
+<SecondName>Schmaltz</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>Shieber</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1256">
+<title>Morphological Segmentation Inside-Out</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Cotterell</SecondName>
+</Author>
+<Author>
+<FirstName>Arun</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Schütze</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1257">
+<title>Parsing as Language Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Do</FirstName>
+<SecondName>Kook</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1258">
+<title>Human-in-the-Loop Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Luheng</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Julian</FirstName>
+<SecondName>Michael</SecondName>
+</Author>
+<Author>
+<FirstName>Mike</FirstName>
+<SecondName>Lewis</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1259">
+<title>Unsupervised Timeline Generation for Wikipedia History Articles</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sandro</FirstName>
+<SecondName>Bauer</SecondName>
+</Author>
+<Author>
+<FirstName>Simone</FirstName>
+<SecondName>Teufel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1260">
+<title>Encoding Temporal Information for Time-Aware Link Prediction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tingsong</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Tianyu</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Ge</SecondName>
+</Author>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Sha</SecondName>
+</Author>
+<Author>
+<FirstName>Sujian</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Baobao</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhifang</FirstName>
+<SecondName>Sui</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1261">
+<title>
+      Improving Information Extraction by Acquiring External Evidence with
+      Reinforcement Learning
+    </title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Karthik</FirstName>
+<SecondName>Narasimhan</SecondName>
+</Author>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Yala</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1262">
+<title>Global Neural CCG Parsing with Optimality Guarantees</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kenton</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Mike</FirstName>
+<SecondName>Lewis</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1263">
+<title>Learning a Lexicon and Translation Model from Phoneme Lattices</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Oliver</FirstName>
+<SecondName>Adams</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Bird</SecondName>
+</Author>
+<Author>
+<FirstName>Quoc</FirstName>
+<SecondName>Truong</SecondName>
+</Author>
+<Author>
+<FirstName>Satoshi</FirstName>
+<SecondName>Nakamura</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>
+
+
+
+
+<Paper id ="D16-1264">
+<title>SQuAD: 100,000+ Questions for Machine Comprehension of Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pranav</FirstName>
+<SecondName>Rajpurkar</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Konstantin</FirstName>
+<SecondName>Lopyrev</SecondName>
+</Author>
+<Author>
+<FirstName>Percy</FirstName>
+<SecondName>Liang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2016</Year>
+</Paper>

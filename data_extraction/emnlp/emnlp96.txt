@@ -1,0 +1,260 @@
+<Paper id ="W96-0201">
+<title>A Geometric Approach to Mapping Bitext Correspondence</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Dan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0202">
+<title>Parsing Chinese With an Almost-Context-Free Grammar</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xuanyin</FirstName>
+<SecondName>Xia</SecondName>
+</Author>
+<Author>
+<FirstName>Dekai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0203">
+<title>Unsupervised Learning of Syntactic Knowledge: Methods and Measures</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>R.</FirstName>
+<SecondName>Basili</SecondName>
+</Author>
+<Author>
+<FirstName>A.</FirstName>
+<SecondName>Marziali</SecondName>
+</Author>
+<Author>
+<FirstName>M.T.</FirstName>
+<SecondName>Pazienza</SecondName>
+</Author>
+<Author>
+<FirstName>P.</FirstName>
+<SecondName>Velardi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0204">
+<title>Modeling Conversational Speech for Speech Recognition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marie</FirstName>
+<SecondName>Meteer</SecondName>
+</Author>
+<Author>
+<FirstName>Rukmini</FirstName>
+<SecondName>Iyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0205">
+<title>Automatic Extraction of New Words from Japanese Texts using Generalized Forward-Backward Search</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0206">
+<title>Better Language Models with Model Merging</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Thorsten</FirstName>
+<SecondName>Brants</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0207">
+<title>Combining Hand-crafted Rules and Unsupervised Learning in Constraint-based Morphological Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kemal</FirstName>
+<SecondName>Oflazer</SecondName>
+</Author>
+<Author>
+<FirstName>Gokhan</FirstName>
+<SecondName>Tur</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0208">
+<title>Comparative Experiments on Disambiguating Word Senses: An Illustration of the Role of Bias in Machine Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0209">
+<title>Apportioning Development Effort in a Probabilistic LR Parsing System Through Evaluation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Briscoe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0210">
+<title>The Measure of a Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Bruce</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Pedersen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0211">
+<title>Automating Feature Set Selection for Case-Based Learning of Linguistic Knowledge</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0212">
+<title>Figures of Merit for Best-First Probabilistic Chart Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0213">
+<title>A Maximum Entropy Model for Part-Of-Speech Tagging</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adwait</FirstName>
+<SecondName>Ratnaparkhi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>
+
+
+
+
+<Paper id ="W96-0214">
+<title>Efficient Algorithms for Parsing the DOP Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1996</Year>
+</Paper>

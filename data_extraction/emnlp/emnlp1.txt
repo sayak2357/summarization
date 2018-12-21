@@ -1,0 +1,452 @@
+﻿<Paper id ="W01-0501">
+<title>Limitations of Co-Training for Natural Language Learning from Large Datasets</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Pierce</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0502">
+<title>A Sequential Model for Multi-Class Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yair</FirstName>
+<SecondName>Even-Zohar</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0503">
+<title>Learning Within-Sentence Semantic Coherence</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Elena</FirstName>
+<SecondName>Eneva</SecondName>
+</Author>
+<Author>
+<FirstName>Rose</FirstName>
+<SecondName>Hoberman</SecondName>
+</Author>
+<Author>
+<FirstName>Lucian</FirstName>
+<SecondName>Lita</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0504">
+<title>Knowledge Sources for Word-Level Translation Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Philipp</FirstName>
+<SecondName>Koehn</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0505">
+<title>Improving Lexical Mapping Model of English-Korean Bitext Using Structural Features</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Seonho</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Juntae</FirstName>
+<SecondName>Yoon</SecondName>
+</Author>
+<Author>
+<FirstName>Mansuk</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0506">
+<title>Stacking Classifiers for Anti-Spam Filtering of E-Mail</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Georgios</FirstName>
+<SecondName>Sakkis</SecondName>
+</Author>
+<Author>
+<FirstName>Ion</FirstName>
+<SecondName>Androutsopoulos</SecondName>
+</Author>
+<Author>
+<FirstName>Georgios</FirstName>
+<SecondName>Paliouras</SecondName>
+</Author>
+<Author>
+<FirstName>Vangelis</FirstName>
+<SecondName>Karkaletsis</SecondName>
+</Author>
+<Author>
+<FirstName>Constantine</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Panagiotis</FirstName>
+<SecondName>Stamatopoulos</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0507">
+<title>Feature Space Restructuring for SVMs with Application to Text Categorization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hiroya</FirstName>
+<SecondName>Takamura</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0508">
+<title>Using Bins to Empirically Estimate Term Weights for Text Categorization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>Sable</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0509">
+<title>Question Answering Using a Large Text Database: A Machine Learning Approach</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Lai</SecondName>
+</Author>
+<Author>
+<FirstName>Yiyuan</FirstName>
+<SecondName>Xia</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0510">
+<title>Information Extraction Using the Structured Language Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ciprian</FirstName>
+<SecondName>Chelba</SecondName>
+</Author>
+<Author>
+<FirstName>Milind</FirstName>
+<SecondName>Mahajan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0511">
+<title>Classifying the Semantic Relations in Noun Compounds via a Domain-Specific Lexical Hierarchy</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Rosario</SecondName>
+</Author>
+<Author>
+<FirstName>Marti</FirstName>
+<SecondName>Hearst</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0512">
+<title>The Unknown Word Problem: a Morphological Analysis of Japanese Using Maximum Entropy Aided by a Dictionary</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kiyotaka</FirstName>
+<SecondName>Uchimoto</SecondName>
+</Author>
+<Author>
+<FirstName>Satoshi</FirstName>
+<SecondName>Sekine</SecondName>
+</Author>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>Isahara</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0513">
+<title>Is Knowledge-Free Induction of Multiword Unit Dictionary Headwords a Solved Problem?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Schone</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0514">
+<title>Latent Semantic Analysis for Text Segmentation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Freddy</FirstName>
+<SecondName>Y.</SecondName>
+</Author>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Wiemer-Hastings</SecondName>
+</Author>
+<Author>
+<FirstName>Johanna</FirstName>
+<SecondName>Moore</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0515">
+<title>Detecting Short Passages of Similar Text in Large Document Collections</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Caroline</FirstName>
+<SecondName>Lyon</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Malcolm</SecondName>
+</Author>
+<Author>
+<FirstName>Bob</FirstName>
+<SecondName>Dickerson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0516">
+<title>Hybrid Text Mining for Finding Abbreviations and their Definitions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Youngja</FirstName>
+<SecondName>Park</SecondName>
+</Author>
+<Author>
+<FirstName>Roy</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0517">
+<title>Automatic Corpus-based Tone Prediction using K-ToBI Representation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jin-Seok</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Byeongchang</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Gary</FirstName>
+<SecondName>Geunbae</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0518">
+<title>Probabilistic Context-Free Grammars for Syllabification and Grapheme-to-Phoneme Conversion</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Karin</FirstName>
+<SecondName>Müller</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0519">
+<title>Comparing Data-Driven Learning Algorithms for PoS Tagging of Swedish</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Beáta</FirstName>
+<SecondName>Megyesi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0520">
+<title>Impact of Quality and Quantity of Corpora on Stochastic Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Srinivas</FirstName>
+<SecondName>Bangalore</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="W01-0521">
+<title>Corpus Variation and Parser Performance</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>

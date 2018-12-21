@@ -1,0 +1,1228 @@
+﻿<Paper id ="W04-3201">
+<title>Max-Margin Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Mike</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Daphne</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3202">
+<title>Active Learning and the Total Cost of Annotation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Miles</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3203">
+<title>Induction of Greedy Controllers for Deterministic Treebank Parsers</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tom</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3204">
+<title>Unsupervised WSD based on Automatically Retrieved Examples: The Importance of Bias</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Eneko</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3205">
+<title>VerbOcean: Mining the Web for Fine-Grained Semantic Verb Relations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3206">
+<title>Scaling Web-based Acquisition of Entailment Relations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Idan</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Hristo</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Bonaventura</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3207">
+<title>Bilingual Parsing with Factored Estimation: Using English to Parse Korean</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3208">
+<title>Mining Very-Non-Parallel Corpora: Parallel Sentence and Lexicon Extraction via Bootstrapping and E</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pascale</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Percy</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3209">
+<title>Comparing and Combining Generative and Posterior Probability Models: Some Advances in Sentence Boundary Detection in Speech</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Mary</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3210">
+<title>Automatic Paragraph Identification: A Study across Languages and Domains</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Caroline</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3211">
+<title>Mixing Weak Learners in Semantic Parsin</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rodney</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Sameer</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3212">
+<title>Calibrating Features for Semantic Role Labeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Nianwen</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3213">
+<title>Unsupervised Semantic Role Labellin</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Suzanne</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3214">
+<title>The Influence of Argument Structure on Semantic Role Assignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Gemma</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3215">
+<title>Object-Extraction and Question-Parsing using CCG</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3216">
+<title>A Phrase-Based HMM Approach to Document/Abstract Alignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hal</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3217">
+<title>Automatic Analysis of Plot for Story Rewriting</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Harry</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Johanna</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Judy</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3218">
+<title>Mining Spoken Dialogue Corpora for System Evaluation and Modelin</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Frederic</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Giuseppe</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Dilek</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3219">
+<title>Monolingual Machine Translation for Paraphrase Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3220">
+<title>Verb Sense and Subcategorization: Using Joint Inference to Improve Performance on Complementary Task</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Galen</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Trond</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3221">
+<title>Attribute-Based and Value-Based Clustering: An Evaluation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Abdulrahman</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Massimo</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3222">
+<title>The Leaf Path Projection View of Parse Trees: Exploring String Kernels for HPSG Parse Selection</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Penka</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3223">
+<title>Incremental Feature Selection and l1 Regularization for Relaxed Maximum-Entropy Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3224">
+<title>A Distributional Analysis of a Lexicalized Statistical Parsing Mode</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3225">
+<title>Adaptive Language and Translation Models for Interactive Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Laurent</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Guy</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Philippe</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>George</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3226">
+<title>Improving Word Alignment Models using Structured Monolingual Corpor</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3227">
+<title>Phrase Pair Rescoring with Term Weighting for Statistical Machine Translatio</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Matthias</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Alex</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3228">
+<title>Dependencies vs. Constituents for Tree-Based Alignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3229">
+<title>A Resource-light Approach to Russian Morphology: Tagging Russian using Czech resources</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jiri</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3230">
+<title>Applying Conditional Random Fields to Japanese Morphological Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Taku</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Kaoru</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3231">
+<title>A Hybrid Model for Morpho-Syntactic Annotation of German with a Large Tagset</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Erhard</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3232">
+<title>Identifying Broken Plurals in Unvowelised Arabic Tex</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Abduelbaset</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Massimo</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Anne</FirstName>
+<SecondName>De</SecondName>
+</Author>
+<Author>
+<FirstName>Jeff</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3233">
+<title>NP Bracketing by Maximum Entropy Tagging and SVM Reranking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hal</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3234">
+<title>Trained Named Entity Recognition using Distributional Clusters</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dayne</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3235">
+<title>Error Measures and Bayes Decision Rules Revisited with Applications to POS Tagging</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Maja</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3236">
+<title>Chinese Part-of-Speech Tagging: One-at-a-Time or All-at-Once? Word-Based or Character-Based?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+<Author>
+<FirstName>Jin</FirstName>
+<SecondName>Kiat</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3237">
+<title>Adaptation of Maximum Entropy Capitalizer: Little Data Can Help a Lo</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ciprian</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Alex</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3238">
+<title>Spelling Correction as an Iterative Process that Exploits the Collective Knowledge of Web Users</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Silviu</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3239">
+<title>A Boosting Algorithm for Classification of Semi-Structured Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Taku</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3240">
+<title>Learning to Classify Email into ``Speech Acts''</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Vitor</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Tom</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3241">
+<title>The Entropy Rate Principle as a Predictor of Processing Effort: An Evaluation against Eye-tracking Data</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3242">
+<title>Random Forests in Language Modelin</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Frederick</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3243">
+<title>On Log-Likelihood-Ratios and the Significance of Rare Events</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3244">
+<title>Learning Nonstructural Distance Metric by Minimum Cluster Distortion</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daichi</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Genichiro</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3245">
+<title>From Machine Translation to Computer Assisted Translation using Finite-State Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jorge</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Elsa</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Antonio</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Jorge</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Enrique</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Francisco</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Juan</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Sergio</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3246">
+<title>Learning Hebrew Roots: Machine Learning with Linguistic Constraints</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ezra</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Shuly</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3247">
+<title>LexPageRank: Prestige in Multi-Document Text Summarization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Günes</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Dragomir</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3248">
+<title>A New Approach for English-Chinese Named Entity Alignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Donghui</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Yajuan</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3249">
+<title>Unsupervised Domain Relevance Estimation for Word Sense Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Alfio</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Bernardo</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Carlo</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3250">
+<title>Statistical Significance Tests for Machine Translation Evaluation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Philipp</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3251">
+<title>Instance-Based Question Answering: A Data-Driven Approach</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lucian</FirstName>
+<SecondName>Vlad</SecondName>
+</Author>
+<Author>
+<FirstName>Jaime</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3252">
+<title>TextRank: Bringing Order into Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rada</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3253">
+<title>Sentiment Analysis using Support Vector Machines with Diverse Information Sources</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tony</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Nigel</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3254">
+<title>Evaluating Information Content by Factoid Analysis: Human annotation and stability</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Simone</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Hans</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3255">
+<title>Efficient Decoding for Statistical Machine Translation with a Fully Expanded WFST Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hajime</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>
+
+
+
+
+<Paper id ="W04-3256">
+<title>Multi-Document Biography Summarization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Liang</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Miruna</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName></SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2004</Year>
+</Paper>

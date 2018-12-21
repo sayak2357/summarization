@@ -1,0 +1,580 @@
+﻿<Paper id ="W03-1001">
+<title>A Projection Extension Algorithm for Statistical Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Christoph</FirstName>
+<SecondName>Tillmann</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1002">
+<title>Statistical Machine Translation Using Coercive Two-Level Syntactic Transduction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Charles</FirstName>
+<SecondName>Schafer</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1003">
+<title>Cross-Lingual Lexical Triggers in Statistical Language Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Woosung</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Sanjeev</FirstName>
+<SecondName>Khudanpur</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1004">
+<title>Sentence Alignment for Monolingual Comparable Corpora</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>Noemie</FirstName>
+<SecondName>Elhadad</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1005">
+<title>Antecedent Recovery: Experiments with a Trace Tagger</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Péterr</FirstName>
+<SecondName>Dienes</SecondName>
+</Author>
+<Author>
+<FirstName>Amit</FirstName>
+<SecondName>Dubey</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1006">
+<title>Use of Deep Linguistic Features for the Recognition and Labeling of Semantic Arguments</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1007">
+<title>Maximum Entropy Models for FrameNet Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Fleischman</SecondName>
+</Author>
+<Author>
+<FirstName>Namhee</FirstName>
+<SecondName>Kwon</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1008">
+<title>Identifying Semantic Roles Using Combinatory Categorial Grammar</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1009">
+<title>Variation of Entropy and Parse Trees of Sentences as a Function of the Sentence Number</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dmitriy</FirstName>
+<SecondName>Genzel</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1010">
+<title>A Plethora of Methods for Learning English Countability</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+<Author>
+<FirstName>Francis</FirstName>
+<SecondName>Bond</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1011">
+<title>A General Framework for Distributional Similarity</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Julie</FirstName>
+<SecondName>Weeds</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Weir</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1012">
+<title>Using LTAG Based Features in Parse Reranking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Libin</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>Joshi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1013">
+<title>Log-Linear Models for Wide-Coverage CCG Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Curran</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1014">
+<title>Learning Extraction Patterns for Subjective Expressions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1015">
+<title>Bootstrapping Coreference Classifiers with Multiple Machine Learning Algorithms</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1016">
+<title>Statistical Acquisition of Content Selection Rules for Natural Language Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Pablo</FirstName>
+<SecondName>Ariel</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1017">
+<title>Towards Answering Opinion Questions: Separating Facts from Opinions and Identifying the Polarity of Opinion Sentences</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Vasileios</FirstName>
+<SecondName>Hatzivassiloglou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1018">
+<title>Evaluation and Extension of Maximum Entropy Models with Inequality Constraints</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jun'ichi</FirstName>
+<SecondName>Kazama</SecondName>
+</Author>
+<Author>
+<FirstName>Jun'ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1019">
+<title>Investigating Loss Functions and Optimization Methods for Discriminative Learning of Label Sequences</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yasemin</FirstName>
+<SecondName>Altun</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Hofmann</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1020">
+<title>A Fast Algorithm for Feature Selection in Conditional Maximum Entropy Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yaqian</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Fuliang</FirstName>
+<SecondName>Weng</SecondName>
+</Author>
+<Author>
+<FirstName>Lide</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Hauke</FirstName>
+<SecondName>Schmidt</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1021">
+<title>Training Connectionist Models for the Structured Language Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Ahmad</FirstName>
+<SecondName>Emami</SecondName>
+</Author>
+<Author>
+<FirstName>Frederick</FirstName>
+<SecondName>Jelinek</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1022">
+<title>Supersense Tagging of Unknown Nouns in WordNet</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Massimiliano</FirstName>
+<SecondName>Ciaramita</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1023">
+<title>Using the Web in Machine Learning for Other-Anaphora Resolution</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Natalia</FirstName>
+<SecondName>N.</SecondName>
+</Author>
+<Author>
+<FirstName>Katja</FirstName>
+<SecondName>Markert</SecondName>
+</Author>
+<Author>
+<FirstName>Malvina</FirstName>
+<SecondName>Nissim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1024">
+<title>Japanese Zero Pronoun Resolution based on Ranking Rules and Machine Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hideki</FirstName>
+<SecondName>Isozaki</SecondName>
+</Author>
+<Author>
+<FirstName>Tsutomu</FirstName>
+<SecondName>Hirao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1025">
+<title>A Maximum Entropy Chinese Character-Based Parser</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Xiaoqiang</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1026">
+<title>HowtogetaChineseName(Entity): Segmentation and Combination Issues</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hongyan</FirstName>
+<SecondName>Jing</SecondName>
+</Author>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Florian</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoqiang</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Tong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Abraham</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1027">
+<title>Virtual Examples for Text Classification with Support Vector Machines</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Sassano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="W03-1028">
+<title>Improved Automatic Keyword Extraction Given More Linguistic Knowledge</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Anette</FirstName>
+<SecondName>Hulth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>

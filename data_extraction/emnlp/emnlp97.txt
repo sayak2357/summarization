@@ -1,0 +1,444 @@
+<Paper id ="W97-0301">
+<title>A Linear Observed Time Statistical Parser Based on Maximum Entropy Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adwait</FirstName>
+<SecondName>Ratnaparkhi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0302">
+<title>Global Thresholding and Multiple-Pass Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0303">
+<title>An Efficient Distribution of Labor in a Two Stage Robust Interpretation Process</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Carolyn</FirstName>
+<SecondName>Penstein</SecondName>
+</Author>
+<Author>
+<FirstName>Alon</FirstName>
+<SecondName>Lavie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0304">
+<title>Text Segmentation Using Exponential Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Doug</FirstName>
+<SecondName>Beeferman</SecondName>
+</Author>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Berger</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Lafferty</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0305">
+<title>Detecting Subject Boundaries Within Text: A Language Independent Statistical Approach</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Korin</FirstName>
+<SecondName>Richmond</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Smith</SecondName>
+</Author>
+<Author>
+<FirstName>Einat</FirstName>
+<SecondName>Amitay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0306">
+<title>Mistake-Driven Learning in Text Categorization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+<Author>
+<FirstName>Yael</FirstName>
+<SecondName>Karov</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0307">
+<title>Tagging Grammatical Functions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Thorsten</FirstName>
+<SecondName>Brants</SecondName>
+</Author>
+<Author>
+<FirstName>Wojciech</FirstName>
+<SecondName>Skut</SecondName>
+</Author>
+<Author>
+<FirstName>Brigitte</FirstName>
+<SecondName>Krenn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0308">
+<title>On aligning trees</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jo</FirstName>
+<SecondName>Calder</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0309">
+<title>Aggregate and mixed-order Markov models for statistical language processing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lawrence</FirstName>
+<SecondName>Saul</SecondName>
+</Author>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Pereira</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0310">
+<title>Assigning Grammatical Relations with a Back-off Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Erika</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0311">
+<title>Automatic Discovery of Non-Compositional Compounds in Parallel Data</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Dan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0312">
+<title>Learning to Tag Multilingual Texts Through Observation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Chinatsu</FirstName>
+<SecondName>Aone</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0313">
+<title>A Corpus-Based Approach for Building Semantic Lexicons</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+<Author>
+<FirstName>Jessica</FirstName>
+<SecondName>Shepherd</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0314">
+<title>Inducing Terminology for Lexical Acquisition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Roberto</FirstName>
+<SecondName>Basili</SecondName>
+</Author>
+<Author>
+<FirstName>Gianluca</FirstName>
+<SecondName>De</SecondName>
+</Author>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Teresa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0315">
+<title>Name Searching and Information Retrieval</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>Thompson</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0316">
+<title>Lexicon Effects on Chinese Information Retrieval</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>K.L.</FirstName>
+<SecondName>Kwok</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0317">
+<title>Attaching Multiple Prepositional Phrases: Backed-off Estimation Generalized</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Paola</FirstName>
+<SecondName>Merlo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0318">
+<title>Learning Methods for Combining Linguistic Indicators to Classify Verbs</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>V.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0319">
+<title>Probabilistic Coreference in Information Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Kehler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0320">
+<title>An Empirical Approach to Temporal Reference Resolution</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+<Author>
+<FirstName>Tom</FirstName>
+<SecondName>O'Hara</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>McKeever</SecondName>
+</Author>
+<Author>
+<FirstName>Thorsten</FirstName>
+<SecondName>Ohrstrom-Sandgren</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0321">
+<title>Word Sense Disambiguation Based on Structured Semantic Space</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ji</FirstName>
+<SecondName>Donghong</SecondName>
+</Author>
+<Author>
+<FirstName>Huang</FirstName>
+<SecondName>Changning</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0322">
+<title>Distinguishing Word Senses in Untagged Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Pedersen</SecondName>
+</Author>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Bruce</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>
+
+
+
+
+<Paper id ="W97-0323">
+<title>Exemplar-Based Word Sense Disambiguation" Some Recent Improvements</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1997</Year>
+</Paper>

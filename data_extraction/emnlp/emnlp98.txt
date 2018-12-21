@@ -1,0 +1,252 @@
+<Paper id ="W98-1501">
+<title>Dynamic Coreference-Based Summarization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Breck</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1502">
+<title>Multilingual Robust Anaphora Resolution</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ruslan</FirstName>
+<SecondName>Mitkov</SecondName>
+</Author>
+<Author>
+<FirstName>Lamia</FirstName>
+<SecondName>Belguith</SecondName>
+</Author>
+<Author>
+<FirstName>Malgorzata</FirstName>
+<SecondName>Stys</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1503">
+<title>Aligning Clattses in Parallel Texts</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sotiris</FirstName>
+<SecondName>Boutsis</SecondName>
+</Author>
+<Author>
+<FirstName>Stelios</FirstName>
+<SecondName>Piperidis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1504">
+<title>Automatic Insertion of Accents in French Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michel</FirstName>
+<SecondName>Simard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1505">
+<title>Valence Induction with a Head-Lexicalized PCFG</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Glenn</FirstName>
+<SecondName>Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>Mats</FirstName>
+<SecondName>Rooth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1506">
+<title>Measures for Corpus Similarity and Homogeneity</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Kilgarriff</SecondName>
+</Author>
+<Author>
+<FirstName>Tony</FirstName>
+<SecondName>Rose</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1507">
+<title>Word-Sense Distinguishability and Inter-Coder Agreement</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Bruce</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1508">
+<title>Category Levels in Hierarchical Text Categorization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>D'Alessio</SecondName>
+</Author>
+<Author>
+<FirstName>Keitha</FirstName>
+<SecondName>Murray</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Schiaffino</SecondName>
+</Author>
+<Author>
+<FirstName>Aaron</FirstName>
+<SecondName>Kershenbaum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1509">
+<title>An Empirical Approach to Text Categorization Based on Term Weight Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Fumiyo</FirstName>
+<SecondName>Fukumoto</SecondName>
+</Author>
+<Author>
+<FirstName>Yoshimi</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1510">
+<title>An Empirical Evaluation on Statistical Parsing of Japanese Sentences Using Lexical Association Statistics</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Shirai</FirstName>
+<SecondName>Kiyoaki</SecondName>
+</Author>
+<Author>
+<FirstName>Inui</FirstName>
+<SecondName>Kentaro</SecondName>
+</Author>
+<Author>
+<FirstName>Tokunaga</FirstName>
+<SecondName>Takenobu</SecondName>
+</Author>
+<Author>
+<FirstName>Tanaka</FirstName>
+<SecondName>Hozumi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1511">
+<title>Japanese Dependency Structure Analysis based on Lexicalized Statistics</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Fujio</FirstName>
+<SecondName>Masakazu</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>
+
+
+
+
+<Paper id ="W98-1512">
+<title>A Comparison of Criteria for Maximum Entropy/ Minimum Divergence Feature Selection</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Berger</SecondName>
+</Author>
+<Author>
+<FirstName>Harry</FirstName>
+<SecondName>Printz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1998</Year>
+</Paper>

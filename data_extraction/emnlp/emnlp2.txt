@@ -1,0 +1,852 @@
+﻿<Paper id ="W02-1001">
+<title>Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1002">
+<title>Conditional Structure versus Conditional Estimation in NLP Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1003">
+<title>An Incremental Decision List Learner</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1004">
+<title>Modeling Consensus: Classifier Combination for Word Sense Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Florian</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1005">
+<title>Augmented Mixture Models for Lexical Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Silviu</FirstName>
+<SecondName>Cucerzan</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1006">
+<title>An Empirical Evaluation of Knowledge Sources and Learning Algorithms for Word Sense Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yoong</FirstName>
+<SecondName>Keok</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1007">
+<title>Parsing and Disfluency Placement</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Donald</FirstName>
+<SecondName>Engel</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1008">
+<title>Combining Sample Selection and Error-Driven Pruning for Machine Learning of Coreference Rules</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1009">
+<title>Transformational Priors Over Grammars</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1010">
+<title>Kernel Methods for Relation Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dmitry</FirstName>
+<SecondName>Zelenko</SecondName>
+</Author>
+<Author>
+<FirstName>Chinatsu</FirstName>
+<SecondName>Aone</SecondName>
+</Author>
+<Author>
+<FirstName>Anthony</FirstName>
+<SecondName>Richardella</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1011">
+<title>Thumbs up? Sentiment Classification using Machine Learning Techniques</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Pang</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Shivakumar</FirstName>
+<SecondName>Vaithyanathan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1012">
+<title>Extentions to HMM-based Statistical Word Alignment Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+<Author>
+<FirstName>H.</FirstName>
+<SecondName>Tolga</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Manning</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1013">
+<title>From Words to Corpora: Recognizing Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1014">
+<title>Fast LR parsing Using Rich (Tree Adjoining) Grammars</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1015">
+<title>Handling Noisy Training and Testing Data</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Don</FirstName>
+<SecondName>Blaheta</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1016">
+<title>Spectral Clustering for German Verbs</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Brew</SecondName>
+</Author>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Schulte</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1017">
+<title>Exploiting Strong Syntactic Heuristics and Co-Training to Learn Semantic Lexicons</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Phillips</SecondName>
+</Author>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1018">
+<title>A Phrase-Based,Joint Probability Model for Statistical Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Wong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1019">
+<title>Minimum Bayes-Risk Word Alignments of Bilingual Texts</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Shankar</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1020">
+<title>User-Friendly Text Prediction For Translators</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>Foster</SecondName>
+</Author>
+<Author>
+<FirstName>Philippe</FirstName>
+<SecondName>Langlais</SecondName>
+</Author>
+<Author>
+<FirstName>Guy</FirstName>
+<SecondName>Lapalme</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1021">
+<title>Generation of Word Graphs in Statistical Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Nicola</FirstName>
+<SecondName>Ueffing</SecondName>
+</Author>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>Josef</SecondName>
+</Author>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName>Ney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1022">
+<title>Bootstrapping Lexical Choice via Multiple-Sequence Alignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1023">
+<title>NLP Found Helpful (at least for one Text Categorization Task)</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Carl</FirstName>
+<SecondName>Sable</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>McKeown</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Church</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1024">
+<title>A Hybrid Approach to Natural Language Web Search</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Chu-Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Prager</SecondName>
+</Author>
+<Author>
+<FirstName>Yael</FirstName>
+<SecondName>Ravin</SecondName>
+</Author>
+<Author>
+<FirstName>Christian</FirstName>
+<SecondName>Cesar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1025">
+<title>A Method for Open-Vocabulary Speech-Driven Text Retrieval</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Atsushi</FirstName>
+<SecondName>Fujii</SecondName>
+</Author>
+<Author>
+<FirstName>Katunobu</FirstName>
+<SecondName>Itou</SecondName>
+</Author>
+<Author>
+<FirstName>Tetsuya</FirstName>
+<SecondName>Ishikawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1026">
+<title>Manipulating Large Corpora for Text Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Fumiyo</FirstName>
+<SecondName>Fukumoto</SecondName>
+</Author>
+<Author>
+<FirstName>Yoshimi</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1027">
+<title>Metonymy Resolution as a Classification Task</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Katja</FirstName>
+<SecondName>Markert</SecondName>
+</Author>
+<Author>
+<FirstName>Malvina</FirstName>
+<SecondName>Nissim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1028">
+<title>A Bootstrapping Method for Learning Semantic Lexicons using Extraction Pattern Contexts</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Thelen</SecondName>
+</Author>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1029">
+<title>Ensemble Methods for Automatic Thesaurus Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Curran</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1030">
+<title>Using the Web to Overcome Data Sparseness</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName>Keller</SecondName>
+</Author>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+<Author>
+<FirstName>Olga</FirstName>
+<SecondName>Ourioupina</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1031">
+<title>The SuperARV Language Model: Investigating the Effectiveness of Tightly Integrating Multiple Knowledge Sources</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Wen</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Mary</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1032">
+<title>Exploiting Headword Dependency and Predictive Clustering for Language Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Hisami</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Wen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1033">
+<title>An Analysis of the AskMSR Question-Answering System</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Brill</SecondName>
+</Author>
+<Author>
+<FirstName>Susan</FirstName>
+<SecondName>Dumais</SecondName>
+</Author>
+<Author>
+<FirstName>Michele</FirstName>
+<SecondName>Banko</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1034">
+<title>A Machine-Learning Approach to Introspection in a Question Answering System</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Krzysztof</FirstName>
+<SecondName>Czuba</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Prager</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Chu-Carroll</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1035">
+<title>Extracting Clauses for Spoken Language Understanding in Conversational Systems</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Narendra</FirstName>
+<SecondName>Gupta</SecondName>
+</Author>
+<Author>
+<FirstName>Srinivas</FirstName>
+<SecondName>Bangalore</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1036">
+<title>Combining Outputs of Multiple Japanese Named Entity Chunkers by Stacking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Takehito</FirstName>
+<SecondName>Utsuro</SecondName>
+</Author>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Sassano</SecondName>
+</Author>
+<Author>
+<FirstName>Kiyotaka</FirstName>
+<SecondName>Uchimoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1037">
+<title>Processing Comparable Corpora With Bilingual Suffix Trees</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dragos</FirstName>
+<SecondName>Stefan</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1038">
+<title>Bootstrapping Named Entity Recognition for Italian Broadcast News</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marcello</FirstName>
+<SecondName>Federico</SecondName>
+</Author>
+<Author>
+<FirstName>Nicola</FirstName>
+<SecondName>Bertoldi</SecondName>
+</Author>
+<Author>
+<FirstName>Vanessa</FirstName>
+<SecondName>Sandrini</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1039">
+<title>Phrasal Cohesion and Statistical Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Heidi</FirstName>
+<SecondName>Fox</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1040">
+<title>The Influence of Minimum Edit Distance on Reference Resolution</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Rapp</SecondName>
+</Author>
+<Author>
+<FirstName>Christoph</FirstName>
+<SecondName>Müller</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>
+
+
+
+
+<Paper id ="W02-1041">
+<title>Information Extraction from Voicemail Transcripts</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Jansche</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Abney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2002</Year>
+</Paper>

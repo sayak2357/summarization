@@ -1,0 +1,564 @@
+<Paper id ="W00-1301">
+<title>Pattern-Based Disambiguation for Natural Language Processing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Brill</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1302">
+<title>What's Yours and What's Mine:  Determining Intellectual Attribution in Scientific Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Simone</FirstName>
+<SecondName>Teufel</SecondName>
+</Author>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Moens</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1303">
+<title>Japanese Dependency Structure Analysis Based on Support Vector Machines</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Taku</FirstName>
+<SecondName>Kudo</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1304">
+<title>Coaxing Confidences from an Old Freind:  Probabilistic Classifications from Transformation Rule Lists</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Florian</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Grace</FirstName>
+<SecondName>Ngai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1305">
+<title>Topic Analysis Using a Finite Mixture Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName>Yamanishi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1306">
+<title>Sample Selection for Statistical Grammar Induction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Hwa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1307">
+<title>A Uniform Method of Grammar Extraction and Its Applications</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Xia</SecondName>
+</Author>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>Joshi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1308">
+<title>Enriching the Knowledge Sources Used in a Maximum Entropy Part-of-Speech Tagger</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanvoa</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1309">
+<title>Error-driven HMM-based Chunk Tagger with Context-dependent Lexicon</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>GuoDong</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1310">
+<title>Nonlocal Language Modeling based on Context Co-occurrence Vectors</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sadao</FirstName>
+<SecondName>Kurohashi</SecondName>
+</Author>
+<Author>
+<FirstName>Manabu</FirstName>
+<SecondName>Ori</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1311">
+<title>Detection of Language (Model) Errors</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>K.Y.</FirstName>
+<SecondName>Hung</SecondName>
+</Author>
+<Author>
+<FirstName>R.W.P.</FirstName>
+<SecondName>Luk</SecondName>
+</Author>
+<Author>
+<FirstName>D.</FirstName>
+<SecondName>Yeung</SecondName>
+</Author>
+<Author>
+<FirstName>K.F.L.</FirstName>
+<SecondName>Chung</SecondName>
+</Author>
+<Author>
+<FirstName>W.</FirstName>
+<SecondName>Shu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1312">
+<title>Cross-lingual Information Retrieval Using Hidden Markov Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jinxi</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Ralph</FirstName>
+<SecondName>Weischedel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1313">
+<title>Query Translation in Chinese-English Cross-Language Information Retrieval</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yibo</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Le</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Lin</FirstName>
+<SecondName>Du</SecondName>
+</Author>
+<Author>
+<FirstName>Yufang</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1314">
+<title>Word Alignment of English-Chinese Bilingual Corpus Based on Chucks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Le</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Youbing</FirstName>
+<SecondName>Jin</SecondName>
+</Author>
+<Author>
+<FirstName>Lin</FirstName>
+<SecondName>Du</SecondName>
+</Author>
+<Author>
+<FirstName>Yufang</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1315">
+<title>Empirical Term Weighting and Expansion Frequency</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kyoji</FirstName>
+<SecondName>Umemura</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1316">
+<title>A Machine Learning Approach to Answering Questions for Reading Comprehension Tests</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+<Author>
+<FirstName>Leong</FirstName>
+<SecondName>Hwee</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Lai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1317">
+<title>Automated Construction of Database Interfaces: Intergrating Statistical and Relational Learning for Semantic Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lappoon</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1318">
+<title>Automatic WordNet Mapping Using Word Sense Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1319">
+<title>A Real-time Integration Of Concept-based Search and Summarization of Chinese Websites</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Joe</FirstName>
+<SecondName>F.</SecondName>
+</Author>
+<Author>
+<FirstName>Weiquan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1320">
+<title>A Statistical Model for Parsing and Word-Sense Disambiguation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1321">
+<title>Reducing Parsing Complexity by Intra-Sentence Segmentation based on Maximum Entropy Model</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sung</FirstName>
+<SecondName>Dong</SecondName>
+</Author>
+<Author>
+<FirstName>Byoung-Tak</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Yung</FirstName>
+<SecondName>Tack</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1322">
+<title>An Empirical Study of the Domain Dependence of Supervised Word Disambiguation Systems</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Gerard</FirstName>
+<SecondName>Escudero</SecondName>
+</Author>
+<Author>
+<FirstName>Lluis</FirstName>
+<SecondName>Marquez</SecondName>
+</Author>
+<Author>
+<FirstName>German</FirstName>
+<SecondName>Rigau</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1323">
+<title>Combining Lexical and Formatting Cues for Named Entity Acquisition from the Web</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Christian</FirstName>
+<SecondName>Jacquemin</SecondName>
+</Author>
+<Author>
+<FirstName>Caroline</FirstName>
+<SecondName>Bush</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1324">
+<title>A Query Tool for Syntactically Frame Acquisition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Laura</FirstName>
+<SecondName>Kallmeyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1325">
+<title>Statistical Filtering and Subcategorization Frame Acquisition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Korhonen</SecondName>
+</Author>
+<Author>
+<FirstName>Genevieve</FirstName>
+<SecondName>Gorrell</SecondName>
+</Author>
+<Author>
+<FirstName>Diana</FirstName>
+<SecondName>McCarthy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1326">
+<title>One Sense per Collocation and Genre/Topic Variations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Martinez</SecondName>
+</Author>
+<Author>
+<FirstName>Eneko</FirstName>
+<SecondName>Agirre</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>
+
+
+
+
+<Paper id ="W00-1327">
+<title>Using Semantically Motivated Estimates to Help Subcategorization Acquisition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Annan</FirstName>
+<SecondName>Korhonen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2000</Year>
+</Paper>

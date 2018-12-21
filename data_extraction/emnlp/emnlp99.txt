@@ -1,0 +1,740 @@
+<Paper id ="W99-0601">
+<title>What's Happened Since the First SIGDAT Meeting?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Ward</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0602">
+<title>Text-Translation Alignment: Three Languages Are Better Than Two</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michel</FirstName>
+<SecondName>Simard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0603">
+<title>Mapping Multilingual Hierarchies Using Relaxation Labeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>Daude</SecondName>
+</Author>
+<Author>
+<FirstName>L.</FirstName>
+<SecondName>Padro</SecondName>
+</Author>
+<Author>
+<FirstName>G.</FirstName>
+<SecondName>Rigau</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0604">
+<title>Improved Alignment Models for Statistical Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>Josef</SecondName>
+</Author>
+<Author>
+<FirstName>Christoph</FirstName>
+<SecondName>Tillmann</SecondName>
+</Author>
+<Author>
+<FirstName>Hermann</FirstName>
+<SecondName>Ney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0605">
+<title>Cross-Language Information Retrieval for Technical Documents</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Atsushi</FirstName>
+<SecondName>Fujii</SecondName>
+</Author>
+<Author>
+<FirstName>Tetsuya</FirstName>
+<SecondName>Ishikawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0606">
+<title>Boosting Applied to Tagging and PP Attachment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Abney</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>E.</SecondName>
+</Author>
+<Author>
+<FirstName>Yoram</FirstName>
+<SecondName>Singer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0607">
+<title>Applying Extrasentential Context To Maximum Entropy Based Tagging With A Large Semantic And Syntactic Tagset</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ezra</FirstName>
+<SecondName>Black</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Finch</SecondName>
+</Author>
+<Author>
+<FirstName>Ruigiang</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0608">
+<title>Improving POS Tagging Using Machine-Learning Techniques</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Lluis</FirstName>
+<SecondName>Marquez</SecondName>
+</Author>
+<Author>
+<FirstName>Horacio</FirstName>
+<SecondName>Rodriguez</SecondName>
+</Author>
+<Author>
+<FirstName>Josep</FirstName>
+<SecondName>Carmona</SecondName>
+</Author>
+<Author>
+<FirstName>Josep</FirstName>
+<SecondName>Montolio</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0609">
+<title>Determining the specificity of nouns from text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0610">
+<title>Retrieving Collocations From Korean Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Seonho</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Zooil</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Mansuk</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Jung-Ho</FirstName>
+<SecondName>Ahn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0611">
+<title>Noun Phrase Coreference as Clustering</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+<Author>
+<FirstName>Kiri</FirstName>
+<SecondName>Wagstaf</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0612">
+<title>Language Independent Named Entity Recognition Combining Morphological and Contextual Evidence</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Silviu</FirstName>
+<SecondName>Cucerzan</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0613">
+<title>Unsupervised Models for Named Entity Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+<Author>
+<FirstName>Yoram</FirstName>
+<SecondName>Singer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0614">
+<title>Hybrid Disambiguation of Prepositional Phrase Attachment and Interpretation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sven</FirstName>
+<SecondName>Hartrumpf</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0615">
+<title>HMM Specialization with Selective Lexicalization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jin-Dong</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Sang-Zoo</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Hae-Chang</FirstName>
+<SecondName>Rim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0616">
+<title>Why Doesn't Natural Language Come Naturally?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Schwartz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0617">
+<title>POS Tags and Decision Trees for Language Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0618">
+<title>An Information-Theoretic Empirical Analysis of Dependency-Based Feature Types for Word Prediction Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dekai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Zhao</FirstName>
+<SecondName>Jun</SecondName>
+</Author>
+<Author>
+<FirstName>Sui</FirstName>
+<SecondName>Zhifang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0619">
+<title>Word Informativeness and Automatic Pitch Accent Modeling</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Shimei</FirstName>
+<SecondName>Pan</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0620">
+<title>Learning Discourse Relations with Active Data Selection</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tadashi</FirstName>
+<SecondName>Nomoto</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0621">
+<title>A Learning Approach to Shallow Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marcia</FirstName>
+<SecondName>Munoz</SecondName>
+</Author>
+<Author>
+<FirstName>Vasin</FirstName>
+<SecondName>Punyakanok</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+<Author>
+<FirstName>Day</FirstName>
+<SecondName>Zimak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0622">
+<title>Guiding a Well-Founded Parser with Corpus Statistics</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Amon</FirstName>
+<SecondName>Seagull</SecondName>
+</Author>
+<Author>
+<FirstName>Lenhart</FirstName>
+<SecondName>Schubert</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0623">
+<title>Exploiting Diversity in Natural Language Processing: Combining Parsers</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Brill</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0624">
+<title>Lexical ambiguity and Information Retrieval revisited</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Julio</FirstName>
+<SecondName>Gonzalo</SecondName>
+</Author>
+<Author>
+<FirstName>Anselmo</FirstName>
+<SecondName>Penas</SecondName>
+</Author>
+<Author>
+<FirstName>Felisa</FirstName>
+<SecondName>Verdejo</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0625">
+<title>Detecting Text Similarity over Short Passages: Exploring Linguistic Feature Combinations via Machine Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Vasileios</FirstName>
+<SecondName>Hatzlvassiloglou</SecondName>
+</Author>
+<Author>
+<FirstName>Judith</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Eleazar</FirstName>
+<SecondName>Eskin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0626">
+<title>Automatic Construction of Weighted String Similarity Measures</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jorg</FirstName>
+<SecondName>Tiedemann</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0627">
+<title>Taking the load off the conference chairs-towards a digital paper-routing assistant</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Florian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0628">
+<title>PP-Attachment: A Committee Machine Approach</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Martha</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Josep</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Agusti</FirstName>
+<SecondName>Lloberas</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0629">
+<title>Cascaded Grammatical Relation Assignment</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Buchholz</SecondName>
+</Author>
+<Author>
+<FirstName>Jorn</FirstName>
+<SecondName>Veenstra</SecondName>
+</Author>
+<Author>
+<FirstName>Walter</FirstName>
+<SecondName>Daelemans</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0630">
+<title>Automatically Merging Lexicons that have Incompatible Part-of-Speech Categories</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Ka-Leung</SecondName>
+</Author>
+<Author>
+<FirstName>Dekai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0631">
+<title>An Iterative Approach to Estimating Frequencies over a Semantic Hierarchy</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Weir</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0632">
+<title>Using Subcategorization to Resolve Verb Class Ambiguity</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Brew</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0633">
+<title>IMPROVING BRILL'S POS TAGGER FOR AN AGGLUTINATIVE LANGUAGE</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Beata</FirstName>
+<SecondName>Megyesi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0634">
+<title>Corpus-Based Learning for Noun Phrase Coreference Resolution</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Wee</FirstName>
+<SecondName>Meng</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+<Author>
+<FirstName>Chung</FirstName>
+<SecondName>Yong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>
+
+
+
+
+<Paper id ="W99-0635">
+<title>Corpus-Based Approach for Nominal Compound Analysis for Korean Based on Linguistic and Statistical Information</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Juntae</FirstName>
+<SecondName>Yoon</SecondName>
+</Author>
+<Author>
+<FirstName>Key-Sun</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+<Author>
+<FirstName>Mansuk</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>1999</Year>
+</Paper>

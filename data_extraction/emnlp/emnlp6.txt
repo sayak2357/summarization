@@ -1,0 +1,1644 @@
+﻿<Paper id ="W06-1601">
+<title>Unsupervised Discovery of a Statistical Verb Lexicon</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Trond</FirstName>
+<SecondName>Grenager</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1602">
+<title>An Empirical Approach to the Interpretation of Superlatives</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Johan</FirstName>
+<SecondName>Bos</SecondName>
+</Author>
+<Author>
+<FirstName>Malvina</FirstName>
+<SecondName>Nissim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1603">
+<title>Paraphrase Recognition via Dissimilarity Significance Classification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Long</FirstName>
+<SecondName>Qiu</SecondName>
+</Author>
+<Author>
+<FirstName>Min-Yen</FirstName>
+<SecondName>Kan</SecondName>
+</Author>
+<Author>
+<FirstName>Tat-Seng</FirstName>
+<SecondName>Chua</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1604">
+<title>Detecting Parser Errors Using Web-based Semantic Filters</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Yates</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Schoenmackers</SecondName>
+</Author>
+<Author>
+<FirstName>Oren</FirstName>
+<SecondName>Etzioni</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1605">
+<title>Distributional measures of concept-distance: A task-oriented evaluation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Saif</FirstName>
+<SecondName>Mohammad</SecondName>
+</Author>
+<Author>
+<FirstName>Graeme</FirstName>
+<SecondName>Hirst</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1606">
+<title>SPMT: Statistical Machine Translation with Syntactified Target Language Phrases</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Abdessamad</FirstName>
+<SecondName>Echihabi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1607">
+<title>Phrasetable Smoothing for Statistical Machine Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>George</FirstName>
+<SecondName>Foster</SecondName>
+</Author>
+<Author>
+<FirstName>Roland</FirstName>
+<SecondName>Kuhn</SecondName>
+</Author>
+<Author>
+<FirstName>Howard</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1608">
+<title>The impact of parse quality on syntactically-informed statistical machine translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Quirk</SecondName>
+</Author>
+<Author>
+<FirstName>Simon</FirstName>
+<SecondName>Corston-Oliver</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1609">
+<title>Statistical Machine Reordering</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Marta</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>José</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1610">
+<title>Re-evaluating Machine Translation Results with Paraphrase Support</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Liang</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Chin-Yew</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1611">
+<title>Exploiting Discourse Structure for Spoken Dialogue Performance Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Mihai</FirstName>
+<SecondName>Rotaru</SecondName>
+</Author>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1612">
+<title>Learning Information Status of Discourse Entities</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Malvina</FirstName>
+<SecondName>Nissim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1613">
+<title>Automatic classification of citation function</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Simone</FirstName>
+<SecondName>Teufel</SecondName>
+</Author>
+<Author>
+<FirstName>Advaith</FirstName>
+<SecondName>Siddharthan</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Tidhar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1614">
+<title>Is it Really that Difficult to Parse German?</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sandra</FirstName>
+<SecondName>Kübler</SecondName>
+</Author>
+<Author>
+<FirstName>Erhard</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Wolfgang</FirstName>
+<SecondName>Maier</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1615">
+<title>Domain Adaptation with Structural Correspondence Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Blitzer</SecondName>
+</Author>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>McDonald</SecondName>
+</Author>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Pereira</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1616">
+<title>Incremental Integer Linear Programming for Non-projective Dependency Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Clarke</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1617">
+<title>Semantic Role Labeling of NomBank: A Maximum Entropy Approach</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zheng</FirstName>
+<SecondName>Ping</SecondName>
+</Author>
+<Author>
+<FirstName>Hwee</FirstName>
+<SecondName>Tou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1618">
+<title>Identification of Event Mentions and their Semantic Class</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Bethard</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1619">
+<title>Extremely Lexicalized Models for Accurate and Fast HPSG Parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Takashi</FirstName>
+<SecondName>Ninomiya</SecondName>
+</Author>
+<Author>
+<FirstName>Takuya</FirstName>
+<SecondName>Matsuzaki</SecondName>
+</Author>
+<Author>
+<FirstName>Yoshimasa</FirstName>
+<SecondName>Tsuruoka</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Jun'ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1620">
+<title>Multilingual Deep Lexical Acquisition for HPSGs via Supertagging</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Blunsom</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1621">
+<title>Lexical Reference: a Semantic Matching Subtask</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Oren</FirstName>
+<SecondName>Glickman</SecondName>
+</Author>
+<Author>
+<FirstName>Eyal</FirstName>
+<SecondName>Shnarch</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1622">
+<title>Semantic Role Labeling via Instance-Based Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Chi-san</FirstName>
+<SecondName>Althon</SecondName>
+</Author>
+<Author>
+<FirstName>Tony</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1623">
+<title>Inducing Temporal Graphs</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Bramsen</SecondName>
+</Author>
+<Author>
+<FirstName>Pawan</FirstName>
+<SecondName>Deshpande</SecondName>
+</Author>
+<Author>
+<FirstName>Yoong</FirstName>
+<SecondName>Keok</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1624">
+<title>A Weakly Supervised Learning Approach for Spoken Language Understanding</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Wei-Lin</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Ru-Zhan</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Jian-Yong</FirstName>
+<SecondName>Duan</SecondName>
+</Author>
+<Author>
+<FirstName>Hui</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Feng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Yu-Quan</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1625">
+<title>Humor: Prosody Analysis and Automatic Recognition for F*R*I*E*N*D*S*</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Amruta</FirstName>
+<SecondName>Purandare</SecondName>
+</Author>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>Litman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1626">
+<title>Distributed Language Modeling for $N$-best List Re-ranking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ying</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Almut</FirstName>
+<SecondName>Silja</SecondName>
+</Author>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Vogel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1627">
+<title>Efficient Search for Inversion Transduction Grammar</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1628">
+<title>A Discriminative Model for Tree-to-Tree Translation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Brooke</FirstName>
+<SecondName>Cowan</SecondName>
+</Author>
+<Author>
+<FirstName>Ivona</FirstName>
+<SecondName>Kučerová</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Collins</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1629">
+<title>Modeling Impression in Probabilistic Transliteration into Chinese</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>LiLi</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Atsushi</FirstName>
+<SecondName>Fujii</SecondName>
+</Author>
+<Author>
+<FirstName>Tetsuya</FirstName>
+<SecondName>Ishikawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1630">
+<title>Unsupervised Named Entity Transliteration Using Temporal and Phonetic Correlation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Tao</SecondName>
+</Author>
+<Author>
+<FirstName>Su-Youn</FirstName>
+<SecondName>Yoon</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Fister</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Sproat</SecondName>
+</Author>
+<Author>
+<FirstName>ChengXiang</FirstName>
+<SecondName>Zhai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1631">
+<title>Capturing Out-of-Vocabulary Words in Arabic Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Abdusalam</FirstName>
+<SecondName>F.A.</SecondName>
+</Author>
+<Author>
+<FirstName>S.M.M.</FirstName>
+<SecondName>Tahaghoghi</SecondName>
+</Author>
+<Author>
+<FirstName>Falk</FirstName>
+<SecondName>Scholer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1632">
+<title>Using linguistically motivated features for paragraph boundary identification</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Katja</FirstName>
+<SecondName>Filippova</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Strube</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1633">
+<title>BESTCUT: A Graph Algorithm for Coreference Resolution</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Cristina</FirstName>
+<SecondName>Nicolae</SecondName>
+</Author>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>Nicolae</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1634">
+<title>Automatic Construction of Predicate-argument Structure Patterns for Biomedical Information Extraction</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Akane</FirstName>
+<SecondName>Yakushiji</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Tomoko</FirstName>
+<SecondName>Ohta</SecondName>
+</Author>
+<Author>
+<FirstName>Yuka</FirstName>
+<SecondName>Tateisi</SecondName>
+</Author>
+<Author>
+<FirstName>Jun'ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1635">
+<title>Protein folding and chart parsing</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+<Author>
+<FirstName>Aravind</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Ken</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1636">
+<title>Learning Phrasal Categories</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1637">
+<title>Priming Effects in Combinatory Categorial Grammar</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Reitter</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName>Keller</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1638">
+<title>Better Informed Training of Latent Syntactic Features</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Markus</FirstName>
+<SecondName>Dreyer</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1639">
+<title>Get out the vote: Determining support or opposition from Congressional floor-debate transcripts</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Matt</FirstName>
+<SecondName>Thomas</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Pang</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1640">
+<title>Partially Supervised Coreference Resolution for Opinion Summarization through Structured Rule Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Veselin</FirstName>
+<SecondName>Stoyanov</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1641">
+<title>Sentiment Retrieval using Generative Models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Koji</FirstName>
+<SecondName>Eguchi</SecondName>
+</Author>
+<Author>
+<FirstName>Victor</FirstName>
+<SecondName>Lavrenko</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1642">
+<title>Fully Automatic Lexicon Expansion for Domain-oriented Sentiment Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Kanayama</SecondName>
+</Author>
+<Author>
+<FirstName>Tetsuya</FirstName>
+<SecondName>Nasukawa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1643">
+<title>A Skip-Chain Conditional Random Field for Ranking Meeting Utterances by Importance</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michel</FirstName>
+<SecondName>Galley</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1644">
+<title>Style & Topic Language Model Adaptation Using HMM-LDA</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Bo-June</FirstName>
+<SecondName>(Paul)</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1645">
+<title>Text data acquisition for domain-specific language models</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Abhinav</FirstName>
+<SecondName>Sethy</SecondName>
+</Author>
+<Author>
+<FirstName>Panayiotis</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>Shrikanth</FirstName>
+<SecondName>Narayanan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1646">
+<title>Corrective Models for Speech Recognition of Inflected Languages</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Izhak</FirstName>
+<SecondName>Shafran</SecondName>
+</Author>
+<Author>
+<FirstName>Keith</FirstName>
+<SecondName>Hall</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1647">
+<title>Lexicon Acquisition for Dialectal Arabic Using Transductive Learning</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Duh</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Kirchhoff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1648">
+<title>Arabic OCR Error Correction Using Character Segment Correction, Language Modeling, and Shallow Morphology</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Walid</FirstName>
+<SecondName>Magdy</SecondName>
+</Author>
+<Author>
+<FirstName>Kareem</FirstName>
+<SecondName>Darwish</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1649">
+<title>Partially Supervised Sense Disambiguation by Learning Sense Number from Tagged and Untagged Corpora</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Zheng-Yu</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Dong-Hong</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Chew</FirstName>
+<SecondName>Lim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1650">
+<title>Automatically Assessing Review Helpfulness</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Soo-Min</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Pantel</SecondName>
+</Author>
+<Author>
+<FirstName>Tim</FirstName>
+<SecondName>Chklovski</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Pennacchiotti</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1651">
+<title>Joint Extraction of Entities and Relations for Opinion Recognition</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Breck</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1652">
+<title>Feature Subsumption for Opinion Analysis</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+<Author>
+<FirstName>Siddharth</FirstName>
+<SecondName>Patwardhan</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1653">
+<title>Relevance Feedback Models for Recommendation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Masao</FirstName>
+<SecondName>Utiyama</SecondName>
+</Author>
+<Author>
+<FirstName>Mikio</FirstName>
+<SecondName>Yamamoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1654">
+<title>Random Indexing using Statistical Weight Functions</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Gorman</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1655">
+<title>A Hybrid Markov/Semi-Markov Conditional Random Field for Sequence Segmentation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Galen</FirstName>
+<SecondName>Andrew</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1656">
+<title>Boosting Unsupervised Relation Extraction by Using NER</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ronen</FirstName>
+<SecondName>Feldman</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Rosenfeld</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1657">
+<title>Short Text Authorship Attribution via Sequence Kernels, Markov Chains and Author Unmasking: An Investigation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Conrad</FirstName>
+<SecondName>Sanderson</SecondName>
+</Author>
+<Author>
+<FirstName>Simon</FirstName>
+<SecondName>Guenter</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1658">
+<title>Entity Annotation based on Inverse Index Operations</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ganesh</FirstName>
+<SecondName>Ramakrishnan</SecondName>
+</Author>
+<Author>
+<FirstName>Sreeram</FirstName>
+<SecondName>Balakrishnan</SecondName>
+</Author>
+<Author>
+<FirstName>Sachindra</FirstName>
+<SecondName>Joshi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1659">
+<title>Unsupervised Information Extraction Approach Using Graph Mutual Reinforcement</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hany</FirstName>
+<SecondName>Hassan</SecondName>
+</Author>
+<Author>
+<FirstName>Ahmed</FirstName>
+<SecondName>Hassan</SecondName>
+</Author>
+<Author>
+<FirstName>Ossama</FirstName>
+<SecondName>Emam</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1660">
+<title>Empirical Study on the Performance Stability of Named Entity Recognition Model across Domains</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Lei</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhong</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1661">
+<title>Statistical Ranking in Tactical Generation</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Erik</FirstName>
+<SecondName>Velldal</SecondName>
+</Author>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Oepen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1662">
+<title>Sentence ordering with manifold-based classification in multi-document summarization</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>D</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Pulman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1663">
+<title>Quality Assessment of Large Scale Knowledge Resources</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Montse</FirstName>
+<SecondName>Cuadros</SecondName>
+</Author>
+<Author>
+<FirstName>German</FirstName>
+<SecondName>Rigau</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1664">
+<title>Graph-based Word Clustering using a Web Search Engine</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Yutaka</FirstName>
+<SecondName>Matsuo</SecondName>
+</Author>
+<Author>
+<FirstName>Takeshi</FirstName>
+<SecondName>Sakaki</SecondName>
+</Author>
+<Author>
+<FirstName>Kôki</FirstName>
+<SecondName>Uchiyama</SecondName>
+</Author>
+<Author>
+<FirstName>Mitsuru</FirstName>
+<SecondName>Ishizuka</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1665">
+<title>Context-Dependent Term Relations for Information Retrieval</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Bai</SecondName>
+</Author>
+<Author>
+<FirstName>Jian-Yun</FirstName>
+<SecondName>Nie</SecondName>
+</Author>
+<Author>
+<FirstName>Guihong</FirstName>
+<SecondName>Cao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1666">
+<title>Loss Minimization in Parse Reranking</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Titov</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1667">
+<title>Unsupervised Relation Disambiguation with Order Identification Capabilities</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jinxiu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Donghong</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>ChewLim</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+<Author>
+<FirstName>Zhengyu</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1668">
+<title>Competitive generative models with structure learning for NLP classification tasks</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1669">
+<title>Two graph-based algorithms for state-of-the-art WSD</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Eneko</FirstName>
+<SecondName>Agirre</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Martínez</SecondName>
+</Author>
+<Author>
+<FirstName>Oier</FirstName>
+<SecondName>López</SecondName>
+</Author>
+<Author>
+<FirstName>Aitor</FirstName>
+<SecondName>Soroa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1670">
+<title>Broad-Coverage Sense Disambiguation and Information Extraction with a Supersense Sequence Tagger</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Massimiliano</FirstName>
+<SecondName>Ciaramita</SecondName>
+</Author>
+<Author>
+<FirstName>Yasemin</FirstName>
+<SecondName>Altun</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1671">
+<title>Learning Field Compatibilities to Extract Database Records from Unstructured Text</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Wick</SecondName>
+</Author>
+<Author>
+<FirstName>Aron</FirstName>
+<SecondName>Culotta</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>McCallum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1672">
+<title>Discriminative Methods for Transliteration</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Dmitry</FirstName>
+<SecondName>Zelenko</SecondName>
+</Author>
+<Author>
+<FirstName>Chinatsu</FirstName>
+<SecondName>Aone</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
+
+
+
+
+<Paper id ="W06-1673">
+<title>Solving the Problem of Cascading Errors: Approximate Bayesian Inference for Linguistic Annotation Pipelines</title>
+<Venue> EMNLP </venue>
+<Authors>
+<Author>
+<FirstName>Jenny</FirstName>
+<SecondName>Rose</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Y.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2006</Year>
+</Paper>
