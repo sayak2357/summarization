@@ -1,0 +1,1764 @@
+<Paper id ="N09-1001">
+<title>Subjectivity Recognition on Word Senses via Semi-supervised Mincuts</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fangzhong</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Katja</FirstName>
+<SecondName>Markert</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1002">
+<title>Integrating Knowledge for Subjectivity Sense Labeling</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yaw</FirstName>
+<SecondName>Gyamfi</SecondName>
+</Author>
+<Author>
+<FirstName>Janyce</FirstName>
+<SecondName>Wiebe</SecondName>
+</Author>
+<Author>
+<FirstName>Rada</FirstName>
+<SecondName>Mihalcea</SecondName>
+</Author>
+<Author>
+<FirstName>Cem</FirstName>
+<SecondName>Akkaya</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1003">
+<title>A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Eneko</FirstName>
+<SecondName>Agirre</SecondName>
+</Author>
+<Author>
+<FirstName>Enrique</FirstName>
+<SecondName>Alfonseca</SecondName>
+</Author>
+<Author>
+<FirstName>Keith</FirstName>
+<SecondName>Hall</SecondName>
+</Author>
+<Author>
+<FirstName>Jana</FirstName>
+<SecondName>Kravalova</SecondName>
+</Author>
+<Author>
+<FirstName>Marius</FirstName>
+<SecondName>Pasca</SecondName>
+</Author>
+<Author>
+<FirstName>Aitor</FirstName>
+<SecondName>Soroa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1004">
+<title>A Fully Unsupervised Word Sense Disambiguation Method Using Dependency Knowledge</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ping</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Ding</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Bowes</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Brown</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1005">
+<title>Learning Phoneme Mappings for Transliteration without Parallel Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sujith</FirstName>
+<SecondName>Ravi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1006">
+<title>A Corpus-Based Approach for the Prediction of Language Impairment in Monolingual English and Spanish-English Bilingual Children</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Keyur</FirstName>
+<SecondName>Gabani</SecondName>
+</Author>
+<Author>
+<FirstName>Melissa</FirstName>
+<SecondName>Sherman</SecondName>
+</Author>
+<Author>
+<FirstName>Thamar</FirstName>
+<SecondName>Solorio</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Lisa</FirstName>
+<SecondName>Bedore</SecondName>
+</Author>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>Pe√±a</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1007">
+<title>A Discriminative Latent Variable Chinese Segmenter with Hybrid Word/Character Information</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xu</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Yaozhong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Takuya</FirstName>
+<SecondName>Matsuzaki</SecondName>
+</Author>
+<Author>
+<FirstName>Yoshimasa</FirstName>
+<SecondName>Tsuruoka</SecondName>
+</Author>
+<Author>
+<FirstName>Jun‚??ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1008">
+<title>Improved Reconstruction of Protolanguage Word Forms</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Alexandre</FirstName>
+<SecondName>Bouchard-C√¥t√©</SecondName>
+</Author>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1009">
+<title>Shared Logistic Normal Distributions for Soft Parameter Tying in Unsupervised Grammar Induction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shay</FirstName>
+<SecondName>Cohen</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1010">
+<title>Adding More Languages Improves Unsupervised Multilingual Part-of-Speech Tagging: a Bayesian Non-Parametric Approach</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Snyder</SecondName>
+</Author>
+<Author>
+<FirstName>Tahira</FirstName>
+<SecondName>Naseem</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1011">
+<title>Efficiently Parsable Extensions to Tree-Local Multicomponent TAG</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Nesson</SecondName>
+</Author>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>Shieber</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1012">
+<title>Improving Unsupervised Dependency Parsing with Richer Contexts and Smoothing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>McClosky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1013">
+<title>Context-Dependent Alignment Models for Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jamie</FirstName>
+<SecondName>Brunning</SecondName>
+</Author>
+<Author>
+<FirstName>Adri√ </FirstName>
+<SecondName>de</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1014">
+<title>Graph-based Learning for Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrei</FirstName>
+<SecondName>Alexandrescu</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Kirchhoff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1015">
+<title>Intersecting Multilingual Data for Faster and Better Statistical Translations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Kay</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Eisele</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1016">
+<title>Without a ‚??doubt‚??? Unsupervised Discovery of Downward-Entailing Operators</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Cristian</FirstName>
+<SecondName>Danescu-Niculescu-Mizil</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Ducott</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1017">
+<title>The Role of Implicit Argumentation in Nominal SRL</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Matthew</FirstName>
+<SecondName>Gerber</SecondName>
+</Author>
+<Author>
+<FirstName>Joyce</FirstName>
+<SecondName>Chai</SecondName>
+</Author>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Meyers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1018">
+<title>Jointly Identifying Predicates, Arguments and Senses using Markov Logic</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Meza-Ruiz</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1019">
+<title>Structured Generative Models for Unsupervised Named-Entity Clustering</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Micha</FirstName>
+<SecondName>Elsner</SecondName>
+</Author>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1020">
+<title>Hierarchical Dirichlet Trees for Information Retrieval</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gholamreza</FirstName>
+<SecondName>Haffari</SecondName>
+</Author>
+<Author>
+<FirstName>Yee</FirstName>
+<SecondName>Whye</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1021">
+<title>Phrase-Based Query Degradation Modeling for Vocabulary-Independent Ranked Utterance Retrieval</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>J.</FirstName>
+<SecondName>Scott</SecondName>
+</Author>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1022">
+<title>Japanese Query Alteration Based on Lexical Semantic Similarity</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Masato</FirstName>
+<SecondName>Hagiwara</SecondName>
+</Author>
+<Author>
+<FirstName>Hisami</FirstName>
+<SecondName>Suzuki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1023">
+<title>Context-based Message Expansion for Disentanglement of Interleaved Text Conversations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Lidan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1024">
+<title>Unsupervised Morphological Segmentation with Log-Linear Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hoifung</FirstName>
+<SecondName>Poon</SecondName>
+</Author>
+<Author>
+<FirstName>Colin</FirstName>
+<SecondName>Cherry</SecondName>
+</Author>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1025">
+<title>11,001 New Features for Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1026">
+<title>Efficient Parsing for Transducer Grammars</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>DeNero</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Pauls</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1027">
+<title>Preference Grammars: Softening Syntactic Constraints to Improve Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ashish</FirstName>
+<SecondName>Venugopal</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Zollmann</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Vogel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1028">
+<title>Using a Dependency Parser to Improve SMT for Subject-Object-Verb Languages</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Jaeho</FirstName>
+<SecondName>Kang</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Ringgaard</SecondName>
+</Author>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>Och</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1029">
+<title>Learning Bilingual Linguistic Reordering Model for Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Han-Bin</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Jian-Cheng</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1030">
+<title>May All Your Wishes Come True: A Study of Wishes and How to Recognize Them</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Nathanael</FirstName>
+<SecondName>Fillmore</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Andrzejewski</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiting</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Bryan</FirstName>
+<SecondName>Gibson</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaojin</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1031">
+<title>Predicting Risk from Financial Reports with Regression</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shimon</FirstName>
+<SecondName>Kogan</SecondName>
+</Author>
+<Author>
+<FirstName>Dimitry</FirstName>
+<SecondName>Levin</SecondName>
+</Author>
+<Author>
+<FirstName>Bryan</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1032">
+<title>Domain Adaptation with Latent Semantic Association for Named Entity Recognition</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Honglei</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Huijia</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Zhili</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoxun</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Xian</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Zhong</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1033">
+<title>Semi-Automatic Entity Set Refinement</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vishnu</FirstName>
+<SecondName>Vyas</SecondName>
+</Author>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Pantel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1034">
+<title>Unsupervised Constraint Driven Learning For Transliteration Discovery</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ming-Wei</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Goldwasser</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+<Author>
+<FirstName>Yuancheng</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1035">
+<title>On the Syllabification of Phonemes</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Susan</FirstName>
+<SecondName>Bartlett</SecondName>
+</Author>
+<Author>
+<FirstName>Grzegorz</FirstName>
+<SecondName>Kondrak</SecondName>
+</Author>
+<Author>
+<FirstName>Colin</FirstName>
+<SecondName>Cherry</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1036">
+<title>Improving nonparameteric Bayesian inference: experiments on unsupervised word segmentation with adaptor grammars</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Goldwater</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1037">
+<title>Joint Parsing and Named Entity Recognition</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jenny</FirstName>
+<SecondName>Rose</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1038">
+<title>Minimal-length linearizations for mildly context-sensitive dependency trees</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Y.</FirstName>
+<SecondName>Albert</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Levy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1039">
+<title>Positive Results for Parsing with a Bounded Stack using a Model-Based Right-Corner Transform</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Schuler</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1040">
+<title>Hierarchical Text Segmentation from Multi-Scale Lexical Cohesion</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1041">
+<title>Exploring Content Models for Multi-Document Summarization</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Aria</FirstName>
+<SecondName>Haghighi</SecondName>
+</Author>
+<Author>
+<FirstName>Lucy</FirstName>
+<SecondName>Vanderwende</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1042">
+<title>Global Models of Document Structure using Latent Permutations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Harr</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>S.R.K.</FirstName>
+<SecondName>Branavan</SecondName>
+</Author>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1043">
+<title>Assessing and Improving the Performance of Speech Recognition for Incremental Systems</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Timo</FirstName>
+<SecondName>Baumann</SecondName>
+</Author>
+<Author>
+<FirstName>Michaela</FirstName>
+<SecondName>Atterer</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Schlangen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1044">
+<title>Geo-Centric Language Models for Local Business Voice Search</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Amanda</FirstName>
+<SecondName>Stent</SecondName>
+</Author>
+<Author>
+<FirstName>Ilija</FirstName>
+<SecondName>Zeljkovic</SecondName>
+</Author>
+<Author>
+<FirstName>Diamantino</FirstName>
+<SecondName>Caseiro</SecondName>
+</Author>
+<Author>
+<FirstName>Jay</FirstName>
+<SecondName>Wilpon</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1045">
+<title>Improving the Arabic Pronunciation Dictionary for Phone and Word Recognition with Linguistically-Based Pronunciation Rules</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fadi</FirstName>
+<SecondName>Biadsy</SecondName>
+</Author>
+<Author>
+<FirstName>Nizar</FirstName>
+<SecondName>Habash</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1046">
+<title>Using a maximum entropy model to build segmentation lattices for MT</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1047">
+<title>Active Learning for Statistical Phrase-based Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gholamreza</FirstName>
+<SecondName>Haffari</SecondName>
+</Author>
+<Author>
+<FirstName>Maxim</FirstName>
+<SecondName>Roy</SecondName>
+</Author>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1048">
+<title>Semi-Supervised Lexicon Mining from Parenthetical Expressions in Monolingual Web Pages</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xianchao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Naoaki</FirstName>
+<SecondName>Okazaki</SecondName>
+</Author>
+<Author>
+<FirstName>Jun‚??ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1049">
+<title>Hierarchical Phrase-Based Translation with Weighted Finite State Transducers</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gonzalo</FirstName>
+<SecondName>Iglesias</SecondName>
+</Author>
+<Author>
+<FirstName>Adri√ </FirstName>
+<SecondName>de</SecondName>
+</Author>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>R.</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1050">
+<title>Improved pronunciation features for construct-driven assessment of non-native spontaneous speech</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Klaus</FirstName>
+<SecondName>Zechner</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoming</FirstName>
+<SecondName>Xi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1051">
+<title>Performance Prediction for Exponential Language Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Stanley</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1052">
+<title>Tied-Mixture Language Modeling in Continuous Space</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ruhi</FirstName>
+<SecondName>Sarikaya</SecondName>
+</Author>
+<Author>
+<FirstName>Mohamed</FirstName>
+<SecondName>Afify</SecondName>
+</Author>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Kingsbury</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1053">
+<title>Shrinking Exponential Language Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Stanley</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1054">
+<title>Predicting Response to Political Blog Posts with Topic Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tae</FirstName>
+<SecondName>Yano</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1055">
+<title>An Iterative Reinforcement Approach for Fine-Grained Opinion Mining</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Weifu</FirstName>
+<SecondName>Du</SecondName>
+</Author>
+<Author>
+<FirstName>Songbo</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1056">
+<title>For a few dollars less: Identifying review pages sans human labels</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Luciano</FirstName>
+<SecondName>Barbosa</SecondName>
+</Author>
+<Author>
+<FirstName>Ravi</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Pang</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Tomkins</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1057">
+<title>More than Words: Syntactic Packaging and Implicit Sentiment</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Greene</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1058">
+<title>Streaming for large scale NLP: Language Modeling</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Amit</FirstName>
+<SecondName>Goyal</SecondName>
+</Author>
+<Author>
+<FirstName>Hal</FirstName>
+<SecondName>Daume</SecondName>
+</Author>
+<Author>
+<FirstName>Suresh</FirstName>
+<SecondName>Venkatasubramanian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1059">
+<title>The Effect of Corpus Size on Case Frame Acquisition for Discourse Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ryohei</FirstName>
+<SecondName>Sasano</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Kawahara</SecondName>
+</Author>
+<Author>
+<FirstName>Sadao</FirstName>
+<SecondName>Kurohashi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1060">
+<title>Semantic-based Estimation of Term Informativeness</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kirill</FirstName>
+<SecondName>Kireyev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1061">
+<title>Optimal Reduction of Rule Length in Linear Context-Free Rewriting Systems</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>G√≥mez-Rodr√≠guez</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Kuhlmann</SecondName>
+</Author>
+<Author>
+<FirstName>Giorgio</FirstName>
+<SecondName>Satta</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Weir</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1062">
+<title>Inducing Compact but Accurate Tree-Substitution Grammars</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Goldwater</SecondName>
+</Author>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Blunsom</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1063">
+<title>Hierarchical Search for Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Pauls</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1064">
+<title>An effective Discourse Parser that uses Rich Linguistic Information</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Rajen</FirstName>
+<SecondName>Subba</SecondName>
+</Author>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Di</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1065">
+<title>Graph-Cut-Based Anaphoricity Determination for Coreference Resolution</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1066">
+<title>Using Citations to Generate surveys of Scientific Paradigms</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Saif</FirstName>
+<SecondName>Mohammad</SecondName>
+</Author>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Dorr</SecondName>
+</Author>
+<Author>
+<FirstName>Melissa</FirstName>
+<SecondName>Egan</SecondName>
+</Author>
+<Author>
+<FirstName>Ahmed</FirstName>
+<SecondName>Hassan</SecondName>
+</Author>
+<Author>
+<FirstName>Pradeep</FirstName>
+<SecondName>Muthukrishan</SecondName>
+</Author>
+<Author>
+<FirstName>Vahed</FirstName>
+<SecondName>Qazvinian</SecondName>
+</Author>
+<Author>
+<FirstName>Dragomir</FirstName>
+<SecondName>Radev</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Zajic</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1067">
+<title>Non-Parametric Bayesian Areal Linguistics</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hal</FirstName>
+<SecondName>Daume</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1068">
+<title>Hierarchical Bayesian Domain Adaptation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jenny</FirstName>
+<SecondName>Rose</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1069">
+<title>Online EM for Unsupervised Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Percy</FirstName>
+<SecondName>Liang</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1070">
+<title>Unsupervised Approaches for Automatic Keyword Extraction Using Meeting Transcripts</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Feifan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Deana</FirstName>
+<SecondName>Pennell</SecondName>
+</Author>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1071">
+<title>A Finite-State Turn-Taking Model for Spoken Dialog Systems</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Antoine</FirstName>
+<SecondName>Raux</SecondName>
+</Author>
+<Author>
+<FirstName>Maxine</FirstName>
+<SecondName>Eskenazi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1072">
+<title>Extracting Social Meaning: Identifying Interactional Style in Spoken Conversation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+<Author>
+<FirstName>Rajesh</FirstName>
+<SecondName>Ranganath</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>McFarland</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1073">
+<title>Linear Complexity Context-Free Parsing Pipelines via Chart Constraints</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Roark</SecondName>
+</Author>
+<Author>
+<FirstName>Kristy</FirstName>
+<SecondName>Hollingshead</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1074">
+<title>Improved Syntactic Models for Parsing Speech with Repairs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tim</FirstName>
+<SecondName>Miller</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>
+
+
+
+
+<Paper id ="N09-1075">
+<title>A model of local coherence effects in human sentence processing as consequences of updates from bottom-up prior to posterior beliefs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Klinton</FirstName>
+<SecondName>Bicknell</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Levy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2009</Year>
+</Paper>

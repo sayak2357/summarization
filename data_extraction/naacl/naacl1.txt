@@ -1,0 +1,612 @@
+<Paper id ="N01-1001">
+<title>Instance-Based Natural Language Generation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Varges</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Mellish</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1002">
+<title>Corpus-based NP Modifier Generation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hua</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Massimo</FirstName>
+<SecondName>Poesio</SecondName>
+</Author>
+<Author>
+<FirstName>Renate</FirstName>
+<SecondName>Henschel</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Mellish</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1003">
+<title>SPoT: A Trainable Sentence Planner</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+<Author>
+<FirstName>Monica</FirstName>
+<SecondName>Rogati</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1004">
+<title>Why Inverse Document Frequency?</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kishore</FirstName>
+<SecondName>Papineni</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1005">
+<title>Question Answering Using Maximum-Entropy Components</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Abraham</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Franz</SecondName>
+</Author>
+<Author>
+<FirstName>Wei-Jing</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Adwait</FirstName>
+<SecondName>Ratnaparkhi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1006">
+<title>Transformation Based Learning in the Fast Lane</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Grace</FirstName>
+<SecondName>Ngai</SecondName>
+</Author>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Florian</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1007">
+<title>Unsupervised Learning of Name Structure From Coreference Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1008">
+<title>Text and Knowledge Mining for Coreference Resolution</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sanda</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Razvan</FirstName>
+<SecondName>C.</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1009">
+<title>A Corpus-based Account of Regular Polysemy: The Case of Context-sensitive Adjectives</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1010">
+<title>Tree-Cut and a Lexicon Based on Systematic Polysemy</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Noriko</FirstName>
+<SecondName>Tomuro</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1011">
+<title>A Decision Tree of Bigrams is an Accurate Predictor of Word Sense</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Pedersen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1012">
+<title>An Algorithm for Aspects of Semantic Interpretation Using an Enhanced WordNet</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Gomez</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1013">
+<title>Class-Based Probability Estimation Using a Semantic Hierarchy</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Weir</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1014">
+<title>Identifying Cognates by Phonetic and Semantic Similarity</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Grzegorz</FirstName>
+<SecondName>Kondrak</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1015">
+<title>Re-Engineering Letter-to-Sound Rules</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Jansche</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1016">
+<title>Edit Detection and Parsing for Transcribed Speech</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Eugene</FirstName>
+<SecondName>Charniak</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1017">
+<title>Generating Training Data for Medical Dictations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sergey</FirstName>
+<SecondName>Pakhomov</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Schonwetter</SecondName>
+</Author>
+<Author>
+<FirstName>Joan</FirstName>
+<SecondName>Bachenko</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1018">
+<title>A Finite-State Approach to Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Srinivas</FirstName>
+<SecondName>Bangalore</SecondName>
+</Author>
+<Author>
+<FirstName>Giuseppe</FirstName>
+<SecondName>Riccardi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1019">
+<title>Information-Based Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Keiko</FirstName>
+<SecondName>Horiguchi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1020">
+<title>Multipath Translation Lexicon Induction via Bridge Languages</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gideon</FirstName>
+<SecondName>S.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1021">
+<title>A Probabilistic Earley Parser as a Psycholinguistic Model</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Hale</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1022">
+<title>Refining Tabular Parsers for TAGs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ã?ric</FirstName>
+<SecondName>Villemonte</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1023">
+<title>Applying Co-Training Methods to Statistical Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1024">
+<title>Knowledge-Free Induction of Inflectional Morphologies</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Schone</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1025">
+<title>Chunking with Support Vector Machines</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Taku</FirstName>
+<SecondName>Kudo</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1026">
+<title>Inducing Multilingual POS Taggers and NP Bracketers via Robust Projection Across Aligned Corpora</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+<Author>
+<FirstName>Grace</FirstName>
+<SecondName>Ngai</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1027">
+<title>Identifying User Corrections Automatically in Spoken Dialogue Systems</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>Litman</SecondName>
+</Author>
+<Author>
+<FirstName>Marc</FirstName>
+<SecondName>Swerts</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1028">
+<title>Learning Optimal Dialogue Management Rules by Using Reinforcement Learning and Inductive Logic Programming</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Renaud</FirstName>
+<SecondName>Lecoeuche</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1029">
+<title>A Structured Language Model Based on Context-Sensitive Probabilistic Left-Corner Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dong</FirstName>
+<SecondName>Hoon</SecondName>
+</Author>
+<Author>
+<FirstName>Filip</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+<Author>
+<FirstName>Dirk</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1030">
+<title>Do CFG-Based Language Models Need Agreement Constraints?</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Manny</FirstName>
+<SecondName>Rayner</SecondName>
+</Author>
+<Author>
+<FirstName>Genevieve</FirstName>
+<SecondName>Gorrell</SecondName>
+</Author>
+<Author>
+<FirstName>Beth</FirstName>
+<SecondName>Ann</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Dowding</SecondName>
+</Author>
+<Author>
+<FirstName>Johan</FirstName>
+<SecondName>Boye</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>
+
+
+
+
+<Paper id ="N01-1031">
+<title>You're Not From 'Round Here, Are You? Naive Bayes Detection of Non-Native Utterances</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Laura</FirstName>
+<SecondName>Mayfield</SecondName>
+</Author>
+<Author>
+<FirstName>Rosie</FirstName>
+<SecondName>Jones</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2001</Year>
+</Paper>

@@ -1,0 +1,9218 @@
+<Paper id ="N18-1001">
+<title>
+      Label-Aware Double Transfer Learning for Cross-Specialty Medical Named
+      Entity Recognition
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhenghui</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yanru</FirstName>
+<SecondName>Qu</SecondName>
+</Author>
+<Author>
+<FirstName>Liheng</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Jian</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Weinan</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Shaodian</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Yimei</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Gen</FirstName>
+<SecondName>Gu</SecondName>
+</Author>
+<Author>
+<FirstName>Ken</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Yong</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1002">
+<title>Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Denilson</FirstName>
+<SecondName>Barbosa</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1003">
+<title>Joint Bootstrapping Machines for High Confidence Relation Extraction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Pankaj</FirstName>
+<SecondName>Gupta</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Sch√ºtze</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1004">
+<title>A Deep Generative Model of Vowel Formant Typology</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Cotterell</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1005">
+<title>
+      Fortification of Neural Morphological Segmentation Models for
+      Polysynthetic Minimal-Resource Languages
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Katharina</FirstName>
+<SecondName>Kann</SecondName>
+</Author>
+<Author>
+<FirstName>Jesus</FirstName>
+<SecondName>Manuel</SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Vladimir</SecondName>
+</Author>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Sch√ºtze</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1006">
+<title>
+      Improving Character-Based Decoding Using Target-Side Morphological
+      Information for Neural Machine Translation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Peyman</FirstName>
+<SecondName>Passban</SecondName>
+</Author>
+<Author>
+<FirstName>Qun</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Andy</FirstName>
+<SecondName>Way</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1007">
+<title>
+      Parsing Speech: a Neural Approach to Integrating Lexical and
+      Acoustic-Prosodic Information
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Trang</FirstName>
+<SecondName>Tran</SecondName>
+</Author>
+<Author>
+<FirstName>Shubham</FirstName>
+<SecondName>Toshniwal</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Gimpel</SecondName>
+</Author>
+<Author>
+<FirstName>Karen</FirstName>
+<SecondName>Livescu</SecondName>
+</Author>
+<Author>
+<FirstName>Mari</FirstName>
+<SecondName>Ostendorf</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1008">
+<title>Tied Multitask Learning for Neural Speech Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Antonios</FirstName>
+<SecondName>Anastasopoulos</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1009">
+<title>Please Clap: Modeling Applause in Campaign Speeches</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>Gillick</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Bamman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1010">
+<title>Attentive Interaction Model: Modeling Changes in View in Argumentation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yohan</FirstName>
+<SecondName>Jo</SecondName>
+</Author>
+<Author>
+<FirstName>Shivani</FirstName>
+<SecondName>Poddar</SecondName>
+</Author>
+<Author>
+<FirstName>Byungsoo</FirstName>
+<SecondName>Jeon</SecondName>
+</Author>
+<Author>
+<FirstName>Qinlan</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Carolyn</FirstName>
+<SecondName>Rose</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1011">
+<title>
+      Automatic Focus Annotation: Bringing Formal Pragmatics Alive in Analyzing
+      the Information Structure of Authentic Data
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ramon</FirstName>
+<SecondName>Ziai</SecondName>
+</Author>
+<Author>
+<FirstName>Detmar</FirstName>
+<SecondName>Meurers</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1012">
+<title>
+      Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks
+      and Metrics for Formality Style Transfer
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Sudha</FirstName>
+<SecondName>Rao</SecondName>
+</Author>
+<Author>
+<FirstName>Joel</FirstName>
+<SecondName>Tetreault</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1013">
+<title>
+      Improving Implicit Discourse Relation Classification by Modeling
+      Inter-dependencies of Discourse Units in a Paragraph
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Zeyu</FirstName>
+<SecondName>Dai</SecondName>
+</Author>
+<Author>
+<FirstName>Ruihong</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1014">
+<title>
+      A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural
+      Language Generation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Juraj</FirstName>
+<SecondName>Juraska</SecondName>
+</Author>
+<Author>
+<FirstName>Panagiotis</FirstName>
+<SecondName>Karagiannis</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Bowden</SecondName>
+</Author>
+<Author>
+<FirstName>Marilyn</FirstName>
+<SecondName>Walker</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1015">
+<title>A Melody-Conditioned Lyrics Language Model</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>A</FirstName>
+<SecondName>Melody-Conditioned</SecondName>
+</Author>
+<Author>
+<FirstName>Kento</FirstName>
+<SecondName>Watanabe</SecondName>
+</Author>
+<Author>
+<FirstName>Yuichiroh</FirstName>
+<SecondName>Matsubayashi</SecondName>
+</Author>
+<Author>
+<FirstName>Satoru</FirstName>
+<SecondName>Fukayama</SecondName>
+</Author>
+<Author>
+<FirstName>Masataka</FirstName>
+<SecondName>Goto</SecondName>
+</Author>
+<Author>
+<FirstName>Kentaro</FirstName>
+<SecondName>Inui</SecondName>
+</Author>
+<Author>
+<FirstName>Tomoyasu</FirstName>
+<SecondName>Nakano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1016">
+<title>Discourse-Aware Neural Rewards for Coherent Text Generation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Antoine</FirstName>
+<SecondName>Bosselut</SecondName>
+</Author>
+<Author>
+<FirstName>Asli</FirstName>
+<SecondName>Celikyilmaz</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Jianfeng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Po-Sen</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1017">
+<title>Natural Answer Generation with Heterogeneous Memory</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yao</FirstName>
+<SecondName>Fu</SecondName>
+</Author>
+<Author>
+<FirstName>Yansong</FirstName>
+<SecondName>Feng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1018">
+<title>
+      Query and Output: Generating Words by Querying Distributed Word
+      Representations for Paraphrase Generation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shuming</FirstName>
+<SecondName>Ma</SecondName>
+</Author>
+<Author>
+<FirstName>Xu</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Sujian</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Wenjie</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Xuancheng</FirstName>
+<SecondName>Ren</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1019">
+<title>Simplification Using Paraphrases and Context-Based Lexical Substitution</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Reno</FirstName>
+<SecondName>Kriz</SecondName>
+</Author>
+<Author>
+<FirstName>Eleni</FirstName>
+<SecondName>Miltsakaki</SecondName>
+</Author>
+<Author>
+<FirstName>Marianna</FirstName>
+<SecondName>Apidianaki</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Callison-Burch</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1020">
+<title>
+      Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates
+      and Entity Types
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hady</FirstName>
+<SecondName>Elsahar</SecondName>
+</Author>
+<Author>
+<FirstName>Christophe</FirstName>
+<SecondName>Gravier</SecondName>
+</Author>
+<Author>
+<FirstName>Frederique</FirstName>
+<SecondName>Laforest</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1021">
+<title>Automated Essay Scoring in the Presence of Biased Ratings</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Evelin</FirstName>
+<SecondName>Amorim</SecondName>
+</Author>
+<Author>
+<FirstName>Marcia</FirstName>
+<SecondName>Can√ßado</SecondName>
+</Author>
+<Author>
+<FirstName>Adriano</FirstName>
+<SecondName>Veloso</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1022">
+<title>Content-Based Citation Recommendation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chandra</FirstName>
+<SecondName>Bhagavatula</SecondName>
+</Author>
+<Author>
+<FirstName>Sergey</FirstName>
+<SecondName>Feldman</SecondName>
+</Author>
+<Author>
+<FirstName>Russell</FirstName>
+<SecondName>Power</SecondName>
+</Author>
+<Author>
+<FirstName>Waleed</FirstName>
+<SecondName>Ammar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1023">
+<title>
+      Looking Beyond the Surface: A Challenge Set for Reading Comprehension over
+      Multiple Sentences
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Khashabi</SecondName>
+</Author>
+<Author>
+<FirstName>Snigdha</FirstName>
+<SecondName>Chaturvedi</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+<Author>
+<FirstName>Shyam</FirstName>
+<SecondName>Upadhyay</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1024">
+<title>
+      Neural Automated Essay Scoring and Coherence Modeling for Adversarially
+      Crafted Input
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Youmna</FirstName>
+<SecondName>Farag</SecondName>
+</Author>
+<Author>
+<FirstName>Helen</FirstName>
+<SecondName>Yannakoudakis</SecondName>
+</Author>
+<Author>
+<FirstName>Ted</FirstName>
+<SecondName>Briscoe</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1025">
+<title>QuickEdit: Editing Text & Translations by Crossing Words Out</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Grangier</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Auli</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1026">
+<title>
+      Tempo-Lexical Context Driven Word Embedding for Cross-Session Search Task
+      Extraction
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Procheta</FirstName>
+<SecondName>Sen</SecondName>
+</Author>
+<Author>
+<FirstName>Debasis</FirstName>
+<SecondName>Ganguly</SecondName>
+</Author>
+<Author>
+<FirstName>Gareth</FirstName>
+<SecondName>Jones</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1027">
+<title>Zero-Shot Sequence Labeling: Transferring Knowledge from Sentences to Tokens</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marek</FirstName>
+<SecondName>Rei</SecondName>
+</Author>
+<Author>
+<FirstName>Anders</FirstName>
+<SecondName>S√∏gaard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1028">
+<title>Variable Typing: Assigning Meaning to Variables in Mathematical Text</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Variable</FirstName>
+<SecondName>Typing:</SecondName>
+</Author>
+<Author>
+<FirstName>Yiannos</FirstName>
+<SecondName>Stathopoulos</SecondName>
+</Author>
+<Author>
+<FirstName>Simon</FirstName>
+<SecondName>Baker</SecondName>
+</Author>
+<Author>
+<FirstName>Marek</FirstName>
+<SecondName>Rei</SecondName>
+</Author>
+<Author>
+<FirstName>Simone</FirstName>
+<SecondName>Teufel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1029">
+<title>
+      Learning beyond Datasets: Knowledge Graph Augmented Neural Networks for
+      Natural Language Processing
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Annervaz</FirstName>
+<SecondName>K</SecondName>
+</Author>
+<Author>
+<FirstName>Somnath</FirstName>
+<SecondName>Basu</SecondName>
+</Author>
+<Author>
+<FirstName>Ambedkar</FirstName>
+<SecondName>Dukkipati</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1030">
+<title>Comparing Constraints for Taxonomic Organization</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Comparing</FirstName>
+<SecondName>Constraints</SecondName>
+</Author>
+<Author>
+<FirstName>Anne</FirstName>
+<SecondName>Cocos</SecondName>
+</Author>
+<Author>
+<FirstName>Marianna</FirstName>
+<SecondName>Apidianaki</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Callison-Burch</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1031">
+<title>Improving Lexical Choice in Neural Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Toan</FirstName>
+<SecondName>Nguyen</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1032">
+<title>Universal Neural Machine Translation for Extremely Low Resource Languages</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jiatao</FirstName>
+<SecondName>Gu</SecondName>
+</Author>
+<Author>
+<FirstName>Hany</FirstName>
+<SecondName>Hassan</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Devlin</SecondName>
+</Author>
+<Author>
+<FirstName>Victor</FirstName>
+<SecondName>O.K.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1033">
+<title>Classical Structured Prediction Losses for Sequence to Sequence Learning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sergey</FirstName>
+<SecondName>Edunov</SecondName>
+</Author>
+<Author>
+<FirstName>Myle</FirstName>
+<SecondName>Ott</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Auli</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Grangier</SecondName>
+</Author>
+<Author>
+<FirstName>Marc‚??Aurelio</FirstName>
+<SecondName>Ranzato</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1034">
+<title>Deep Dirichlet Multinomial Regression</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Adrian</FirstName>
+<SecondName>Benton</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Dredze</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1035">
+<title>
+      Microblog Conversation Recommendation via Joint Modeling of Topics and
+      Discourse
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xingshan</FirstName>
+<SecondName>Zeng</SecondName>
+</Author>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Lu</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Nicholas</FirstName>
+<SecondName>Beauchamp</SecondName>
+</Author>
+<Author>
+<FirstName>Sarah</FirstName>
+<SecondName>Shugars</SecondName>
+</Author>
+<Author>
+<FirstName>Kam-Fai</FirstName>
+<SecondName>Wong</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1036">
+<title>
+      Before Name-Calling: Dynamics and Triggers of Ad Hominem Fallacies in Web
+      Argumentation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Habernal</SecondName>
+</Author>
+<Author>
+<FirstName>Henning</FirstName>
+<SecondName>Wachsmuth</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+<Author>
+<FirstName>Benno</FirstName>
+<SecondName>Stein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1037">
+<title>Scene Graph Parsing as Dependency Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yu-Siang</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Chenxi</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaohui</FirstName>
+<SecondName>Zeng</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>Yuille</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1038">
+<title>Learning Visually Grounded Sentence Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Douwe</FirstName>
+<SecondName>Kiela</SecondName>
+</Author>
+<Author>
+<FirstName>Alexis</FirstName>
+<SecondName>Conneau</SecondName>
+</Author>
+<Author>
+<FirstName>Allan</FirstName>
+<SecondName>Jabri</SecondName>
+</Author>
+<Author>
+<FirstName>Maximilian</FirstName>
+<SecondName>Nickel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1039">
+<title>
+      Comparatives, Quantifiers, Proportions: a Multi-Task Model for the
+      Learning of Quantities from Vision
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sandro</FirstName>
+<SecondName>Pezzelle</SecondName>
+</Author>
+<Author>
+<FirstName>Ionut-Teodor</FirstName>
+<SecondName>Sorodoc</SecondName>
+</Author>
+<Author>
+<FirstName>Raffaella</FirstName>
+<SecondName>Bernardi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1040">
+<title>
+      Being Negative but Constructively: Lessons Learnt from Creating Better
+      Visual Question Answering Datasets
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Wei-Lun</FirstName>
+<SecondName>Chao</SecondName>
+</Author>
+<Author>
+<FirstName>Hexiang</FirstName>
+<SecondName>Hu</SecondName>
+</Author>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Sha</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1041">
+<title>Abstract Meaning Representation for Paraphrase Detection</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fuad</FirstName>
+<SecondName>Issa</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Damonte</SecondName>
+</Author>
+<Author>
+<FirstName>Shay</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaohui</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1042">
+<title>
+      attr2vec: Jointly Learning Word and Contextual Attribute Embeddings with
+      Factorization Machines
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fabio</FirstName>
+<SecondName>Petroni</SecondName>
+</Author>
+<Author>
+<FirstName>Vassilis</FirstName>
+<SecondName>Plachouras</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Nugent</SecondName>
+</Author>
+<Author>
+<FirstName>Jochen</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1043">
+<title>
+      Can Network Embedding of Distributional Thesaurus Be Combined with Word
+      Vectors for Better Representation?
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Abhik</FirstName>
+<SecondName>Jana</SecondName>
+</Author>
+<Author>
+<FirstName>Pawan</FirstName>
+<SecondName>Goyal</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1044">
+<title>Deep Neural Models of Semantic Shift</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Deep</FirstName>
+<SecondName>Neural</SecondName>
+</Author>
+<Author>
+<FirstName>Alex</FirstName>
+<SecondName>Rosenfeld</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Erk</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1045">
+<title>Distributional Inclusion Vector Embedding for Unsupervised Hypernymy Detection</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Distributional</FirstName>
+<SecondName>Inclusion</SecondName>
+</Author>
+<Author>
+<FirstName>Haw-Shiuan</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Ziyun</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Vilnis</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>McCallum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1046">
+<title>Mining Possessions: Existence, Type and Temporal Anchors</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dhivya</FirstName>
+<SecondName>Chinnappa</SecondName>
+</Author>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>Blanco</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1047">
+<title>Neural Tensor Networks with Diagonal Slice Matrices</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Takahiro</FirstName>
+<SecondName>Ishihara</SecondName>
+</Author>
+<Author>
+<FirstName>Katsuhiko</FirstName>
+<SecondName>Hayashi</SecondName>
+</Author>
+<Author>
+<FirstName>Hitoshi</FirstName>
+<SecondName>Manabe</SecondName>
+</Author>
+<Author>
+<FirstName>Masashi</FirstName>
+<SecondName>Shimbo</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1048">
+<title>Post-Specialisation: Retrofitting Vectors of Words Unseen in Lexical Resources</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Vuliƒ?</SecondName>
+</Author>
+<Author>
+<FirstName>Goran</FirstName>
+<SecondName>Glava≈°</SecondName>
+</Author>
+<Author>
+<FirstName>Nikola</FirstName>
+<SecondName>Mrk≈°iƒ?</SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Korhonen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1049">
+<title>
+      Unsupervised Learning of Sentence Embeddings Using Compositional n-Gram
+      Features
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Matteo</FirstName>
+<SecondName>Pagliardini</SecondName>
+</Author>
+<Author>
+<FirstName>Prakhar</FirstName>
+<SecondName>Gupta</SecondName>
+</Author>
+<Author>
+<FirstName>Martin</FirstName>
+<SecondName>Jaggi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1050">
+<title>Learning Domain Representation for Multi-Domain Sentiment Classification</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jiangming</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1051">
+<title>
+      Learning Sentence Representations over Tree Structures for
+      Target-Dependent Classification
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Junwen</FirstName>
+<SecondName>Duan</SecondName>
+</Author>
+<Author>
+<FirstName>Xiao</FirstName>
+<SecondName>Ding</SecondName>
+</Author>
+<Author>
+<FirstName>Ting</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1052">
+<title>Relevant Emotion Ranking from Text Constrained with Emotion Relationships</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Deyu</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Yang</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Yulan</FirstName>
+<SecondName>He</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1053">
+<title>
+      Solving Data Sparsity for Aspect Based Sentiment Analysis Using
+      Cross-Linguality and Multi-Linguality
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Md</FirstName>
+<SecondName>Shad</SecondName>
+</Author>
+<Author>
+<FirstName>Palaash</FirstName>
+<SecondName>Sawant</SecondName>
+</Author>
+<Author>
+<FirstName>Sukanta</FirstName>
+<SecondName>Sen</SecondName>
+</Author>
+<Author>
+<FirstName>Asif</FirstName>
+<SecondName>Ekbal</SecondName>
+</Author>
+<Author>
+<FirstName>Pushpak</FirstName>
+<SecondName>Bhattacharyya</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1054">
+<title>
+      SRL4ORL: Improving Opinion Role Labeling Using Multi-Task Learning with
+      Semantic Role Labeling
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ana</FirstName>
+<SecondName>Marasoviƒ?</SecondName>
+</Author>
+<Author>
+<FirstName>Anette</FirstName>
+<SecondName>Frank</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1055">
+<title>
+      Approaching Neural Grammatical Error Correction as a Low-Resource Machine
+      Translation Task
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marcin</FirstName>
+<SecondName>Junczys-Dowmunt</SecondName>
+</Author>
+<Author>
+<FirstName>Roman</FirstName>
+<SecondName>Grundkiewicz</SecondName>
+</Author>
+<Author>
+<FirstName>Shubha</FirstName>
+<SecondName>Guha</SecondName>
+</Author>
+<Author>
+<FirstName>Kenneth</FirstName>
+<SecondName>Heafield</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1056">
+<title>Robust Cross-Lingual Hypernymy Detection Using Dependency Context</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shyam</FirstName>
+<SecondName>Upadhyay</SecondName>
+</Author>
+<Author>
+<FirstName>Yogarshi</FirstName>
+<SecondName>Vyas</SecondName>
+</Author>
+<Author>
+<FirstName>Marine</FirstName>
+<SecondName>Carpuat</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1057">
+<title>
+      Noising and Denoising Natural Language: Diverse Backtranslation for
+      Grammar Correction
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ziang</FirstName>
+<SecondName>Xie</SecondName>
+</Author>
+<Author>
+<FirstName>Guillaume</FirstName>
+<SecondName>Genthial</SecondName>
+</Author>
+<Author>
+<FirstName>Stanley</FirstName>
+<SecondName>Xie</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1058">
+<title>Self-Training for Jointly Learning to Ask and Answer Questions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mrinmaya</FirstName>
+<SecondName>Sachan</SecondName>
+</Author>
+<Author>
+<FirstName>Eric</FirstName>
+<SecondName>Xing</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1059">
+<title>The Web as a Knowledge-Base for Answering Complex Questions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>The</FirstName>
+<SecondName>Web</SecondName>
+</Author>
+<Author>
+<FirstName>Alon</FirstName>
+<SecondName>Talmor</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Berant</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1060">
+<title>A Meaning-Based Statistical English Math Word Problem Solver</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chao-Chun</FirstName>
+<SecondName>Liang</SecondName>
+</Author>
+<Author>
+<FirstName>Yu-Shiang</FirstName>
+<SecondName>Wong</SecondName>
+</Author>
+<Author>
+<FirstName>Yi-Chung</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Keh-Yih</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1061">
+<title>
+      Fine-Grained Temporal Orientation and its Relationship with
+      Psycho-Demographic Correlates
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sabyasachi</FirstName>
+<SecondName>Kamila</SecondName>
+</Author>
+<Author>
+<FirstName>Mohammed</FirstName>
+<SecondName>Hasanuzzaman</SecondName>
+</Author>
+<Author>
+<FirstName>Asif</FirstName>
+<SecondName>Ekbal</SecondName>
+</Author>
+<Author>
+<FirstName>Pushpak</FirstName>
+<SecondName>Bhattacharyya</SecondName>
+</Author>
+<Author>
+<FirstName>Andy</FirstName>
+<SecondName>Way</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1062">
+<title>Querying Word Embeddings for Similarity and Relatedness</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fatemeh</FirstName>
+<SecondName>Torabi</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Zinkov</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Jones</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1063">
+<title>Semantic Structural Evaluation for Text Simplification</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Elior</FirstName>
+<SecondName>Sulem</SecondName>
+</Author>
+<Author>
+<FirstName>Omri</FirstName>
+<SecondName>Abend</SecondName>
+</Author>
+<Author>
+<FirstName>Ari</FirstName>
+<SecondName>Rappoport</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1064">
+<title>Entity Commonsense Representation for Neural Abstractive Summarization</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Reinald</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Seonjae</FirstName>
+<SecondName>Lim</SecondName>
+</Author>
+<Author>
+<FirstName>Seung-won</FirstName>
+<SecondName>Hwang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1065">
+<title>Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Max</FirstName>
+<SecondName>Grusky</SecondName>
+</Author>
+<Author>
+<FirstName>Mor</FirstName>
+<SecondName>Naaman</SecondName>
+</Author>
+<Author>
+<FirstName>Yoav</FirstName>
+<SecondName>Artzi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1066">
+<title>Polyglot Semantic Parsing in APIs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Polyglot</FirstName>
+<SecondName>Semantic</SecondName>
+</Author>
+<Author>
+<FirstName>Kyle</FirstName>
+<SecondName>Richardson</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Berant</SecondName>
+</Author>
+<Author>
+<FirstName>Jonas</FirstName>
+<SecondName>Kuhn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1067">
+<title>Neural Models of Factuality</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Rachel</FirstName>
+<SecondName>Rudinger</SecondName>
+</Author>
+<Author>
+<FirstName>Aaron</FirstName>
+<SecondName>Steven</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1068">
+<title>Accurate Text-Enhanced Knowledge Graph Representation Learning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>An</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Xianpei</FirstName>
+<SecondName>Han</SecondName>
+</Author>
+<Author>
+<FirstName>Le</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1069">
+<title>Acquisition of Phrase Correspondences Using Natural Deduction Proofs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hitomi</FirstName>
+<SecondName>Yanaka</SecondName>
+</Author>
+<Author>
+<FirstName>Koji</FirstName>
+<SecondName>Mineshima</SecondName>
+</Author>
+<Author>
+<FirstName>Pascual</FirstName>
+<SecondName>Mart√≠nez-G√≥mez</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Bekki</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1070">
+<title>Automatic Stance Detection Using End-to-End Memory Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mitra</FirstName>
+<SecondName>Mohtarami</SecondName>
+</Author>
+<Author>
+<FirstName>Ramy</FirstName>
+<SecondName>Baly</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+<Author>
+<FirstName>Preslav</FirstName>
+<SecondName>Nakov</SecondName>
+</Author>
+<Author>
+<FirstName>Llu√≠s</FirstName>
+<SecondName>M√ rquez</SecondName>
+</Author>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Moschitti</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1071">
+<title>Collective Entity Disambiguation with Structured Gradient Tree Boosting</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Ozan</FirstName>
+<SecondName>Irsoy</SecondName>
+</Author>
+<Author>
+<FirstName>Kazi</FirstName>
+<SecondName>Shefaet</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1072">
+<title>DeepAlignment: Unsupervised Ontology Matching with Refined Word Vectors</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Prodromos</FirstName>
+<SecondName>Kolyvakis</SecondName>
+</Author>
+<Author>
+<FirstName>Alexandros</FirstName>
+<SecondName>Kalousis</SecondName>
+</Author>
+<Author>
+<FirstName>Dimitris</FirstName>
+<SecondName>Kiritsis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1073">
+<title>Efficient Sequence Learning with Group Recurrent Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Lijun</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Qin</SecondName>
+</Author>
+<Author>
+<FirstName>Xueqi</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Tie-Yan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1074">
+<title>FEVER: a Large-scale Dataset for Fact Extraction and VERification</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>FEVER:</FirstName>
+<SecondName>a</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Thorne</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Vlachos</SecondName>
+</Author>
+<Author>
+<FirstName>Christos</FirstName>
+<SecondName>Christodoulopoulos</SecondName>
+</Author>
+<Author>
+<FirstName>Arpit</FirstName>
+<SecondName>Mittal</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1075">
+<title>Global Relation Embedding for Relation Extraction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Honglei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Semih</FirstName>
+<SecondName>Yavuz</SecondName>
+</Author>
+<Author>
+<FirstName>Izzeddin</FirstName>
+<SecondName>Gur</SecondName>
+</Author>
+<Author>
+<FirstName>Huan</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Xifeng</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1076">
+<title>Implicit Argument Prediction with Event Knowledge</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Implicit</FirstName>
+<SecondName>Argument</SecondName>
+</Author>
+<Author>
+<FirstName>Pengxiang</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Erk</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1077">
+<title>
+      Improving Temporal Relation Extraction with a Globally Acquired
+      Statistical Resource
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Qiang</FirstName>
+<SecondName>Ning</SecondName>
+</Author>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Haoruo</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1078">
+<title>Multimodal Named Entity Recognition for Short Social Media Posts</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Seungwhan</FirstName>
+<SecondName>Moon</SecondName>
+</Author>
+<Author>
+<FirstName>Leonardo</FirstName>
+<SecondName>Neves</SecondName>
+</Author>
+<Author>
+<FirstName>Vitor</FirstName>
+<SecondName>Carvalho</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1079">
+<title>Nested Named Entity Recognition Revisited</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Arzoo</FirstName>
+<SecondName>Katiyar</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1080">
+<title>
+      Simultaneously Self-Attending to All Mentions for Full-Abstract Biological
+      Relation Extraction
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Patrick</FirstName>
+<SecondName>Verga</SecondName>
+</Author>
+<Author>
+<FirstName>Emma</FirstName>
+<SecondName>Strubell</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>McCallum</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1081">
+<title>Supervised Open Information Extraction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>Stanovsky</SecondName>
+</Author>
+<Author>
+<FirstName>Julian</FirstName>
+<SecondName>Michael</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1082">
+<title>Embedding Syntax and Semantics of Prepositions via Tensor Decomposition</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hongyu</FirstName>
+<SecondName>Gong</SecondName>
+</Author>
+<Author>
+<FirstName>Suma</FirstName>
+<SecondName>Bhat</SecondName>
+</Author>
+<Author>
+<FirstName>Pramod</FirstName>
+<SecondName>Viswanath</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1083">
+<title>
+      From Phonology to Syntax: Unsupervised Linguistic Typology at Different
+      Levels with Language Embeddings
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Johannes</FirstName>
+<SecondName>Bjerva</SecondName>
+</Author>
+<Author>
+<FirstName>Isabelle</FirstName>
+<SecondName>Augenstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1084">
+<title>Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Katherine</FirstName>
+<SecondName>Keith</SecondName>
+</Author>
+<Author>
+<FirstName>Su</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Brendan</FirstName>
+<SecondName>O‚??Connor</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1085">
+<title>Neural Particle Smoothing for Sampling from Conditional Sequence Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Neural</FirstName>
+<SecondName>Particle</SecondName>
+</Author>
+<Author>
+<FirstName>Chu-Cheng</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1086">
+<title>Neural Syntactic Generative Models with Exact Marginalization</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jan</FirstName>
+<SecondName>Buys</SecondName>
+</Author>
+<Author>
+<FirstName>Phil</FirstName>
+<SecondName>Blunsom</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1087">
+<title>Noise-Robust Morphological Disambiguation for Dialectal Arabic</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Nasser</FirstName>
+<SecondName>Zalmout</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Erdmann</SecondName>
+</Author>
+<Author>
+<FirstName>Nizar</FirstName>
+<SecondName>Habash</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1088">
+<title>Parsing Tweets into Universal Dependencies</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yijia</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Wanxiang</FirstName>
+<SecondName>Che</SecondName>
+</Author>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Qin</SecondName>
+</Author>
+<Author>
+<FirstName>Nathan</FirstName>
+<SecondName>Schneider</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1089">
+<title>Robust Multilingual Part-of-Speech Tagging via Adversarial Training</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Michihiro</FirstName>
+<SecondName>Yasunaga</SecondName>
+</Author>
+<Author>
+<FirstName>Jungo</FirstName>
+<SecondName>Kasai</SecondName>
+</Author>
+<Author>
+<FirstName>Dragomir</FirstName>
+<SecondName>Radev</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1090">
+<title>Universal Dependency Parsing for Hindi-English Code-Switching</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Irshad</FirstName>
+<SecondName>Bhat</SecondName>
+</Author>
+<Author>
+<FirstName>Riyaz</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Manish</FirstName>
+<SecondName>Shrivastava</SecondName>
+</Author>
+<Author>
+<FirstName>Dipti</FirstName>
+<SecondName>Sharma</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1091">
+<title>What‚??s Going On in Neural Constituency Parsers? An Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>What‚??s</FirstName>
+<SecondName>Going</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Gaddy</SecondName>
+</Author>
+<Author>
+<FirstName>Mitchell</FirstName>
+<SecondName>Stern</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1092">
+<title>Deep Generative Model for Joint Alignment and Word Representation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Miguel</FirstName>
+<SecondName>Rios</SecondName>
+</Author>
+<Author>
+<FirstName>Wilker</FirstName>
+<SecondName>Aziz</SecondName>
+</Author>
+<Author>
+<FirstName>Khalil</FirstName>
+<SecondName>Simaan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1093">
+<title>Learning Word Embeddings for Low-Resource Languages by PU Learning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Learning</FirstName>
+<SecondName>Word</SecondName>
+</Author>
+<Author>
+<FirstName>Chao</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Hsiang-Fu</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Cho-Jui</FirstName>
+<SecondName>Hsieh</SecondName>
+</Author>
+<Author>
+<FirstName>Kai-Wei</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1094">
+<title>Exploring the Role of Prior Beliefs for Argument Persuasion</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Esin</FirstName>
+<SecondName>Durmus</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1095">
+<title>Inducing a Lexicon of Abusive Words ‚?? a Feature-Based Approach</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Wiegand</SecondName>
+</Author>
+<Author>
+<FirstName>Josef</FirstName>
+<SecondName>Ruppenhofer</SecondName>
+</Author>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>Schmidt</SecondName>
+</Author>
+<Author>
+<FirstName>Clayton</FirstName>
+<SecondName>Greenberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1096">
+<title>
+      Author Commitment and Social Power: Automatic Belief Tagging to Infer the
+      Social Context of Interactions
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vinodkumar</FirstName>
+<SecondName>Prabhakaran</SecondName>
+</Author>
+<Author>
+<FirstName>Premkumar</FirstName>
+<SecondName>Ganeshkumar</SecondName>
+</Author>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1097">
+<title>
+      Comparing Automatic and Human Evaluation of Local Explanations for Text
+      Classification
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dong</FirstName>
+<SecondName>Nguyen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1098">
+<title>Deep Temporal-Recurrent-Replicated-Softmax for Topical Trends over Time</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Pankaj</FirstName>
+<SecondName>Gupta</SecondName>
+</Author>
+<Author>
+<FirstName>Subburam</FirstName>
+<SecondName>Rajaram</SecondName>
+</Author>
+<Author>
+<FirstName>Hinrich</FirstName>
+<SecondName>Sch√ºtze</SecondName>
+</Author>
+<Author>
+<FirstName>Bernt</FirstName>
+<SecondName>Andrassy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1099">
+<title>
+      Lessons from the Bible on Modern Topics: Low-Resource Multilingual Topic
+      Model Evaluation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shudong</FirstName>
+<SecondName>Hao</SecondName>
+</Author>
+<Author>
+<FirstName>Jordan</FirstName>
+<SecondName>Boyd-Graber</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1100">
+<title>Explainable Prediction of Medical Codes from Clinical Text</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Mullenbach</SecondName>
+</Author>
+<Author>
+<FirstName>Sarah</FirstName>
+<SecondName>Wiegreffe</SecondName>
+</Author>
+<Author>
+<FirstName>Jon</FirstName>
+<SecondName>Duke</SecondName>
+</Author>
+<Author>
+<FirstName>Jimeng</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1101">
+<title>A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Adina</FirstName>
+<SecondName>Williams</SecondName>
+</Author>
+<Author>
+<FirstName>Nikita</FirstName>
+<SecondName>Nangia</SecondName>
+</Author>
+<Author>
+<FirstName>Samuel</FirstName>
+<SecondName>Bowman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1102">
+<title>
+      Filling Missing Paths: Modeling Co-occurrences of Word Pairs and
+      Dependency Paths for Recognizing Lexical Semantic Relations
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Koki</FirstName>
+<SecondName>Washio</SecondName>
+</Author>
+<Author>
+<FirstName>Tsuneaki</FirstName>
+<SecondName>Kato</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1103">
+<title>Specialising Word Vectors for Lexical Entailment</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Vuliƒ?</SecondName>
+</Author>
+<Author>
+<FirstName>Nikola</FirstName>
+<SecondName>Mrk≈°iƒ?</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1104">
+<title>Cross-Lingual Abstract Meaning Representation Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Damonte</SecondName>
+</Author>
+<Author>
+<FirstName>Shay</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1105">
+<title>Sentences with Gapping: Parsing and Reconstructing Elided Predicates</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Schuster</SecondName>
+</Author>
+<Author>
+<FirstName>Joakim</FirstName>
+<SecondName>Nivre</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1106">
+<title>A Structured Syntax-Semantics Interface for English-AMR Alignment</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ida</FirstName>
+<SecondName>Szubert</SecondName>
+</Author>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Lopez</SecondName>
+</Author>
+<Author>
+<FirstName>Nathan</FirstName>
+<SecondName>Schneider</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1107">
+<title>End-to-End Graph-Based TAG Parsing with Neural Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jungo</FirstName>
+<SecondName>Kasai</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Frank</SecondName>
+</Author>
+<Author>
+<FirstName>Pauli</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Merrill</SecondName>
+</Author>
+<Author>
+<FirstName>Owen</FirstName>
+<SecondName>Rambow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1108">
+<title>Colorless Green Recurrent Networks Dream Hierarchically</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Gulordava</SecondName>
+</Author>
+<Author>
+<FirstName>Piotr</FirstName>
+<SecondName>Bojanowski</SecondName>
+</Author>
+<Author>
+<FirstName>Edouard</FirstName>
+<SecondName>Grave</SecondName>
+</Author>
+<Author>
+<FirstName>Tal</FirstName>
+<SecondName>Linzen</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Baroni</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1109">
+<title>Diverse Few-Shot Text Classification with Multiple Metrics</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Diverse</FirstName>
+<SecondName>Few-Shot</SecondName>
+</Author>
+<Author>
+<FirstName>Mo</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoxiao</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Jinfeng</FirstName>
+<SecondName>Yi</SecondName>
+</Author>
+<Author>
+<FirstName>Shiyu</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Saloni</FirstName>
+<SecondName>Potdar</SecondName>
+</Author>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Gerald</FirstName>
+<SecondName>Tesauro</SecondName>
+</Author>
+<Author>
+<FirstName>Haoyu</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Bowen</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1110">
+<title>Early Text Classification Using Multi-Resolution Concept Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Adrian</FirstName>
+<SecondName>Pastor</SecondName>
+</Author>
+<Author>
+<FirstName>Fabio</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Manuel</FirstName>
+<SecondName>Montes</SecondName>
+</Author>
+<Author>
+<FirstName>Hugo</FirstName>
+<SecondName>Jair</SecondName>
+</Author>
+<Author>
+<FirstName>Thamar</FirstName>
+<SecondName>Solorio</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1111">
+<title>Multinomial Adversarial Networks for Multi-Domain Text Classification</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Multinomial</FirstName>
+<SecondName>Adversarial</SecondName>
+</Author>
+<Author>
+<FirstName>Xilun</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1112">
+<title>Pivot Based Language Modeling for Improved Neural Domain Adaptation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yftah</FirstName>
+<SecondName>Ziser</SecondName>
+</Author>
+<Author>
+<FirstName>Roi</FirstName>
+<SecondName>Reichart</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1113">
+<title>Reinforced Co-Training</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jiawei</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Lei</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1114">
+<title>Tensor Product Generation Networks for Deep NLP Modeling</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Qiuyuan</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>Smolensky</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Li</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+<Author>
+<FirstName>Dapeng</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1115">
+<title>The Context-Dependent Additive Recurrent Neural Net</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Quan</FirstName>
+<SecondName>Hung</SecondName>
+</Author>
+<Author>
+<FirstName>Tuan</FirstName>
+<SecondName>Lai</SecondName>
+</Author>
+<Author>
+<FirstName>Gholamreza</FirstName>
+<SecondName>Haffari</SecondName>
+</Author>
+<Author>
+<FirstName>Ingrid</FirstName>
+<SecondName>Zukerman</SecondName>
+</Author>
+<Author>
+<FirstName>Trung</FirstName>
+<SecondName>Bui</SecondName>
+</Author>
+<Author>
+<FirstName>Hung</FirstName>
+<SecondName>Bui</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1116">
+<title>
+      Combining Character and Word Information in Neural Machine Translation
+      Using a Multi-Level Attention
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Huadong</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Shujian</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Chiang</SecondName>
+</Author>
+<Author>
+<FirstName>Xinyu</FirstName>
+<SecondName>Dai</SecondName>
+</Author>
+<Author>
+<FirstName>Jiajun</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1117">
+<title>Dense Information Flow for Neural Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yanyao</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Xu</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+<Author>
+<FirstName>Di</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Qin</SecondName>
+</Author>
+<Author>
+<FirstName>Tie-Yan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1118">
+<title>Evaluating Discourse Phenomena in Neural Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Evaluating</FirstName>
+<SecondName>Discourse</SecondName>
+</Author>
+<Author>
+<FirstName>Rachel</FirstName>
+<SecondName>Bawden</SecondName>
+</Author>
+<Author>
+<FirstName>Rico</FirstName>
+<SecondName>Sennrich</SecondName>
+</Author>
+<Author>
+<FirstName>Alexandra</FirstName>
+<SecondName>Birch</SecondName>
+</Author>
+<Author>
+<FirstName>Barry</FirstName>
+<SecondName>Haddow</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1119">
+<title>
+      Fast Lexically Constrained Decoding with Dynamic Beam Allocation for
+      Neural Machine Translation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Matt</FirstName>
+<SecondName>Post</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Vilar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1120">
+<title>Guiding Neural Machine Translation with Retrieved Translation Pieces</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jingyi</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Masao</FirstName>
+<SecondName>Utiyama</SecondName>
+</Author>
+<Author>
+<FirstName>Eiichro</FirstName>
+<SecondName>Sumita</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Satoshi</FirstName>
+<SecondName>Nakamura</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1121">
+<title>Handling Homographs in Neural Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Frederick</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Han</FirstName>
+<SecondName>Lu</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1122">
+<title>
+      Improving Neural Machine Translation with Conditional Sequence Generative
+      Adversarial Nets
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Zhen</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Feng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1123">
+<title>
+      Neural Machine Translation for Bilingually Scarce Scenarios: a Deep
+      Multi-Task Learning Approach
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Poorya</FirstName>
+<SecondName>Zaremoodi</SecondName>
+</Author>
+<Author>
+<FirstName>Gholamreza</FirstName>
+<SecondName>Haffari</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1124">
+<title>Self-Attentive Residual Decoder for Neural Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Self-Attentive</FirstName>
+<SecondName>Residual</SecondName>
+</Author>
+<Author>
+<FirstName>Lesly</FirstName>
+<SecondName>Miculicich</SecondName>
+</Author>
+<Author>
+<FirstName>Nikolaos</FirstName>
+<SecondName>Pappas</SecondName>
+</Author>
+<Author>
+<FirstName>Dhananjay</FirstName>
+<SecondName>Ram</SecondName>
+</Author>
+<Author>
+<FirstName>Andrei</FirstName>
+<SecondName>Popescu-Belis</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1125">
+<title>Target Foresight Based Attention for Neural Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xintong</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Lemao</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Zhaopeng</FirstName>
+<SecondName>Tu</SecondName>
+</Author>
+<Author>
+<FirstName>Shuming</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Max</FirstName>
+<SecondName>Meng</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1126">
+<title>Context Sensitive Neural Lemmatization with Lematus</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Toms</FirstName>
+<SecondName>Bergmanis</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Goldwater</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1127">
+<title>
+      Modeling Noisiness to Recognize Named Entities using Multitask Neural
+      Networks on Social Media
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gustavo</FirstName>
+<SecondName>Aguilar</SecondName>
+</Author>
+<Author>
+<FirstName>Adrian</FirstName>
+<SecondName>Pastor</SecondName>
+</Author>
+<Author>
+<FirstName>Fabio</FirstName>
+<SecondName>Gonz√°lez</SecondName>
+</Author>
+<Author>
+<FirstName>Thamar</FirstName>
+<SecondName>Solorio</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1128">
+<title>Reusing Weights in Subword-Aware Neural Language Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Zhenisbek</FirstName>
+<SecondName>Assylbekov</SecondName>
+</Author>
+<Author>
+<FirstName>Rustem</FirstName>
+<SecondName>Takhanov</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1129">
+<title>Simple Models for Word Formation in Slang</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vivek</FirstName>
+<SecondName>Kulkarni</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1130">
+<title>Using Morphological Knowledge in Open-Vocabulary Neural Language Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Austin</FirstName>
+<SecondName>Matthews</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Dyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1131">
+<title>A Neural Layered Model for Nested Named Entity Recognition</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Meizhi</FirstName>
+<SecondName>Ju</SecondName>
+</Author>
+<Author>
+<FirstName>Makoto</FirstName>
+<SecondName>Miwa</SecondName>
+</Author>
+<Author>
+<FirstName>Sophia</FirstName>
+<SecondName>Ananiadou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1132">
+<title>DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>DR-BiLSTM:</FirstName>
+<SecondName>Dependent</SecondName>
+</Author>
+<Author>
+<FirstName>Reza</FirstName>
+<SecondName>Ghaeini</SecondName>
+</Author>
+<Author>
+<FirstName>Sadid</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Vivek</FirstName>
+<SecondName>Datla</SecondName>
+</Author>
+<Author>
+<FirstName>Joey</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Kathy</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Ashequl</FirstName>
+<SecondName>Qadir</SecondName>
+</Author>
+<Author>
+<FirstName>Yuan</FirstName>
+<SecondName>Ling</SecondName>
+</Author>
+<Author>
+<FirstName>Aaditya</FirstName>
+<SecondName>Prakash</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaoli</FirstName>
+<SecondName>Fern</SecondName>
+</Author>
+<Author>
+<FirstName>Oladimeji</FirstName>
+<SecondName>Farri</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1133">
+<title>KBGAN: Adversarial Learning for Knowledge Graph Embeddings</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>KBGAN:</FirstName>
+<SecondName>Adversarial</SecondName>
+</Author>
+<Author>
+<FirstName>Liwei</FirstName>
+<SecondName>Cai</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1134">
+<title>Multimodal Frame Identification with Multilingual Evaluation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Teresa</FirstName>
+<SecondName>Botschen</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+<Author>
+<FirstName>Jan-Christoph</FirstName>
+<SecondName>Klie</SecondName>
+</Author>
+<Author>
+<FirstName>Hatem</FirstName>
+<SecondName>Mousselly</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1135">
+<title>Learning Joint Semantic Parsers from Disjoint Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Sam</FirstName>
+<SecondName>Thomson</SecondName>
+</Author>
+<Author>
+<FirstName>Swabha</FirstName>
+<SecondName>Swayamdipta</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1136">
+<title>Identifying Semantic Divergences in Parallel Text without Annotations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Identifying</FirstName>
+<SecondName>Semantic</SecondName>
+</Author>
+<Author>
+<FirstName>Yogarshi</FirstName>
+<SecondName>Vyas</SecondName>
+</Author>
+<Author>
+<FirstName>Xing</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Marine</FirstName>
+<SecondName>Carpuat</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1137">
+<title>Bootstrapping Generators from Noisy Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Laura</FirstName>
+<SecondName>Perez-Beltrachini</SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1138">
+<title>SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ye</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Nan</FirstName>
+<SecondName>Ding</SecondName>
+</Author>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Soricut</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1139">
+<title>
+      Generating Descriptions from Structured Data Using a Bifocal Attention
+      Mechanism and Gated Orthogonalization
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Preksha</FirstName>
+<SecondName>Nema</SecondName>
+</Author>
+<Author>
+<FirstName>Shreyas</FirstName>
+<SecondName>Shetty</SecondName>
+</Author>
+<Author>
+<FirstName>Parag</FirstName>
+<SecondName>Jain</SecondName>
+</Author>
+<Author>
+<FirstName>Anirban</FirstName>
+<SecondName>Laha</SecondName>
+</Author>
+<Author>
+<FirstName>Karthik</FirstName>
+<SecondName>Sankaranarayanan</SecondName>
+</Author>
+<Author>
+<FirstName>Mitesh</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1140">
+<title>CliCR: a Dataset of Clinical Case Reports for Machine Reading Comprehension</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Simon</FirstName>
+<SecondName>Suster</SecondName>
+</Author>
+<Author>
+<FirstName>Walter</FirstName>
+<SecondName>Daelemans</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1141">
+<title>Learning to Collaborate for Question Answering and Asking</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Duyu</FirstName>
+<SecondName>Tang</SecondName>
+</Author>
+<Author>
+<FirstName>Nan</FirstName>
+<SecondName>Duan</SecondName>
+</Author>
+<Author>
+<FirstName>Zhao</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>Zhirui</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Yibo</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Shujie</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Yuanhua</FirstName>
+<SecondName>Lv</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1142">
+<title>
+      Learning to Rank Question-Answer Pairs Using Hierarchical Recurrent
+      Encoder with Latent Topic Clustering
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Seunghyun</FirstName>
+<SecondName>Yoon</SecondName>
+</Author>
+<Author>
+<FirstName>Joongbo</FirstName>
+<SecondName>Shin</SecondName>
+</Author>
+<Author>
+<FirstName>Kyomin</FirstName>
+<SecondName>Jung</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1143">
+<title>Supervised and Unsupervised Transfer Learning for Question Answering</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yu-An</FirstName>
+<SecondName>Chung</SecondName>
+</Author>
+<Author>
+<FirstName>Hung-yi</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1144">
+<title>
+      Tracking State Changes in Procedural Text: a Challenge Dataset and Models
+      for Process Paragraph Comprehension
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Bhavana</FirstName>
+<SecondName>Dalvi</SecondName>
+</Author>
+<Author>
+<FirstName>Lifu</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Niket</FirstName>
+<SecondName>Tandon</SecondName>
+</Author>
+<Author>
+<FirstName>Wen-tau</FirstName>
+<SecondName>Yih</SecondName>
+</Author>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1145">
+<title>
+      Combining Deep Learning and Topic Modeling for Review Understanding in
+      Context-Aware Recommendation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mingmin</FirstName>
+<SecondName>Jin</SecondName>
+</Author>
+<Author>
+<FirstName>Xin</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Huiling</FirstName>
+<SecondName>Zhu</SecondName>
+</Author>
+<Author>
+<FirstName>Hankz</FirstName>
+<SecondName>Hankui</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1146">
+<title>Deconfounded Lexicon Induction for Interpretable Social Science</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Reid</FirstName>
+<SecondName>Pryzant</SecondName>
+</Author>
+<Author>
+<FirstName>Kelly</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Jurafsky</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Wagner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1147">
+<title>
+      Detecting Denial-of-Service Attacks from Social Media Text: Applying NLP
+      to Computer Security
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Nathanael</FirstName>
+<SecondName>Chambers</SecondName>
+</Author>
+<Author>
+<FirstName>Ben</FirstName>
+<SecondName>Fry</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>McMasters</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1148">
+<title>The Importance of Calibration for Estimating Proportions from Annotations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>The</FirstName>
+<SecondName>Importance</SecondName>
+</Author>
+<Author>
+<FirstName>Dallas</FirstName>
+<SecondName>Card</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1149">
+<title>A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>A</FirstName>
+<SecondName>Dataset</SecondName>
+</Author>
+<Author>
+<FirstName>Dongyeop</FirstName>
+<SecondName>Kang</SecondName>
+</Author>
+<Author>
+<FirstName>Waleed</FirstName>
+<SecondName>Ammar</SecondName>
+</Author>
+<Author>
+<FirstName>Bhavana</FirstName>
+<SecondName>Dalvi</SecondName>
+</Author>
+<Author>
+<FirstName>Madeleine</FirstName>
+<SecondName>van</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Kohlmeier</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+<Author>
+<FirstName>Roy</FirstName>
+<SecondName>Schwartz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1150">
+<title>Deep Communicating Agents for Abstractive Summarization</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Asli</FirstName>
+<SecondName>Celikyilmaz</SecondName>
+</Author>
+<Author>
+<FirstName>Antoine</FirstName>
+<SecondName>Bosselut</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1151">
+<title>
+      Encoding Conversation Context for Neural Keyphrase Extraction from
+      Microblog Posts
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yingyi</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Yan</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Chengzhi</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1152">
+<title>Estimating Summary Quality with Pairwise Preferences</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Markus</FirstName>
+<SecondName>Zopf</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1153">
+<title>Generating Topic-Oriented Summaries Using Neural Attention</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kundan</FirstName>
+<SecondName>Krishna</SecondName>
+</Author>
+<Author>
+<FirstName>Balaji</FirstName>
+<SecondName>Vasan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1154">
+<title>Generative Bridging Network for Neural Sequence Prediction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Generative</FirstName>
+<SecondName>Bridging</SecondName>
+</Author>
+<Author>
+<FirstName>Wenhu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Guanlin</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Shuo</FirstName>
+<SecondName>Ren</SecondName>
+</Author>
+<Author>
+<FirstName>Shujie</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Zhirui</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Mu</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Ming</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1155">
+<title>Higher-Order Syntactic Attention Network for Longer Sentence Compression</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Higher-Order</FirstName>
+<SecondName>Syntactic</SecondName>
+</Author>
+<Author>
+<FirstName>Hidetaka</FirstName>
+<SecondName>Kamigaito</SecondName>
+</Author>
+<Author>
+<FirstName>Katsuhiko</FirstName>
+<SecondName>Hayashi</SecondName>
+</Author>
+<Author>
+<FirstName>Tsutomu</FirstName>
+<SecondName>Hirao</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1156">
+<title>Neural Storyline Extraction Model for Storyline Generation from News Articles</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Deyu</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Linsen</FirstName>
+<SecondName>Guo</SecondName>
+</Author>
+<Author>
+<FirstName>Yulan</FirstName>
+<SecondName>He</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1157">
+<title>
+      Provable Fast Greedy Compressive Summarization with Any Monotone
+      Submodular Function
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Shinsaku</FirstName>
+<SecondName>Sakaue</SecondName>
+</Author>
+<Author>
+<FirstName>Tsutomu</FirstName>
+<SecondName>Hirao</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nishino</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1158">
+<title>Ranking Sentences for Extractive Summarization with Reinforcement Learning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shashi</FirstName>
+<SecondName>Narayan</SecondName>
+</Author>
+<Author>
+<FirstName>Shay</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1159">
+<title>Relational Summarization for Corpus Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Abram</FirstName>
+<SecondName>Handler</SecondName>
+</Author>
+<Author>
+<FirstName>Brendan</FirstName>
+<SecondName>O‚??Connor</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1160">
+<title>
+      What‚??s This Movie About? A Joint Neural Network Architecture for Movie
+      Content Analysis
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>John</SecondName>
+</Author>
+<Author>
+<FirstName>Mirella</FirstName>
+<SecondName>Lapata</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1161">
+<title>Which Scores to Predict in Sentence Regression for Text Summarization?</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Markus</FirstName>
+<SecondName>Zopf</SecondName>
+</Author>
+<Author>
+<FirstName>Eneldo</FirstName>
+<SecondName>Loza</SecondName>
+</Author>
+<Author>
+<FirstName>Johannes</FirstName>
+<SecondName>F√ºrnkranz</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1162">
+<title>A Hierarchical Latent Structure for Variational Conversation Modeling</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>A</FirstName>
+<SecondName>Hierarchical</SecondName>
+</Author>
+<Author>
+<FirstName>Yookoon</FirstName>
+<SecondName>Park</SecondName>
+</Author>
+<Author>
+<FirstName>Jaemin</FirstName>
+<SecondName>Cho</SecondName>
+</Author>
+<Author>
+<FirstName>Gunhee</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1163">
+<title>Detecting Egregious Conversations between Customers and Virtual Agents</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tommy</FirstName>
+<SecondName>Sandbank</SecondName>
+</Author>
+<Author>
+<FirstName>Michal</FirstName>
+<SecondName>Shmueli-Scheuer</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Herzig</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Konopnicki</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Richards</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Piorkowski</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1164">
+<title>
+      Learning to Disentangle Interleaved Conversational Threads with a Siamese
+      Hierarchical Network and Similarity Ranking
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jyun-Yu</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Francine</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Yan-Ying</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1165">
+<title>Variational Knowledge Graph Reasoning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Wenhu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Wenhan</FirstName>
+<SecondName>Xiong</SecondName>
+</Author>
+<Author>
+<FirstName>Xifeng</FirstName>
+<SecondName>Yan</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1166">
+<title>Inducing Temporal Relations from Time Anchor Annotation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Cheng</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1167">
+<title>ELDEN: Improved Entity Linking Using Densified Knowledge Graphs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>ELDEN:</FirstName>
+<SecondName>Improved</SecondName>
+</Author>
+<Author>
+<FirstName>Priya</FirstName>
+<SecondName>Radhakrishnan</SecondName>
+</Author>
+<Author>
+<FirstName>Partha</FirstName>
+<SecondName>Talukdar</SecondName>
+</Author>
+<Author>
+<FirstName>Vasudeva</FirstName>
+<SecondName>Varma</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1168">
+<title>
+      Interpretable Charge Predictions for Criminal Cases: Learning to Generate
+      Court Views from Fact Descriptions
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hai</FirstName>
+<SecondName>Ye</SecondName>
+</Author>
+<Author>
+<FirstName>Xin</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhunchen</FirstName>
+<SecondName>Luo</SecondName>
+</Author>
+<Author>
+<FirstName>Wenhan</FirstName>
+<SecondName>Chao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1169">
+<title>Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Delete,</FirstName>
+<SecondName>Retrieve,</SecondName>
+</Author>
+<Author>
+<FirstName>Juncen</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Robin</FirstName>
+<SecondName>Jia</SecondName>
+</Author>
+<Author>
+<FirstName>He</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Percy</FirstName>
+<SecondName>Liang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1170">
+<title>
+      Adversarial Example Generation with Syntactically Controlled Paraphrase
+      Networks
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Iyyer</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Wieting</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Gimpel</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1171">
+<title>Sentiment Analysis: It‚??s Complicated!</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sentiment</FirstName>
+<SecondName>Analysis:</SecondName>
+</Author>
+<Author>
+<FirstName>Kian</FirstName>
+<SecondName>Kenyon-Dean</SecondName>
+</Author>
+<Author>
+<FirstName>Eisha</FirstName>
+<SecondName>Ahmed</SecondName>
+</Author>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Fujimoto</SecondName>
+</Author>
+<Author>
+<FirstName>Jeremy</FirstName>
+<SecondName>Georges-Filteau</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Glasz</SecondName>
+</Author>
+<Author>
+<FirstName>Barleen</FirstName>
+<SecondName>Kaur</SecondName>
+</Author>
+<Author>
+<FirstName>Auguste</FirstName>
+<SecondName>Lalande</SecondName>
+</Author>
+<Author>
+<FirstName>Shruti</FirstName>
+<SecondName>Bhanderi</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Belfer</SecondName>
+</Author>
+<Author>
+<FirstName>Nirmal</FirstName>
+<SecondName>Kanagasabai</SecondName>
+</Author>
+<Author>
+<FirstName>Roman</FirstName>
+<SecondName>Sarrazingendron</SecondName>
+</Author>
+<Author>
+<FirstName>Rohit</FirstName>
+<SecondName>Verma</SecondName>
+</Author>
+<Author>
+<FirstName>Derek</FirstName>
+<SecondName>Ruths</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1172">
+<title>
+      Multi-Task Learning of Pairwise Sequence Classification Tasks over
+      Disparate Label Spaces
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Isabelle</FirstName>
+<SecondName>Augenstein</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Ruder</SecondName>
+</Author>
+<Author>
+<FirstName>Anders</FirstName>
+<SecondName>S√∏gaard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1173">
+<title>
+      Word Emotion Induction for Multiple Languages as a Deep Multi-Task
+      Learning Problem
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sven</FirstName>
+<SecondName>Buechel</SecondName>
+</Author>
+<Author>
+<FirstName>Udo</FirstName>
+<SecondName>Hahn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1174">
+<title>Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Haibo</FirstName>
+<SecondName>Ding</SecondName>
+</Author>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>Riloff</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1175">
+<title>
+      The Argument Reasoning Comprehension Task: Identification and
+      Reconstruction of Implicit Warrants
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Habernal</SecondName>
+</Author>
+<Author>
+<FirstName>Henning</FirstName>
+<SecondName>Wachsmuth</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+<Author>
+<FirstName>Benno</FirstName>
+<SecondName>Stein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1176">
+<title>Linguistic Cues to Deception and Perceived Deception in Interview Dialogues</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sarah</FirstName>
+<SecondName>Ita</SecondName>
+</Author>
+<Author>
+<FirstName>Angel</FirstName>
+<SecondName>Maredia</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hirschberg</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1177">
+<title>Unified Pragmatic Models for Generating and Following Instructions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Fried</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Andreas</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1178">
+<title>Hierarchical Structured Model for Fine-to-Coarse Manifesto Text Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shivashankar</FirstName>
+<SecondName>Subramanian</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1179">
+<title>
+      Behavior Analysis of NLI Models: Uncovering the Influence of Three Factors
+      on Robustness
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Sanchez</SecondName>
+</Author>
+<Author>
+<FirstName>Jeff</FirstName>
+<SecondName>Mitchell</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Riedel</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1180">
+<title>Assessing Language Proficiency from Eye Movements in Reading</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yevgeni</FirstName>
+<SecondName>Berzak</SecondName>
+</Author>
+<Author>
+<FirstName>Boris</FirstName>
+<SecondName>Katz</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Levy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1181">
+<title>
+      Comparing Theories of Speaker Choice Using a Model of Classifier
+      Production in Mandarin Chinese
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Meilin</FirstName>
+<SecondName>Zhan</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Levy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1182">
+<title>Spotting Spurious Data with Neural Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hadi</FirstName>
+<SecondName>Amiri</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Miller</SecondName>
+</Author>
+<Author>
+<FirstName>Guergana</FirstName>
+<SecondName>Savova</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1183">
+<title>The Timing of Lexical Memory Retrievals in Language Production</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jeremy</FirstName>
+<SecondName>Cole</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Reitter</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1184">
+<title>
+      Unsupervised Induction of Linguistic Categories with Records of Reading,
+      Speaking, and Writing
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Maria</FirstName>
+<SecondName>Barrett</SecondName>
+</Author>
+<Author>
+<FirstName>Ana</FirstName>
+<SecondName>Valeria</SecondName>
+</Author>
+<Author>
+<FirstName>Lea</FirstName>
+<SecondName>Frermann</SecondName>
+</Author>
+<Author>
+<FirstName>Anders</FirstName>
+<SecondName>S√∏gaard</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1185">
+<title>
+      Challenging Reading Comprehension on Daily Conversation: Passage
+      Completion on Multiparty Dialog
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kaixin</FirstName>
+<SecondName>Ma</SecondName>
+</Author>
+<Author>
+<FirstName>Tomasz</FirstName>
+<SecondName>Jurczyk</SecondName>
+</Author>
+<Author>
+<FirstName>Jinho</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1186">
+<title>Dialog Generation Using Multi-Turn Reasoning Neural Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xianchao</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Ander</FirstName>
+<SecondName>Martinez</SecondName>
+</Author>
+<Author>
+<FirstName>Momo</FirstName>
+<SecondName>Klyen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1187">
+<title>
+      Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable
+      Task-Oriented Dialogue Systems
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Bing</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Gokhan</FirstName>
+<SecondName>T√ºr</SecondName>
+</Author>
+<Author>
+<FirstName>Dilek</FirstName>
+<SecondName>Hakkani-T√ºr</SecondName>
+</Author>
+<Author>
+<FirstName>Pararth</FirstName>
+<SecondName>Shah</SecondName>
+</Author>
+<Author>
+<FirstName>Larry</FirstName>
+<SecondName>Heck</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1188">
+<title>
+      LSDSCC: a Large Scale Domain-Specific Conversational Corpus for Response
+      Generation with Diversity Oriented Evaluation Metrics
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Zhen</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Nan</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Bingquan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Wenge</FirstName>
+<SecondName>Rong</SecondName>
+</Author>
+<Author>
+<FirstName>Bowen</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Baoxun</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Zhuoran</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaolong</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1189">
+<title>EMR Coding with Semi-Parametric Multi-Head Matching Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Anthony</FirstName>
+<SecondName>Rios</SecondName>
+</Author>
+<Author>
+<FirstName>Ramakanth</FirstName>
+<SecondName>Kavuluru</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1190">
+<title>Factors Influencing the Surprising Instability of Word Embeddings</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Laura</FirstName>
+<SecondName>Wendlandt</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Rada</FirstName>
+<SecondName>Mihalcea</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1191">
+<title>Mining Evidences for Concept Stock Recommendation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1192">
+<title>Binarized LSTM Language Model</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xuan</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Di</FirstName>
+<SecondName>Cao</SecondName>
+</Author>
+<Author>
+<FirstName>Kai</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1193">
+<title>Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Devamanyu</FirstName>
+<SecondName>Hazarika</SecondName>
+</Author>
+<Author>
+<FirstName>Soujanya</FirstName>
+<SecondName>Poria</SecondName>
+</Author>
+<Author>
+<FirstName>Amir</FirstName>
+<SecondName>Zadeh</SecondName>
+</Author>
+<Author>
+<FirstName>Erik</FirstName>
+<SecondName>Cambria</SecondName>
+</Author>
+<Author>
+<FirstName>Louis-Philippe</FirstName>
+<SecondName>Morency</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Zimmermann</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1194">
+<title>
+      How Time Matters: Learning Time-Decay Attention for Contextual Spoken
+      Language Understanding in Dialogues
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shang-Yu</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Pei-Chieh</FirstName>
+<SecondName>Yuan</SecondName>
+</Author>
+<Author>
+<FirstName>Yun-Nung</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1195">
+<title>Towards Understanding Text Factors in Oral Reading</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Anastassia</FirstName>
+<SecondName>Loukina</SecondName>
+</Author>
+<Author>
+<FirstName>Van</FirstName>
+<SecondName>Rynald</SecondName>
+</Author>
+<Author>
+<FirstName>Beata</FirstName>
+<SecondName>Beigman</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1196">
+<title>Generating Bilingual Pragmatic Color References</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Will</FirstName>
+<SecondName>Monroe</SecondName>
+</Author>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Hu</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>Jong</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Potts</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1197">
+<title>Learning with Latent Language</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Andreas</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>Sergey</FirstName>
+<SecondName>Levine</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1198">
+<title>Object Counts! Bringing Explicit Detections Back into Image Captioning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Josiah</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Pranava</FirstName>
+<SecondName>Swaroop</SecondName>
+</Author>
+<Author>
+<FirstName>Lucia</FirstName>
+<SecondName>Specia</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1199">
+<title>Quantifying the Visual Concreteness of Words and Topics in Multimodal Datasets</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Quantifying</FirstName>
+<SecondName>the</SecondName>
+</Author>
+<Author>
+<FirstName>Jack</FirstName>
+<SecondName>Hessel</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Mimno</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1200">
+<title>Speaker Naming in Movies</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mahmoud</FirstName>
+<SecondName>Azab</SecondName>
+</Author>
+<Author>
+<FirstName>Mingzhe</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Max</FirstName>
+<SecondName>Smith</SecondName>
+</Author>
+<Author>
+<FirstName>Noriyuki</FirstName>
+<SecondName>Kojima</SecondName>
+</Author>
+<Author>
+<FirstName>Jia</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+<Author>
+<FirstName>Rada</FirstName>
+<SecondName>Mihalcea</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1201">
+<title>Stacking with Auxiliary Features for Visual Question Answering</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Nazneen</FirstName>
+<SecondName>Fatema</SecondName>
+</Author>
+<Author>
+<FirstName>Raymond</FirstName>
+<SecondName>Mooney</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1202">
+<title>Deep Contextualized Word Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Deep</FirstName>
+<SecondName>Contextualized</SecondName>
+</Author>
+<Author>
+<FirstName>Matthew</FirstName>
+<SecondName>Peters</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Neumann</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Iyyer</SecondName>
+</Author>
+<Author>
+<FirstName>Matt</FirstName>
+<SecondName>Gardner</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Kenton</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1203">
+<title>Learning to Map Context-Dependent Sentences to Executable Formal Queries</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Learning</FirstName>
+<SecondName>to</SecondName>
+</Author>
+<Author>
+<FirstName>Alane</FirstName>
+<SecondName>Suhr</SecondName>
+</Author>
+<Author>
+<FirstName>Srinivasan</FirstName>
+<SecondName>Iyer</SecondName>
+</Author>
+<Author>
+<FirstName>Yoav</FirstName>
+<SecondName>Artzi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1204">
+<title>Neural Text Generation in Stories Using Entity Representations as Context</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Yangfeng</FirstName>
+<SecondName>Ji</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-1205">
+<title>Recurrent Neural Networks as Weighted Language Recognizers</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yining</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Sorcha</FirstName>
+<SecondName>Gilroy</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Maletti</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>May</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+<Paper id ="N18-2001">
+<title>Enhanced Word Representations for Bridging Anaphora Resolution</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yufang</FirstName>
+<SecondName>Hou</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2002">
+<title>Gender Bias in Coreference Resolution</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Rachel</FirstName>
+<SecondName>Rudinger</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Naradowsky</SecondName>
+</Author>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Leonard</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2003">
+<title>Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Gender</FirstName>
+<SecondName>Bias</SecondName>
+</Author>
+<Author>
+<FirstName>Jieyu</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Tianlu</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Yatskar</SecondName>
+</Author>
+<Author>
+<FirstName>Vicente</FirstName>
+<SecondName>Ordonez</SecondName>
+</Author>
+<Author>
+<FirstName>Kai-Wei</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2004">
+<title>Integrating Stance Detection and Fact Checking in a Unified Corpus</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ramy</FirstName>
+<SecondName>Baly</SecondName>
+</Author>
+<Author>
+<FirstName>Mitra</FirstName>
+<SecondName>Mohtarami</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+<Author>
+<FirstName>Llu√≠s</FirstName>
+<SecondName>M√ rquez</SecondName>
+</Author>
+<Author>
+<FirstName>Alessandro</FirstName>
+<SecondName>Moschitti</SecondName>
+</Author>
+<Author>
+<FirstName>Preslav</FirstName>
+<SecondName>Nakov</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2005">
+<title>
+      Is Something Better than Nothing? Automatically Predicting Stance-based
+      Arguments Using Deep Learning and Small Labelled Dataset
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Pavithra</FirstName>
+<SecondName>Rajendran</SecondName>
+</Author>
+<Author>
+<FirstName>Danushka</FirstName>
+<SecondName>Bollegala</SecondName>
+</Author>
+<Author>
+<FirstName>Simon</FirstName>
+<SecondName>Parsons</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2006">
+<title>Multi-Task Learning for Argumentation Mining in Low-Resource Settings</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Claudia</FirstName>
+<SecondName>Schulz</SecondName>
+</Author>
+<Author>
+<FirstName>Steffen</FirstName>
+<SecondName>Eger</SecondName>
+</Author>
+<Author>
+<FirstName>Johannes</FirstName>
+<SecondName>Daxenberger</SecondName>
+</Author>
+<Author>
+<FirstName>Tobias</FirstName>
+<SecondName>Kahse</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2007">
+<title>Neural Models for Reasoning over Multiple Mentions Using Coreference</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Bhuwan</FirstName>
+<SecondName>Dhingra</SecondName>
+</Author>
+<Author>
+<FirstName>Qiao</FirstName>
+<SecondName>Jin</SecondName>
+</Author>
+<Author>
+<FirstName>Zhilin</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Cohen</SecondName>
+</Author>
+<Author>
+<FirstName>Ruslan</FirstName>
+<SecondName>Salakhutdinov</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2008">
+<title>Automatic Dialogue Generation with Expressed Emotions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chenyang</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Osmar</FirstName>
+<SecondName>Zaiane</SecondName>
+</Author>
+<Author>
+<FirstName>Amine</FirstName>
+<SecondName>Trabelsi</SecondName>
+</Author>
+<Author>
+<FirstName>Nouha</FirstName>
+<SecondName>Dziri</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2009">
+<title>
+      Guiding Generation for Abstractive Text Summarization Based on Key
+      Information Guide Network
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chenliang</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Weiran</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Si</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Sheng</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2010">
+<title>Natural Language Generation by Hierarchical Decoding with Linguistic Patterns</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shang-Yu</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Kai-Ling</FirstName>
+<SecondName>Lo</SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Ting</SecondName>
+</Author>
+<Author>
+<FirstName>Yun-Nung</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2018">
+<title>Neural Poetry Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marjan</FirstName>
+<SecondName>Ghazvininejad</SecondName>
+</Author>
+<Author>
+<FirstName>Yejin</FirstName>
+<SecondName>Choi</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2012">
+<title>RankME: Reliable Human Ratings for Natural Language Generation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jekaterina</FirstName>
+<SecondName>Novikova</SecondName>
+</Author>
+<Author>
+<FirstName>Ond≈?ej</FirstName>
+<SecondName>Du≈°ek</SecondName>
+</Author>
+<Author>
+<FirstName>Verena</FirstName>
+<SecondName>Rieser</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2013">
+<title>Sentence Simplification with Memory-Augmented Neural Networks</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tu</FirstName>
+<SecondName>Vu</SecondName>
+</Author>
+<Author>
+<FirstName>Baotian</FirstName>
+<SecondName>Hu</SecondName>
+</Author>
+<Author>
+<FirstName>Tsendsuren</FirstName>
+<SecondName>Munkhdalai</SecondName>
+</Author>
+<Author>
+<FirstName>Hong</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2014">
+<title>A Corpus of Non-Native Written English Annotated for Metaphor</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Beata</FirstName>
+<SecondName>Beigman</SecondName>
+</Author>
+<Author>
+<FirstName>Chee</FirstName>
+<SecondName>Wee</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Flor</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2015">
+<title>A Simple and Effective Approach to the Story Cloze Test</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>A</FirstName>
+<SecondName>Simple</SecondName>
+</Author>
+<Author>
+<FirstName>Siddarth</FirstName>
+<SecondName>Srinivasan</SecondName>
+</Author>
+<Author>
+<FirstName>Richa</FirstName>
+<SecondName>Arora</SecondName>
+</Author>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Riedl</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2016">
+<title>An Annotated Corpus for Machine Reading of Instructions in Wet Lab Protocols</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>An</FirstName>
+<SecondName>Annotated</SecondName>
+</Author>
+<Author>
+<FirstName>Chaitanya</FirstName>
+<SecondName>Kulkarni</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+<Author>
+<FirstName>Alan</FirstName>
+<SecondName>Ritter</SecondName>
+</Author>
+<Author>
+<FirstName>Raghu</FirstName>
+<SecondName>Machiraju</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2017">
+<title>Annotation Artifacts in Natural Language Inference Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Suchin</FirstName>
+<SecondName>Gururangan</SecondName>
+</Author>
+<Author>
+<FirstName>Swabha</FirstName>
+<SecondName>Swayamdipta</SecondName>
+</Author>
+<Author>
+<FirstName>Omer</FirstName>
+<SecondName>Levy</SecondName>
+</Author>
+<Author>
+<FirstName>Roy</FirstName>
+<SecondName>Schwartz</SecondName>
+</Author>
+<Author>
+<FirstName>Samuel</FirstName>
+<SecondName>Bowman</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2018">
+<title>Humor Recognition Using Deep Learning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Peng-Yu</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Von-Wun</FirstName>
+<SecondName>Soo</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2019">
+<title>
+      Leveraging Intra-User and Inter-User Representation Learning for Automated
+      Hate Speech Detection
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Qian</SecondName>
+</Author>
+<Author>
+<FirstName>Mai</FirstName>
+<SecondName>ElSherief</SecondName>
+</Author>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>Belding</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2020">
+<title>Reference-less Measure of Faithfulness for Grammatical Error Correction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Reference-less</FirstName>
+<SecondName>Measure</SecondName>
+</Author>
+<Author>
+<FirstName>Leshem</FirstName>
+<SecondName>Choshen</SecondName>
+</Author>
+<Author>
+<FirstName>Omri</FirstName>
+<SecondName>Abend</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2021">
+<title>Training Structured Prediction Energy Networks with Indirect Supervision</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Amirmohammad</FirstName>
+<SecondName>Rooshenas</SecondName>
+</Author>
+<Author>
+<FirstName>Aishwarya</FirstName>
+<SecondName>Kamath</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>McCallum</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2022">
+<title>
+      Si O No, Que Penses? Catalonian Independence and Linguistic Identity on
+      Social Media
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ian</FirstName>
+<SecondName>Stewart</SecondName>
+</Author>
+<Author>
+<FirstName>Yuval</FirstName>
+<SecondName>Pinter</SecondName>
+</Author>
+<Author>
+<FirstName>Jacob</FirstName>
+<SecondName>Eisenstein</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2023">
+<title>A Transition-Based Algorithm for Unrestricted AMR Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Vilares</SecondName>
+</Author>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>G√≥mez-Rodr√≠guez</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2024">
+<title>
+      Analogies in Complex Verb Meaning Shifts: the Effect of Affect in Semantic
+      Similarity Models
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Maximilian</FirstName>
+<SecondName>K√∂per</SecondName>
+</Author>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Schulte</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2025">
+<title>Character-Based Neural Networks for Sentence Pair Modeling</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Wuwei</FirstName>
+<SecondName>Lan</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Xu</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2026">
+<title>Determining Event Durations: Models and Error Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Alakananda</FirstName>
+<SecondName>Vempala</SecondName>
+</Author>
+<Author>
+<FirstName>Eduardo</FirstName>
+<SecondName>Blanco</SecondName>
+</Author>
+<Author>
+<FirstName>Alexis</FirstName>
+<SecondName>Palmer</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2027">
+<title>
+      Diachronic Usage Relatedness (DURel): A Framework for the Annotation of
+      Lexical Semantic Change
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Dominik</FirstName>
+<SecondName>Schlechtweg</SecondName>
+</Author>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Schulte</SecondName>
+</Author>
+<Author>
+<FirstName>Stefanie</FirstName>
+<SecondName>Eckmann</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2028">
+<title>
+      Directional Skip-Gram: Explicitly Distinguishing Left and Right Context
+      for Word Embeddings
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Yan</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Shuming</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Jing</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Haisong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2029">
+<title>
+      Discriminating between Lexico-Semantic Relations with the Specialization
+      Tensor Model
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Goran</FirstName>
+<SecondName>Glava≈°</SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Vuliƒ?</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2030">
+<title>Evaluating bilingual word embeddings on the long tail</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fabienne</FirstName>
+<SecondName>Braune</SecondName>
+</Author>
+<Author>
+<FirstName>Viktor</FirstName>
+<SecondName>Hangya</SecondName>
+</Author>
+<Author>
+<FirstName>Tobias</FirstName>
+<SecondName>Eder</SecondName>
+</Author>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Fraser</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2031">
+<title>
+      Frustratingly Easy Meta-Embedding ‚?? Computing Meta-Embeddings by Averaging
+      Source Word Embeddings
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Joshua</FirstName>
+<SecondName>Coates</SecondName>
+</Author>
+<Author>
+<FirstName>Danushka</FirstName>
+<SecondName>Bollegala</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2032">
+<title>
+      Introducing Two Vietnamese Datasets for Evaluating Semantic Models of
+      (Dis-)Similarity and Relatedness
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kim</FirstName>
+<SecondName>Anh</SecondName>
+</Author>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Schulte</SecondName>
+</Author>
+<Author>
+<FirstName>Ngoc</FirstName>
+<SecondName>Thang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2033">
+<title>Lexical Substitution for Evaluating Compositional Distributional Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Lexical</FirstName>
+<SecondName>Substitution</SecondName>
+</Author>
+<Author>
+<FirstName>Maja</FirstName>
+<SecondName>Buljan</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>Pad√≥</SecondName>
+</Author>
+<Author>
+<FirstName>Jan</FirstName>
+<SecondName>≈ najder</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2034">
+<title>Mittens: an Extension of GloVe for Learning Domain-Specialized Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mittens:</FirstName>
+<SecondName>an</SecondName>
+</Author>
+<Author>
+<FirstName>Nicholas</FirstName>
+<SecondName>Dingwall</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Potts</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2035">
+<title>
+      Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds Using Paraphrases in a Neural Model
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vered</FirstName>
+<SecondName>Shwartz</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Waterson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2036">
+<title>Semantic Pleonasm Detection</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Omid</FirstName>
+<SecondName>Kashefi</SecondName>
+</Author>
+<Author>
+<FirstName>Andrew</FirstName>
+<SecondName>T.</SecondName>
+</Author>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Hwa</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2037">
+<title>
+      Similarity Measures for the Detection of Clinical Conditions with Verbal
+      Fluency Tasks
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Felipe</FirstName>
+<SecondName>Paula</SecondName>
+</Author>
+<Author>
+<FirstName>Rodrigo</FirstName>
+<SecondName>Wilkens</SecondName>
+</Author>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>Idiart</SecondName>
+</Author>
+<Author>
+<FirstName>Aline</FirstName>
+<SecondName>Villavicencio</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2038">
+<title>Sluice Resolution without Hand-Crafted Features over Brittle Syntax Trees</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sluice</FirstName>
+<SecondName>Resolution</SecondName>
+</Author>
+<Author>
+<FirstName>Ola</FirstName>
+<SecondName>R√∏nning</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Hardt</SecondName>
+</Author>
+<Author>
+<FirstName>Anders</FirstName>
+<SecondName>S√∏gaard</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2039">
+<title>The Word Analogy Testing Caveat</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Natalie</FirstName>
+<SecondName>Schluter</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2040">
+<title>Transition-Based Chinese AMR Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chuan</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Bin</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Nianwen</FirstName>
+<SecondName>Xue</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2041">
+<title>Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Abhishek</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Kawahara</SecondName>
+</Author>
+<Author>
+<FirstName>Sadao</FirstName>
+<SecondName>Kurohashi</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2042">
+<title>
+      Letting Emotions Flow: Success Prediction by Modeling the Flow of Emotions
+      in Books
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Suraj</FirstName>
+<SecondName>Maharjan</SecondName>
+</Author>
+<Author>
+<FirstName>Sudipta</FirstName>
+<SecondName>Kar</SecondName>
+</Author>
+<Author>
+<FirstName>Manuel</FirstName>
+<SecondName>Montes</SecondName>
+</Author>
+<Author>
+<FirstName>Fabio</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Thamar</FirstName>
+<SecondName>Solorio</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2043">
+<title>Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Devamanyu</FirstName>
+<SecondName>Hazarika</SecondName>
+</Author>
+<Author>
+<FirstName>Soujanya</FirstName>
+<SecondName>Poria</SecondName>
+</Author>
+<Author>
+<FirstName>Prateek</FirstName>
+<SecondName>Vij</SecondName>
+</Author>
+<Author>
+<FirstName>Gangeshwar</FirstName>
+<SecondName>Krishnamurthy</SecondName>
+</Author>
+<Author>
+<FirstName>Erik</FirstName>
+<SecondName>Cambria</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Zimmermann</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2044">
+<title>
+      Multi-Task Learning Framework for Mining Crowd Intelligence towards
+      Clinical Treatment
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shweta</FirstName>
+<SecondName>Yadav</SecondName>
+</Author>
+<Author>
+<FirstName>Asif</FirstName>
+<SecondName>Ekbal</SecondName>
+</Author>
+<Author>
+<FirstName>Sriparna</FirstName>
+<SecondName>Saha</SecondName>
+</Author>
+<Author>
+<FirstName>Pushpak</FirstName>
+<SecondName>Bhattacharyya</SecondName>
+</Author>
+<Author>
+<FirstName>Amit</FirstName>
+<SecondName>Sheth</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2045">
+<title>
+      Recurrent Entity Networks with Delayed Memory Update for Targeted
+      Aspect-Based Sentiment Analysis
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Liu</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2046">
+<title>
+      Near Human-Level Performance in Grammatical Error Correction with Hybrid
+      Machine Translation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Roman</FirstName>
+<SecondName>Grundkiewicz</SecondName>
+</Author>
+<Author>
+<FirstName>Marcin</FirstName>
+<SecondName>Junczys-Dowmunt</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2047">
+<title>
+      Strong Baselines for Simple Question Answering over Knowledge Graphs with
+      and without Neural Networks
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Salman</FirstName>
+<SecondName>Mohammed</SecondName>
+</Author>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Jimmy</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2048">
+<title>Looking for Structure in Lexical and Acoustic-Prosodic Entrainment Behaviors</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Weise</SecondName>
+</Author>
+<Author>
+<FirstName>Rivka</FirstName>
+<SecondName>Levitan</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2049">
+<title>Modeling Semantic Plausibility by Injecting World Knowledge</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Modeling</FirstName>
+<SecondName>Semantic</SecondName>
+</Author>
+<Author>
+<FirstName>Su</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Greg</FirstName>
+<SecondName>Durrett</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Erk</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2050">
+<title>
+      A Bi-Model Based RNN Semantic Frame Parsing Model for Intent Detection and
+      Slot Filling
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yu</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yilin</FirstName>
+<SecondName>Shen</SecondName>
+</Author>
+<Author>
+<FirstName>Hongxia</FirstName>
+<SecondName>Jin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2051">
+<title>A Comparison of Two Paraphrase Models for Taxonomy Augmentation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vassilis</FirstName>
+<SecondName>Plachouras</SecondName>
+</Author>
+<Author>
+<FirstName>Fabio</FirstName>
+<SecondName>Petroni</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Nugent</SecondName>
+</Author>
+<Author>
+<FirstName>Jochen</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2052">
+<title>
+      A Laypeople Study on Terminology Identification across Domains and Task
+      Definitions
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Anna</FirstName>
+<SecondName>H√§tty</SecondName>
+</Author>
+<Author>
+<FirstName>Sabine</FirstName>
+<SecondName>Schulte</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2053">
+<title>
+      A Novel Embedding Model for Knowledge Base Completion Based on
+      Convolutional Neural Network
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dai</FirstName>
+<SecondName>Quoc</SecondName>
+</Author>
+<Author>
+<FirstName>Tu</FirstName>
+<SecondName>Dinh</SecondName>
+</Author>
+<Author>
+<FirstName>Dat</FirstName>
+<SecondName>Quoc</SecondName>
+</Author>
+<Author>
+<FirstName>Dinh</FirstName>
+<SecondName>Phung</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2054">
+<title>Cross-language Article Linking Using Cross-Encyclopedia Entity Embedding</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chun-Kai</FirstName>
+<SecondName>Wu</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Tzong-Han</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2055">
+<title>
+      Identifying the Most Dominant Event in a News Article by Mining Event
+      Coreference Relations
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Prafulla</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>Kaushik</FirstName>
+<SecondName>Raju</SecondName>
+</Author>
+<Author>
+<FirstName>Ruihong</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2056">
+<title>
+      Improve Neural Entity Recognition via Multi-Task Data Selection and
+      Constrained Decoding
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Huasha</FirstName>
+<SecondName>Zhao</SecondName>
+</Author>
+<Author>
+<FirstName>Yi</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Qiong</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Luo</FirstName>
+<SecondName>Si</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2057">
+<title>
+      Keep Your Bearings: Lightly-Supervised Information Extraction with Ladder
+      Networks That Avoids Semantic Drift
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ajay</FirstName>
+<SecondName>Nagesh</SecondName>
+</Author>
+<Author>
+<FirstName>Mihai</FirstName>
+<SecondName>Surdeanu</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2058">
+<title>Semi-Supervised Event Extraction with Paraphrase Clusters</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Ferguson</SecondName>
+</Author>
+<Author>
+<FirstName>Colin</FirstName>
+<SecondName>Lockard</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Weld</SecondName>
+</Author>
+<Author>
+<FirstName>Hannaneh</FirstName>
+<SecondName>Hajishirzi</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2059">
+<title>
+      Structure Regularized Neural Network for Entity Relation Classification
+      for Chinese Literature Text
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ji</FirstName>
+<SecondName>Wen</SecondName>
+</Author>
+<Author>
+<FirstName>Xu</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Xuancheng</FirstName>
+<SecondName>Ren</SecondName>
+</Author>
+<Author>
+<FirstName>Qi</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2060">
+<title>Syntactic Patterns Improve Information Extraction for Medical Search</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Roma</FirstName>
+<SecondName>Patel</SecondName>
+</Author>
+<Author>
+<FirstName>Yinfei</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Iain</FirstName>
+<SecondName>Marshall</SecondName>
+</Author>
+<Author>
+<FirstName>Ani</FirstName>
+<SecondName>Nenkova</SecondName>
+</Author>
+<Author>
+<FirstName>Byron</FirstName>
+<SecondName>Wallace</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2061">
+<title>Syntactically Aware Neural Architectures for Definition Extraction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Luis</FirstName>
+<SecondName>Espinosa</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Schockaert</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2062">
+<title>A Dynamic OrNAACLe for Linear-Time 2-Planar Dependency Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Fern√°ndez-Gonz√°lez</SecondName>
+</Author>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>G√≥mez-Rodr√≠guez</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2063">
+<title>
+      Are Automatic Methods for Cognate Detection Good Enough for Phylogenetic
+      Reconstruction in Historical Linguistics?
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Taraka</FirstName>
+<SecondName>Rama</SecondName>
+</Author>
+<Author>
+<FirstName>Johann-Mattis</FirstName>
+<SecondName>List</SecondName>
+</Author>
+<Author>
+<FirstName>Johannes</FirstName>
+<SecondName>Wahle</SecondName>
+</Author>
+<Author>
+<FirstName>Gerhard</FirstName>
+<SecondName>J√§ger</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2064">
+<title>
+      Automatically Selecting the Best Dependency Annotation Design with Dynamic
+      OrNAACLes
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Guillaume</FirstName>
+<SecondName>Wisniewski</SecondName>
+</Author>
+<Author>
+<FirstName>Oph√©lie</FirstName>
+<SecondName>Lacroix</SecondName>
+</Author>
+<Author>
+<FirstName>Fran√ßois</FirstName>
+<SecondName>Yvon</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2065">
+<title>Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Masashi</FirstName>
+<SecondName>Yoshikawa</SecondName>
+</Author>
+<Author>
+<FirstName>Koji</FirstName>
+<SecondName>Mineshima</SecondName>
+</Author>
+<Author>
+<FirstName>Hiroshi</FirstName>
+<SecondName>Noji</SecondName>
+</Author>
+<Author>
+<FirstName>Daisuke</FirstName>
+<SecondName>Bekki</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2066">
+<title>
+      Exploiting Dynamic OrNAACLes to Train Projective Dependency Parsers on
+      Non-Projective Trees
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Lauriane</FirstName>
+<SecondName>Aufrant</SecondName>
+</Author>
+<Author>
+<FirstName>Guillaume</FirstName>
+<SecondName>Wisniewski</SecondName>
+</Author>
+<Author>
+<FirstName>Fran√ßois</FirstName>
+<SecondName>Yvon</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2067">
+<title>
+      Improving Coverage and Runtime Complexity for Exact Inference in
+      Non-Projective Transition-Based Dependency Parsers
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tianze</FirstName>
+<SecondName>Shi</SecondName>
+</Author>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>G√≥mez-Rodr√≠guez</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2068">
+<title>Towards a Variability Measure for Multiword Expressions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Caroline</FirstName>
+<SecondName>Pasquer</SecondName>
+</Author>
+<Author>
+<FirstName>Agata</FirstName>
+<SecondName>Savary</SecondName>
+</Author>
+<Author>
+<FirstName>Jean-Yves</FirstName>
+<SecondName>Antoine</SecondName>
+</Author>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>Ramisch</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2069">
+<title>Defoiling Foiled Image Captions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Pranava</FirstName>
+<SecondName>Swaroop</SecondName>
+</Author>
+<Author>
+<FirstName>Josiah</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Lucia</FirstName>
+<SecondName>Specia</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2070">
+<title>Pragmatically Informative Image Captioning with Character-Level Inference</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Reuben</FirstName>
+<SecondName>Cohn-Gordon</SecondName>
+</Author>
+<Author>
+<FirstName>Noah</FirstName>
+<SecondName>Goodman</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>Potts</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2071">
+<title>Object Ordering with Bidirectional Matchings for Visual Reasoning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hao</FirstName>
+<SecondName>Tan</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2072">
+<title>Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sosuke</FirstName>
+<SecondName>Kobayashi</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2073">
+<title>Cross-Lingual Learning-to-Rank with Shared Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shota</FirstName>
+<SecondName>Sasaki</SecondName>
+</Author>
+<Author>
+<FirstName>Shuo</FirstName>
+<SecondName>Sun</SecondName>
+</Author>
+<Author>
+<FirstName>Shigehiko</FirstName>
+<SecondName>Schamoni</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Duh</SecondName>
+</Author>
+<Author>
+<FirstName>Kentaro</FirstName>
+<SecondName>Inui</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2074">
+<title>Self-Attention with Relative Position Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Peter</FirstName>
+<SecondName>Shaw</SecondName>
+</Author>
+<Author>
+<FirstName>Jakob</FirstName>
+<SecondName>Uszkoreit</SecondName>
+</Author>
+<Author>
+<FirstName>Ashish</FirstName>
+<SecondName>Vaswani</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2075">
+<title>Text Segmentation as a Supervised Learning Task</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Omri</FirstName>
+<SecondName>Koshorek</SecondName>
+</Author>
+<Author>
+<FirstName>Adir</FirstName>
+<SecondName>Cohen</SecondName>
+</Author>
+<Author>
+<FirstName>Noam</FirstName>
+<SecondName>Mor</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Rotman</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Berant</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2076">
+<title>
+      What‚??s in a Domain? Learning Domain-Robust Text Representations using
+      Adversarial Training
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yitong</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Timothy</FirstName>
+<SecondName>Baldwin</SecondName>
+</Author>
+<Author>
+<FirstName>Trevor</FirstName>
+<SecondName>Cohn</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2077">
+<title>Automated Paraphrase Lattice Creation for HyTER Machine Translation Evaluation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marianna</FirstName>
+<SecondName>Apidianaki</SecondName>
+</Author>
+<Author>
+<FirstName>Guillaume</FirstName>
+<SecondName>Wisniewski</SecondName>
+</Author>
+<Author>
+<FirstName>Anne</FirstName>
+<SecondName>Cocos</SecondName>
+</Author>
+<Author>
+<FirstName>Chris</FirstName>
+<SecondName>Callison-Burch</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2078">
+<title>
+      Exploiting Semantics in Neural Machine Translation with Graph
+      Convolutional Networks
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Diego</FirstName>
+<SecondName>Marcheggiani</SecondName>
+</Author>
+<Author>
+<FirstName>Joost</FirstName>
+<SecondName>Bastings</SecondName>
+</Author>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Titov</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2079">
+<title>
+      Incremental Decoding and Training Methods for Simultaneous Translation in
+      Neural Machine Translation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Fahim</FirstName>
+<SecondName>Dalvi</SecondName>
+</Author>
+<Author>
+<FirstName>Nadir</FirstName>
+<SecondName>Durrani</SecondName>
+</Author>
+<Author>
+<FirstName>Hassan</FirstName>
+<SecondName>Sajjad</SecondName>
+</Author>
+<Author>
+<FirstName>Stephan</FirstName>
+<SecondName>Vogel</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2080">
+<title>
+      Learning Hidden Unit Contribution for Adapting Neural Machine Translation
+      Models
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Vilar</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2081">
+<title>Neural Machine Translation Decoding with Terminology Constraints</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Eva</FirstName>
+<SecondName>Hasler</SecondName>
+</Author>
+<Author>
+<FirstName>Adri√ </FirstName>
+<SecondName>de</SecondName>
+</Author>
+<Author>
+<FirstName>Gonzalo</FirstName>
+<SecondName>Iglesias</SecondName>
+</Author>
+<Author>
+<FirstName>Bill</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2082">
+<title>
+      On the Evaluation of Semantic Phenomena in Neural Machine Translation
+      Using Natural Language Inference
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Adam</FirstName>
+<SecondName>Poliak</SecondName>
+</Author>
+<Author>
+<FirstName>Yonatan</FirstName>
+<SecondName>Belinkov</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+<Author>
+<FirstName>Benjamin</FirstName>
+<SecondName>Van</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2083">
+<title>
+      Using Word Vectors to Improve Word Alignments for Low Resource Machine
+      Translation
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Nima</FirstName>
+<SecondName>Pourdamghani</SecondName>
+</Author>
+<Author>
+<FirstName>Marjan</FirstName>
+<SecondName>Ghazvininejad</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2084">
+<title>
+      When and Why Are Pre-Trained Word Embeddings Useful for Neural Machine
+      Translation?
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Ye</FirstName>
+<SecondName>Qi</SecondName>
+</Author>
+<Author>
+<FirstName>Devendra</FirstName>
+<SecondName>Sachan</SecondName>
+</Author>
+<Author>
+<FirstName>Matthieu</FirstName>
+<SecondName>Felix</SecondName>
+</Author>
+<Author>
+<FirstName>Sarguna</FirstName>
+<SecondName>Padmanabhan</SecondName>
+</Author>
+<Author>
+<FirstName>Graham</FirstName>
+<SecondName>Neubig</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2085">
+<title>Are All Languages Equally Hard to Language-Model?</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Cotterell</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Roark</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2086">
+<title>The Computational Complexity of Distinctive Feature Minimization in Phonology</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hubie</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Mans</FirstName>
+<SecondName>Hulden</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2087">
+<title>Unsupervised Disambiguation of Syncretism in Inflected Lexicons</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Cotterell</SecondName>
+</Author>
+<Author>
+<FirstName>Christo</FirstName>
+<SecondName>Kirov</SecondName>
+</Author>
+<Author>
+<FirstName>Sebastian</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2088">
+<title>Contextualized Word Representations for Reading Comprehension</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shimi</FirstName>
+<SecondName>Salant</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>Berant</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2089">
+<title>Crowdsourcing Question-Answer Meaning Representations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Julian</FirstName>
+<SecondName>Michael</SecondName>
+</Author>
+<Author>
+<FirstName>Gabriel</FirstName>
+<SecondName>Stanovsky</SecondName>
+</Author>
+<Author>
+<FirstName>Luheng</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Ido</FirstName>
+<SecondName>Dagan</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2090">
+<title>Leveraging Context Information for Natural Question Generation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Linfeng</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+<Author>
+<FirstName>Zhiguo</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Wael</FirstName>
+<SecondName>Hamza</SecondName>
+</Author>
+<Author>
+<FirstName>Yue</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Gildea</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2091">
+<title>Robust Machine Comprehension Models via Adversarial Training</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yicheng</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2092">
+<title>Simple and Effective Semi-Supervised Question Answering</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Bhuwan</FirstName>
+<SecondName>Dhingra</SecondName>
+</Author>
+<Author>
+<FirstName>Danish</FirstName>
+<SecondName>Danish</SecondName>
+</Author>
+<Author>
+<FirstName>Dheeraj</FirstName>
+<SecondName>Rajagopal</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2093">
+<title>TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tao</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Zifan</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Zilin</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Rui</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Dragomir</FirstName>
+<SecondName>Radev</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2094">
+<title>Community Member Retrieval on Social Media Using Textual Information</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Aaron</FirstName>
+<SecondName>Jaech</SecondName>
+</Author>
+<Author>
+<FirstName>Shobhit</FirstName>
+<SecondName>Hathi</SecondName>
+</Author>
+<Author>
+<FirstName>Mari</FirstName>
+<SecondName>Ostendorf</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2095">
+<title>
+      Cross-Domain Review Helpfulness Prediction Based on Convolutional Neural
+      Networks with Auxiliary Domain Discriminators
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Cen</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Yinfei</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+<Author>
+<FirstName>Jun</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaolong</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Forrest</FirstName>
+<SecondName>Sheng</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2096">
+<title>Predicting Foreign Language Usage from English-Only Social Media Posts</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Svitlana</FirstName>
+<SecondName>Volkova</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Ranshous</SecondName>
+</Author>
+<Author>
+<FirstName>Lawrence</FirstName>
+<SecondName>Phillips</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2097">
+<title>
+      A Discourse-Aware Attention Model for Abstractive Summarization of Long
+      Documents
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Arman</FirstName>
+<SecondName>Cohan</SecondName>
+</Author>
+<Author>
+<FirstName>Franck</FirstName>
+<SecondName>Dernoncourt</SecondName>
+</Author>
+<Author>
+<FirstName>Doo</FirstName>
+<SecondName>Soon</SecondName>
+</Author>
+<Author>
+<FirstName>Trung</FirstName>
+<SecondName>Bui</SecondName>
+</Author>
+<Author>
+<FirstName>Seokhwan</FirstName>
+<SecondName>Kim</SecondName>
+</Author>
+<Author>
+<FirstName>Walter</FirstName>
+<SecondName>Chang</SecondName>
+</Author>
+<Author>
+<FirstName>Nazli</FirstName>
+<SecondName>Goharian</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2098">
+<title>
+      A Mixed Hierarchical Attention Based Encoder-Decoder Approach for Standard
+      Table Summarization
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Parag</FirstName>
+<SecondName>Jain</SecondName>
+</Author>
+<Author>
+<FirstName>Anirban</FirstName>
+<SecondName>Laha</SecondName>
+</Author>
+<Author>
+<FirstName>Karthik</FirstName>
+<SecondName>Sankaranarayanan</SecondName>
+</Author>
+<Author>
+<FirstName>Preksha</FirstName>
+<SecondName>Nema</SecondName>
+</Author>
+<Author>
+<FirstName>Mitesh</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Shreyas</FirstName>
+<SecondName>Shetty</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2099">
+<title>Effective Crowdsourcing for a New Type of Summarization Task</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Effective</FirstName>
+<SecondName>Crowdsourcing</SecondName>
+</Author>
+<Author>
+<FirstName>Youxuan</FirstName>
+<SecondName>Jiang</SecondName>
+</Author>
+<Author>
+<FirstName>Catherine</FirstName>
+<SecondName>Finegan-Dollak</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathan</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+<Author>
+<FirstName>Walter</FirstName>
+<SecondName>Lasecki</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2100">
+<title>
+      Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles
+      using Phrase Embeddings
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Debanjan</FirstName>
+<SecondName>Mahata</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Kuriakose</SecondName>
+</Author>
+<Author>
+<FirstName>Rajiv</FirstName>
+<SecondName>Ratn</SecondName>
+</Author>
+<Author>
+<FirstName>Roger</FirstName>
+<SecondName>Zimmermann</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2101">
+<title>
+      Learning to Generate Wikipedia Summaries for Underserved Languages from
+      Wikidata
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Lucie-Aim√©e</FirstName>
+<SecondName>Kaffee</SecondName>
+</Author>
+<Author>
+<FirstName>Hady</FirstName>
+<SecondName>Elsahar</SecondName>
+</Author>
+<Author>
+<FirstName>Pavlos</FirstName>
+<SecondName>Vougiouklis</SecondName>
+</Author>
+<Author>
+<FirstName>Christophe</FirstName>
+<SecondName>Gravier</SecondName>
+</Author>
+<Author>
+<FirstName>Frederique</FirstName>
+<SecondName>Laforest</SecondName>
+</Author>
+<Author>
+<FirstName>Jonathon</FirstName>
+<SecondName>Hare</SecondName>
+</Author>
+<Author>
+<FirstName>Elena</FirstName>
+<SecondName>Simperl</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2102">
+<title>Multi-Reward Reinforced Summarization with Saliency and Entailment</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ramakanth</FirstName>
+<SecondName>Pasunuru</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2103">
+<title>
+      Objective Function Learning to Match Human Judgements for
+      Optimization-Based Summarization
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Maxime</FirstName>
+<SecondName>Peyrard</SecondName>
+</Author>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2104">
+<title>Pruning Basic Elements for Better Automatic Evaluation of Summaries</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ukyo</FirstName>
+<SecondName>Honda</SecondName>
+</Author>
+<Author>
+<FirstName>Tsutomu</FirstName>
+<SecondName>Hirao</SecondName>
+</Author>
+<Author>
+<FirstName>Masaaki</FirstName>
+<SecondName>Nagata</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2105">
+<title>Unsupervised Keyphrase Extraction with Multipartite Graphs</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Unsupervised</FirstName>
+<SecondName>Keyphrase</SecondName>
+</Author>
+<Author>
+<FirstName>Florian</FirstName>
+<SecondName>Boudin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2106">
+<title>
+      Where Have I Heard This Story Before? Identifying Narrative Similarity in
+      Movie Remakes
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Snigdha</FirstName>
+<SecondName>Chaturvedi</SecondName>
+</Author>
+<Author>
+<FirstName>Shashank</FirstName>
+<SecondName>Srivastava</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Roth</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2107">
+<title>Multimodal Emoji Prediction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Francesco</FirstName>
+<SecondName>Barbieri</SecondName>
+</Author>
+<Author>
+<FirstName>Miguel</FirstName>
+<SecondName>Ballesteros</SecondName>
+</Author>
+<Author>
+<FirstName>Francesco</FirstName>
+<SecondName>Ronzano</SecondName>
+</Author>
+<Author>
+<FirstName>Horacio</FirstName>
+<SecondName>Saggion</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2108">
+<title>Higher-Order Coreference Resolution with Coarse-to-Fine Inference</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenton</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+<Author>
+<FirstName>Luheng</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Luke</FirstName>
+<SecondName>Zettlemoyer</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2109">
+<title>Non-Projective Dependency Parsing with Non-Local Transitions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Fern√°ndez-Gonz√°lez</SecondName>
+</Author>
+<Author>
+<FirstName>Carlos</FirstName>
+<SecondName>G√≥mez-Rodr√≠guez</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2110">
+<title>
+      Detecting Linguistic Characteristics of Alzheimer‚??s Dementia by
+      Interpreting Neural Models
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sweta</FirstName>
+<SecondName>Karlekar</SecondName>
+</Author>
+<Author>
+<FirstName>Tong</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2111">
+<title>
+      Deep Dungeons and Dragons: Learning Character-Action Interactions from
+      Role-Playing Game Transcripts
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Annie</FirstName>
+<SecondName>Louis</SecondName>
+</Author>
+<Author>
+<FirstName>Charles</FirstName>
+<SecondName>Sutton</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2112">
+<title>Feudal Reinforcement Learning for Dialogue Management in Large Domains</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>I√±igo</FirstName>
+<SecondName>Casanueva</SecondName>
+</Author>
+<Author>
+<FirstName>Pawe≈?</FirstName>
+<SecondName>Budzianowski</SecondName>
+</Author>
+<Author>
+<FirstName>Pei-Hao</FirstName>
+<SecondName>Su</SecondName>
+</Author>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Ultes</SecondName>
+</Author>
+<Author>
+<FirstName>Lina</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Bo-Hsiang</FirstName>
+<SecondName>Tseng</SecondName>
+</Author>
+<Author>
+<FirstName>Milica</FirstName>
+<SecondName>Gasic</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2113">
+<title>Evaluating Historical Text Normalization Systems: How Well Do They Generalize?</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Alexander</FirstName>
+<SecondName>Robertson</SecondName>
+</Author>
+<Author>
+<FirstName>Sharon</FirstName>
+<SecondName>Goldwater</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2114">
+<title>Gated Multi-Task Network for Text Classification</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Liqiang</FirstName>
+<SecondName>Xiao</SecondName>
+</Author>
+<Author>
+<FirstName>Honglun</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+<Author>
+<FirstName>Wenqing</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2115">
+<title>Natural Language to Structured Query Generation via Meta-Learning</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Natural</FirstName>
+<SecondName>Language</SecondName>
+</Author>
+<Author>
+<FirstName>Po-Sen</FirstName>
+<SecondName>Huang</SecondName>
+</Author>
+<Author>
+<FirstName>Chenglong</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Rishabh</FirstName>
+<SecondName>Singh</SecondName>
+</Author>
+<Author>
+<FirstName>Wen-tau</FirstName>
+<SecondName>Yih</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaodong</FirstName>
+<SecondName>He</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2116">
+<title>Smaller Text Classifiers with Discriminative Cluster Embeddings</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mingda</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Gimpel</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2117">
+<title>Role-specific Language Models for Processing Recorded Neuropsychological Exams</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Tuka</FirstName>
+<SecondName>Al</SecondName>
+</Author>
+<Author>
+<FirstName>Rhoda</FirstName>
+<SecondName>Au</SecondName>
+</Author>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2118">
+<title>Slot-Gated Modeling for Joint Slot Filling and Intent Prediction</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chih-Wen</FirstName>
+<SecondName>Goo</SecondName>
+</Author>
+<Author>
+<FirstName>Guang</FirstName>
+<SecondName>Gao</SecondName>
+</Author>
+<Author>
+<FirstName>Yun-Kai</FirstName>
+<SecondName>Hsu</SecondName>
+</Author>
+<Author>
+<FirstName>Chih-Li</FirstName>
+<SecondName>Huo</SecondName>
+</Author>
+<Author>
+<FirstName>Tsung-Chieh</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Keng-Wei</FirstName>
+<SecondName>Hsu</SecondName>
+</Author>
+<Author>
+<FirstName>Yun-Nung</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2119">
+<title>
+      An Evaluation of Image-Based Verb Prediction Models against Human
+      Eye-Tracking Data
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Spandana</FirstName>
+<SecondName>Gella</SecondName>
+</Author>
+<Author>
+<FirstName>Frank</FirstName>
+<SecondName>Keller</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2120">
+<title>Learning to Color from Language</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Varun</FirstName>
+<SecondName>Manjunatha</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Iyyer</SecondName>
+</Author>
+<Author>
+<FirstName>Jordan</FirstName>
+<SecondName>Boyd-Graber</SecondName>
+</Author>
+<Author>
+<FirstName>Larry</FirstName>
+<SecondName>Davis</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2121">
+<title>Punny Captions: Witty Wordplay in Image Descriptions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Punny</FirstName>
+<SecondName>Captions:</SecondName>
+</Author>
+<Author>
+<FirstName>Arjun</FirstName>
+<SecondName>Chandrasekaran</SecondName>
+</Author>
+<Author>
+<FirstName>Devi</FirstName>
+<SecondName>Parikh</SecondName>
+</Author>
+<Author>
+<FirstName>Mohit</FirstName>
+<SecondName>Bansal</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2122">
+<title>
+      The Emergence of Semantics in Neural Network Representations of Visual
+      Information
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>
+</FirstName>
+<SecondName></SecondName>
+</Author>
+<Author>
+<FirstName>Dhanush</FirstName>
+<SecondName>Dharmaretnam</SecondName>
+</Author>
+<Author>
+<FirstName>Alona</FirstName>
+<SecondName>Fyshe</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2123">
+<title>Visual Referring Expression Recognition: What Do Systems Actually Learn?</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Volkan</FirstName>
+<SecondName>Cirik</SecondName>
+</Author>
+<Author>
+<FirstName>Louis-Philippe</FirstName>
+<SecondName>Morency</SecondName>
+</Author>
+<Author>
+<FirstName>Taylor</FirstName>
+<SecondName>Berg-Kirkpatrick</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2124">
+<title>Visually Guided Spatial Relation Extraction from Text</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Taher</FirstName>
+<SecondName>Rahgooy</SecondName>
+</Author>
+<Author>
+<FirstName>Umar</FirstName>
+<SecondName>Manzoor</SecondName>
+</Author>
+<Author>
+<FirstName>Parisa</FirstName>
+<SecondName>Kordjamshidi</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+<Paper id ="N18-2125">
+<title>
+      Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal
+      Attentions for Video Captioning
+    </title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Xin</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>Yuan-Fang</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Yang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2018</Year>
+</Paper>
+
+
+
+
+

@@ -1,0 +1,1698 @@
+<Paper id ="N03-1001">
+<title>Effective Utterance Classification with Unsupervised Phonotactic Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiyan</FirstName>
+<SecondName>Alshawi</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1002">
+<title>Japanese Named Entity Extraction with Redundant Morphological Analysis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Masayuki</FirstName>
+<SecondName>Asahara</SecondName>
+</Author>
+<Author>
+<FirstName>Yuji</FirstName>
+<SecondName>Matsumoto</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1003">
+<title>Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence Alignment</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Regina</FirstName>
+<SecondName>Barzilay</SecondName>
+</Author>
+<Author>
+<FirstName>Lillian</FirstName>
+<SecondName>Lee</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1004">
+<title>In Question Answering, Two Heads Are Better Than One</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jennifer</FirstName>
+<SecondName>Chu-Carroll</SecondName>
+</Author>
+<Author>
+<FirstName>Krzysztof</FirstName>
+<SecondName>Czuba</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Prager</SecondName>
+</Author>
+<Author>
+<FirstName>Abraham</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1005">
+<title>Automatic Acquisition of Names Using Speak and Spell Mode in Spoken Dialogue Systems</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Grace</FirstName>
+<SecondName>Chung</SecondName>
+</Author>
+<Author>
+<FirstName>Stephanie</FirstName>
+<SecondName>Seneff</SecondName>
+</Author>
+<Author>
+<FirstName>Chao</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1006">
+<title>Minimally Supervised Induction of Grammatical Gender</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Silviu</FirstName>
+<SecondName>Cucerzan</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1007">
+<title>An Analysis of Clarification Dialogue for Question Answering</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Marco</FirstName>
+<SecondName>De</SecondName>
+</Author>
+<Author>
+<FirstName>Suresh</FirstName>
+<SecondName>Manandhar</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1008">
+<title>Latent Semantic Information in Maximum Entropy Language Models for Conversational Speech Recognition</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Yonggang</FirstName>
+<SecondName>Deng</SecondName>
+</Author>
+<Author>
+<FirstName>Sanjeev</FirstName>
+<SecondName>Khudanpur</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1009">
+<title>Simpler and More General Minimization for Weighted Finite-State Automata</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jason</FirstName>
+<SecondName>Eisner</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1010">
+<title>Greedy Decoding for Statistical Machine Translation in Almost Linear Time</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ulrich</FirstName>
+<SecondName>Germann</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1011">
+<title>Learning Semantic Constraints for the Automatic Discovery of Part-Whole Relations</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Roxana</FirstName>
+<SecondName>Girju</SecondName>
+</Author>
+<Author>
+<FirstName>Adriana</FirstName>
+<SecondName>Badulescu</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Moldovan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1012">
+<title>Semantic Coherence Scoring Using an Ontology</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Iryna</FirstName>
+<SecondName>Gurevych</SecondName>
+</Author>
+<Author>
+<FirstName>Rainer</FirstName>
+<SecondName>Malaka</SecondName>
+</Author>
+<Author>
+<FirstName>Robert</FirstName>
+<SecondName>Porzel</SecondName>
+</Author>
+<Author>
+<FirstName>Hans-Peter</FirstName>
+<SecondName>Zorn</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1013">
+<title>A Categorial Variation Database for English</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Nizar</FirstName>
+<SecondName>Habash</SecondName>
+</Author>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Dorr</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1014">
+<title>Inducing History Representations for Broad Coverage Statistical Parsing</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>James</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1015">
+<title>Word Sense Acquisition from Bilingual Comparable Corpora</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hiroyuki</FirstName>
+<SecondName>Kaji</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1016">
+<title>A* Parsing: Fast Exact Viterbi Parse Selection</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1017">
+<title>Statistical Phrase-Based Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Philipp</FirstName>
+<SecondName>Koehn</SecondName>
+</Author>
+<Author>
+<FirstName>Franz</FirstName>
+<SecondName>J.</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1018">
+<title>A Generative Probabilistic OCR Model for NLP Applications</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Okan</FirstName>
+<SecondName>Kolak</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1019">
+<title>A Weighted Finite State Transducer Implementation of the Alignment Template Model for Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shankar</FirstName>
+<SecondName>Kumar</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1020">
+<title>Automatic Evaluation of Summaries Using N-gram Co-occurrence Statistics</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Chin-Yew</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1021">
+<title>Multitext Grammars and Synchronous Parsers</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Dan</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1022">
+<title>COGEX: A Logic Prover for Question Answering</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Moldovan</SecondName>
+</Author>
+<Author>
+<FirstName>Christine</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Sanda</FirstName>
+<SecondName>Harabagiu</SecondName>
+</Author>
+<Author>
+<FirstName>Steve</FirstName>
+<SecondName>Maiorano</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1023">
+<title>Weakly Supervised Natural Language Learning Without Redundant Views</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Vincent</FirstName>
+<SecondName>Ng</SecondName>
+</Author>
+<Author>
+<FirstName>Claire</FirstName>
+<SecondName>Cardie</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1024">
+<title>Syntax-based Alignment of Multiple Translations: Extracting Paraphrases and Generating New Sentences</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Bo</FirstName>
+<SecondName>Pang</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1025">
+<title>Language and Task Independent Text Categorization with Simple Language Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fuchun</FirstName>
+<SecondName>Peng</SecondName>
+</Author>
+<Author>
+<FirstName>Dale</FirstName>
+<SecondName>Schuurmans</SecondName>
+</Author>
+<Author>
+<FirstName>Shaojun</FirstName>
+<SecondName>Wang</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1026">
+<title>Statistical Sentence Condensation using Ambiguity Packing and Stochastic Disambiguation Methods for Lexical-Functional Grammar</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Stefan</FirstName>
+<SecondName>Riezler</SecondName>
+</Author>
+<Author>
+<FirstName>Tracy</FirstName>
+<SecondName>H.</SecondName>
+</Author>
+<Author>
+<FirstName>Richard</FirstName>
+<SecondName>Crouch</SecondName>
+</Author>
+<Author>
+<FirstName>Annie</FirstName>
+<SecondName>Zaenen</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1027">
+<title>Supervised and unsupervised PCFG adaptation to novel domains</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Brian</FirstName>
+<SecondName>Roark</SecondName>
+</Author>
+<Author>
+<FirstName>Michiel</FirstName>
+<SecondName>Bacchiani</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1028">
+<title>Shallow Parsing with Conditional Random Fields</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Sha</SecondName>
+</Author>
+<Author>
+<FirstName>Fernando</FirstName>
+<SecondName>Pereira</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1029">
+<title>Comma Restoration Using Constituency Information</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Stuart</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+<Author>
+<FirstName>Xiaopeng</FirstName>
+<SecondName>Tao</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1030">
+<title>Sentence Level Discourse Parsing using Syntactic and Lexical Information</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Radu</FirstName>
+<SecondName>Soricut</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1031">
+<title>Example Selection for Bootstrapping Statistical Parsers</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Mark</FirstName>
+<SecondName>Steedman</SecondName>
+</Author>
+<Author>
+<FirstName>Rebecca</FirstName>
+<SecondName>Hwa</SecondName>
+</Author>
+<Author>
+<FirstName>Stephen</FirstName>
+<SecondName>Clark</SecondName>
+</Author>
+<Author>
+<FirstName>Miles</FirstName>
+<SecondName>Osborne</SecondName>
+</Author>
+<Author>
+<FirstName>Anoop</FirstName>
+<SecondName>Sarkar</SecondName>
+</Author>
+<Author>
+<FirstName>Julia</FirstName>
+<SecondName>Hockenmaier</SecondName>
+</Author>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>Ruhlen</SecondName>
+</Author>
+<Author>
+<FirstName>Steven</FirstName>
+<SecondName>Baker</SecondName>
+</Author>
+<Author>
+<FirstName>Jeremiah</FirstName>
+<SecondName>Crim</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1032">
+<title>Frequency Estimates for Statistical Word Similarity Measures</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Egidio</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+<Author>
+<FirstName>Charles</FirstName>
+<SecondName>L.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1033">
+<title>Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kristina</FirstName>
+<SecondName>Toutanova</SecondName>
+</Author>
+<Author>
+<FirstName>Dan</FirstName>
+<SecondName>Klein</SecondName>
+</Author>
+<Author>
+<FirstName>Christopher</FirstName>
+<SecondName>D.</SecondName>
+</Author>
+<Author>
+<FirstName>Yoram</FirstName>
+<SecondName>Singer</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1034">
+<title>Evaluating the Evaluation: A Case Study Using the TREC 2002 Question Answering Track</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1035">
+<title>Toward a Task-based Gold Standard for Evaluation of NP Chunks and Technical Terms</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Nina</FirstName>
+<SecondName>Wacholder</SecondName>
+</Author>
+<Author>
+<FirstName>Peng</FirstName>
+<SecondName>Song</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1036">
+<title>Unsupervised methods for developing taxonomies by combining syntactic and statistical information</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dominic</FirstName>
+<SecondName>Widdows</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-1037">
+<title>A Web-Trained Extraction Summarization System</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Liang</FirstName>
+<SecondName>Zhou</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>long</type>
+<Year>2003</Year>
+</Paper>
+
+
+<Paper id ="N03-2001">
+<title>Automating XML markup of text documents</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shazia</FirstName>
+<SecondName>Akhtar</SecondName>
+</Author>
+<Author>
+<FirstName>Ronan</FirstName>
+<SecondName>G.</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Dunnion</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2002">
+<title>Factored Language Models and Generalized Parallel Backoff</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jeff</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+<Author>
+<FirstName>Katrin</FirstName>
+<SecondName>Kirchhoff</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2003">
+<title>Getting More Mileage from Web Text Sources for Conversational Speech Language Modeling using Class-Dependent Mixtures</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ivan</FirstName>
+<SecondName>Bulyko</SecondName>
+</Author>
+<Author>
+<FirstName>Mari</FirstName>
+<SecondName>Ostendorf</SecondName>
+</Author>
+<Author>
+<FirstName>Andreas</FirstName>
+<SecondName>Stolcke</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2004">
+<title>Exploiting Diversity for Answering Questions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Burger</SecondName>
+</Author>
+<Author>
+<FirstName>John</FirstName>
+<SecondName>Henderson</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2005">
+<title>Story Link Detection and New Event Detection are Asymmetric</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Francine</FirstName>
+<SecondName>Chen</SecondName>
+</Author>
+<Author>
+<FirstName>Ayman</FirstName>
+<SecondName>Farahat</SecondName>
+</Author>
+<Author>
+<FirstName>Thorsten</FirstName>
+<SecondName>Brants</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2006">
+<title>Adaptation Using Out-of-Domain Corpus within EBMT</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Takao</FirstName>
+<SecondName>Doi</SecondName>
+</Author>
+<Author>
+<FirstName>Eiichiro</FirstName>
+<SecondName>Sumita</SecondName>
+</Author>
+<Author>
+<FirstName>Hirofumi</FirstName>
+<SecondName>Yamamoto</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2007">
+<title>Active Learning for Classifying Phone Sequences from Unsupervised Phonotactic Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Shona</FirstName>
+<SecondName>Douglas</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2008">
+<title>A Maximum Entropy Approach to FrameNet Tagging</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Fleischman</SecondName>
+</Author>
+<Author>
+<FirstName>Eduard</FirstName>
+<SecondName>Hovy</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2009">
+<title>Target Word Detection and Semantic Role Chunking using Support Vector Machines</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kadri</FirstName>
+<SecondName>Hacioglu</SecondName>
+</Author>
+<Author>
+<FirstName>Wayne</FirstName>
+<SecondName>Ward</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2010">
+<title>Question Classification with Support Vector Machines and Error Correcting Codes</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kadri</FirstName>
+<SecondName>Hacioglu</SecondName>
+</Author>
+<Author>
+<FirstName>Wayne</FirstName>
+<SecondName>Ward</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2003">
+<title>Rhetorical Parsing with Underspecification and Forests</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Thomas</FirstName>
+<SecondName>Hanneforth</SecondName>
+</Author>
+<Author>
+<FirstName>Silvan</FirstName>
+<SecondName>Heintze</SecondName>
+</Author>
+<Author>
+<FirstName>Manfred</FirstName>
+<SecondName>Stede</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2012">
+<title>Detection Of Agreement vs. Disagreement In Meetings: Training With Unlabeled Data</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dustin</FirstName>
+<SecondName>Hillard</SecondName>
+</Author>
+<Author>
+<FirstName>Mari</FirstName>
+<SecondName>Ostendorf</SecondName>
+</Author>
+<Author>
+<FirstName>Elizabeth</FirstName>
+<SecondName>Shriberg</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2013">
+<title>Automatic Expansion of Equivalent Sentence Set Based on Syntactic Substitution</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Kenji</FirstName>
+<SecondName>Imamura</SecondName>
+</Author>
+<Author>
+<FirstName>Yasuhiro</FirstName>
+<SecondName>Akiba</SecondName>
+</Author>
+<Author>
+<FirstName>Eiichiro</FirstName>
+<SecondName>Sumita</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2014">
+<title>Identifying and Tracking Entity Mentions in a Maximum Entropy Framework</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Abraham</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+<Author>
+<FirstName>Lucian</FirstName>
+<SecondName>Lita</SecondName>
+</Author>
+<Author>
+<FirstName>Nanda</FirstName>
+<SecondName>Kambhatla</SecondName>
+</Author>
+<Author>
+<FirstName>Nicolas</FirstName>
+<SecondName>Nicolov</SecondName>
+</Author>
+<Author>
+<FirstName>Salim</FirstName>
+<SecondName>Roukos</SecondName>
+</Author>
+<Author>
+<FirstName>Margo</FirstName>
+<SecondName>Stys</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2015">
+<title>Unsupervised Learning of Morphology for English and Inuktitut</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Howard</FirstName>
+<SecondName>Johnson</SecondName>
+</Author>
+<Author>
+<FirstName>Joel</FirstName>
+<SecondName>Martin</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2016">
+<title>Cognates Can Improve Statistical Translation Models</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Grzegorz</FirstName>
+<SecondName>Kondrak</SecondName>
+</Author>
+<Author>
+<FirstName>Daniel</FirstName>
+<SecondName>Marcu</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2017">
+<title>Word Alignment with Cohesion Constraint</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Dekang</FirstName>
+<SecondName>Lin</SecondName>
+</Author>
+<Author>
+<FirstName>Colin</FirstName>
+<SecondName>Cherry</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2018">
+<title>Towards Emotion Prediction in Spoken Tutoring Dialogues</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Diane</FirstName>
+<SecondName>Litman</SecondName>
+</Author>
+<Author>
+<FirstName>Kate</FirstName>
+<SecondName>Forbes</SecondName>
+</Author>
+<Author>
+<FirstName>Scott</FirstName>
+<SecondName>Silliman</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2019">
+<title>Inferring Temporal Ordering of Events in News</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Inderjeet</FirstName>
+<SecondName>Mani</SecondName>
+</Author>
+<Author>
+<FirstName>Barry</FirstName>
+<SecondName>Schiffman</SecondName>
+</Author>
+<Author>
+<FirstName>Jianping</FirstName>
+<SecondName>Zhang</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2020">
+<title>A Robust Retrieval Engine for Proximal and Structural Search</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Katsuya</FirstName>
+<SecondName>Masuda</SecondName>
+</Author>
+<Author>
+<FirstName>Takashi</FirstName>
+<SecondName>Ninomiya</SecondName>
+</Author>
+<Author>
+<FirstName>Yusuke</FirstName>
+<SecondName>Miyao</SecondName>
+</Author>
+<Author>
+<FirstName>Tomoko</FirstName>
+<SecondName>Ohta</SecondName>
+</Author>
+<Author>
+<FirstName>Jun'ichi</FirstName>
+<SecondName>Tsujii</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2021">
+<title>Precision and Recall of Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>I.</FirstName>
+<SecondName>Dan</SecondName>
+</Author>
+<Author>
+<FirstName>Ryan</FirstName>
+<SecondName>Green</SecondName>
+</Author>
+<Author>
+<FirstName>Joseph</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2022">
+<title>Semantic Extraction with Wide-Coverage Lexical Resources</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Behrang</FirstName>
+<SecondName>Mohit</SecondName>
+</Author>
+<Author>
+<FirstName>Srini</FirstName>
+<SecondName>Narayanan</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2023">
+<title>Category-based Pseudowords</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Preslav</FirstName>
+<SecondName>I.</SecondName>
+</Author>
+<Author>
+<FirstName>Marti</FirstName>
+<SecondName>A.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2024">
+<title>References to Named Entities: a Corpus Study</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ani</FirstName>
+<SecondName>Nenkova</SecondName>
+</Author>
+<Author>
+<FirstName>Kathleen</FirstName>
+<SecondName>McKeown</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2025">
+<title>Bootstrapping for Named Entity Tagging Using Concept-based Seeds</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Cheng</FirstName>
+<SecondName>Niu</SecondName>
+</Author>
+<Author>
+<FirstName>Wei</FirstName>
+<SecondName>Li</SecondName>
+</Author>
+<Author>
+<FirstName>Jihong</FirstName>
+<SecondName>Ding</SecondName>
+</Author>
+<Author>
+<FirstName>Rohini</FirstName>
+<SecondName>K.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2026">
+<title>Desparately Seeking Cebuano</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>W.</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Doermann</SecondName>
+</Author>
+<Author>
+<FirstName>Bonnie</FirstName>
+<SecondName>Dorr</SecondName>
+</Author>
+<Author>
+<FirstName>Daqing</FirstName>
+<SecondName>He</SecondName>
+</Author>
+<Author>
+<FirstName>Philip</FirstName>
+<SecondName>Resnik</SecondName>
+</Author>
+<Author>
+<FirstName>Amy</FirstName>
+<SecondName>Weinberg</SecondName>
+</Author>
+<Author>
+<FirstName>William</FirstName>
+<SecondName>Byrne</SecondName>
+</Author>
+<Author>
+<FirstName>Sanjeev</FirstName>
+<SecondName>Khudanpur</SecondName>
+</Author>
+<Author>
+<FirstName>David</FirstName>
+<SecondName>Yarowsky</SecondName>
+</Author>
+<Author>
+<FirstName>Anton</FirstName>
+<SecondName>Leuski</SecondName>
+</Author>
+<Author>
+<FirstName>Philipp</FirstName>
+<SecondName>Koehn</SecondName>
+</Author>
+<Author>
+<FirstName>Kevin</FirstName>
+<SecondName>Knight</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2027">
+<title>Bayesian Nets for Syntactic Categorization of Novel Words</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Leonid</FirstName>
+<SecondName>Peshkin</SecondName>
+</Author>
+<Author>
+<FirstName>Avi</FirstName>
+<SecondName>Pfeffer</SecondName>
+</Author>
+<Author>
+<FirstName>Virginia</FirstName>
+<SecondName>Savova</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2028">
+<title>LM Studies on Filled Pauses in Spontaneous Medical Dictation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Jochen</FirstName>
+<SecondName>Peters</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2029">
+<title>Automatic Derivation of Surface Text Patterns for a Maximum Entropy Based Question Answering System</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Deepak</FirstName>
+<SecondName>Ravichandran</SecondName>
+</Author>
+<Author>
+<FirstName>Abraham</FirstName>
+<SecondName>Ittycheriah</SecondName>
+</Author>
+<Author>
+<FirstName>Salim</FirstName>
+<SecondName>Roukos</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2030">
+<title>A Hybrid Approach to Content Analysis for Automatic Essay Grading</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Carolyn</FirstName>
+<SecondName>P.</SecondName>
+</Author>
+<Author>
+<FirstName>Antonio</FirstName>
+<SecondName>Roque</SecondName>
+</Author>
+<Author>
+<FirstName>Dumisizwe</FirstName>
+<SecondName>Bhembe</SecondName>
+</Author>
+<Author>
+<FirstName>Kurt</FirstName>
+<SecondName>VanLehn</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2031">
+<title>Auditory-based Acoustic Distinctive Features and Spectral Cues for Robust Automatic Speech Recognition in Low-SNR Car Environments</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Sid-Ahmed</FirstName>
+<SecondName>Selouani</SecondName>
+</Author>
+<Author>
+<FirstName>Hesham</FirstName>
+<SecondName>Tolba</SecondName>
+</Author>
+<Author>
+<FirstName>Douglas</FirstName>
+<SecondName>O'Shaughnessy</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2032">
+<title>Latent Semantic Analysis for Dialogue Act Classification</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Riccardo</FirstName>
+<SecondName>Serafin</SecondName>
+</Author>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Di</SecondName>
+</Author>
+<Author>
+<FirstName>Michael</FirstName>
+<SecondName>Glass</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2033">
+<title>Automatically Predicting Information Quality in News Documents</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Rong</FirstName>
+<SecondName>Tang</SecondName>
+</Author>
+<Author>
+<FirstName>Kwong</FirstName>
+<SecondName>Bor</SecondName>
+</Author>
+<Author>
+<FirstName>Tomek</FirstName>
+<SecondName>Strzalkowski</SecondName>
+</Author>
+<Author>
+<FirstName>Paul</FirstName>
+<SecondName>B.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2034">
+<title>Building lexical semantic representations for Natural Language instructions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Elena</FirstName>
+<SecondName>Terenzi</SecondName>
+</Author>
+<Author>
+<FirstName>Barbara</FirstName>
+<SecondName>Di</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2035">
+<title>A Context-Sensitive Homograph Disambiguation in Thai Text-to-Speech Synthesis</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Virongrong</FirstName>
+<SecondName>Tesprasit</SecondName>
+</Author>
+<Author>
+<FirstName>Paisarn</FirstName>
+<SecondName>Charoenpornsawat</SecondName>
+</Author>
+<Author>
+<FirstName>Virach</FirstName>
+<SecondName>Sortlertlamvanich</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2036">
+<title>A Phrase-based Unigram Model for Statistical Machine Translation</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Christoph</FirstName>
+<SecondName>Tillmann</SecondName>
+</Author>
+<Author>
+<FirstName>Fei</FirstName>
+<SecondName>Xia</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2037">
+<title>Evaluating Answers to Definition Questions</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Ellen</FirstName>
+<SecondName>M.</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
+
+
+
+
+<Paper id ="N03-2038">
+<title>Implicit Trajectory Modeling through Gaussian Transition Models for Speech Recognition</title>
+<Venue> NAACL </venue>
+<Authors>
+<Author>
+<FirstName>Hua</FirstName>
+<SecondName>Yu</SecondName>
+</Author>
+<Author>
+<FirstName>Tanja</FirstName>
+<SecondName>Schultz</SecondName>
+</Author>
+</Authors>
+<type>short</type>
+<Year>2003</Year>
+</Paper>
