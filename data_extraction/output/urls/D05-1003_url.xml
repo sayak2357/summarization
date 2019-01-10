@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<UniformResourceLocator>
+	<URL>
+		<url>http://www.itl.nist.gov/iad/894.01/tests/ace/</url>
+		<url>http://www.ldc.upenn.edu/Projects/ACE/</url>
+		<url>http://www.ldc.upenn.edu/Projects/ACE/docs/Eng-</url>
+	</URL>
+</UniformResourceLocator>

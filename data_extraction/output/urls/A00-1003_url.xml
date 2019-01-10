@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<UniformResourceLocator>
+	<URL>
+		<url>http://www.clis.umd.edu/dlrg/filter/sss/papers</url>
+		<url>http://trec.nist.gov/pubs/trec4/t4_proceedings.html</url>
+	</URL>
+</UniformResourceLocator>
