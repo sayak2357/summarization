@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Tables_Figures>
+	<Tables>
+		<table>Table 2: Event Ontology </table>
+		<table>Table 3: Evaluation Results </table>
+		<table>Table 4: Top-performing Event Types </table>
+		<table>Table 5: Comparative results with and without co-reference rules </table>
+	</Tables>
+	<Figures>
+		<figure>Figure 1: Example of Relation Template </figure>
+		<figure>Figure 2 shows an Attack Target event template for the sentence &quot;an Iraqi warplane attacked the frigate Stark with missiles May 17, 1987. &quot; </figure>
+		<figure>Figure 2: Example of Event Template </figure>
+		<figure>Figure 3 illustrates the REES system architecture. REES consists of three main components: a tagging component (cf. Section 2.1), a co-reference resolution module (cf. Section 2.2), and a template generation module (cf. Section 2.3). Figure 3 also illustrates that the user may run REES from a Graphical User Interface (GUI) called TemplateTool (cf. Section 2.4). </figure>
+		<figure>Figure 3: The REES System Architecture </figure>
+		<figure>Figure 4: TemplateTool </figure>
+	</Figures>
+</Tables_Figures>

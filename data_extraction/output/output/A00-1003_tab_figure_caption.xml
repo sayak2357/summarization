@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<Tables_Figures>
+	<Tables>
+		<table>Table 1 illustrates the percentage of monolingual retrieval performance we achieved for the translation tests performed. In this instance, we take the precision performance of the human-translated queries and normalize it to 100%, and adjust the other translation modalities relative to the human baseline. </table>
+	</Tables>
+	<Figures/>
+</Tables_Figures>

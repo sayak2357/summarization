@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Tables_Figures>
+	<Tables/>
+	<Figures>
+		<figure>Figure 1: Design of the Tree Transduction Module </figure>
+		<figure>Figure 2: DSyntS (Graphical and ASCII Notation) </figure>
+		<figure>Figure 3 illustrates the mapping between an interlingua defined as a ConcS and a corresponding English DSyntS. This example, also taken from MeteoCogent, illustrates that the conceptual interlingua in NLG can be closer to a database representation of domain data than to its linguistic representations. </figure>
+		<figure>Figure 3: ConcS Interlingua and English DSyntS </figure>
+		<figure>Figure 4: Specification of Lexeme SELL </figure>
+		<figure>Figure 5: Specification of Concept #TEMPERATURE </figure>
+		<figure>Figure 6: Deep-Syntactic Rule for Determiner Insertion </figure>
+		<figure>Figure 7: Lexico-Structural Transfer of English Lexerne MOVE to French </figure>
+		<figure>Figure 8: English to French Lexico-Structural Transfer Rule with Verb Modifier ALMOST </figure>
+		<figure>Figure 9 shows how different instantiations of the tree transduction module can be combined to </figure>
+		<figure>Figure 9: Scope of the Framework's Transformations </figure>
+	</Figures>
+</Tables_Figures>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Tables_Figures>
+	<Tables>
+		<table>Table 1: CLIR results. </table>
+	</Tables>
+	<Figures>
+		<figure>Figure 1: The workflow of the mining process. </figure>
+		<figure>Figure 2: An alignment example using pure length-based method. </figure>
+		<figure>Figure 3: An alignment example considering cognates. </figure>
+		<figure>Figure 4: Part of the evaluation lexicons. </figure>
+		<figure>Figure 5: Effect of stop lists in C-E translation. </figure>
+	</Figures>
+</Tables_Figures>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Tables_Figures>
+	<Tables>
+		<table>Table 1 shows that there is a difference in how expressions should be made more polite ac- cording to the type, and that many polite ex- pressions can be translated by using only local information, i.e., transfer rules and dictionary entries. In the next section, we describe how to incorporate the information on dialogue partic- ipants, such as roles and genders, into transfer rules and dictionary entries in a dialogue trans- lation system. </table>
+		<table>Table 1: Examples of polite expressions Type: verb, title Eng: How will you be paying, Mr. Suzuki Standard: donoyouni shiharaimasu-ka suzuki-san Polite: donoyouni o_shiharaininarimasu-ka suzuki-sama </table>
+		<table>Table 2: The number of utterances to be changed or not </table>
+		<table>Table 3: Evaluation on using the speaker's role </table>
+	</Tables>
+	<Figures>
+		<figure>Figure 1: Transfer rule format </figure>
+		<figure>Figure 2: Transfer rule example </figure>
+		<figure>Figure 5: Transfer rule format with information on dialogue participants </figure>
+		<figure>Figure 6: Dictionary format with information on dialogue participants </figure>
+		<figure>Figure 3: Transfer dictionary format </figure>
+		<figure>Figure 4: Transfer dictionary example </figure>
+		<figure>Figure 7: Transfer rule example with the par- ticipant's gender </figure>
+		<figure>Figure 8: Transfer rule example with a partici- pant's role </figure>
+		<figure>Figure 9: Transfer dictionary example with a speaker's role </figure>
+	</Figures>
+</Tables_Figures>
